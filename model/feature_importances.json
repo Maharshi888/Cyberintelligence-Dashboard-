@@ -1,0 +1,310 @@
+[
+  {
+    "feature": "Init_Win_bytes_backward",
+    "importance": 0.05327669399747309
+  },
+  {
+    "feature": "Flow IAT Mean",
+    "importance": 0.03255115789704982
+  },
+  {
+    "feature": "Bwd Packet Length Mean",
+    "importance": 0.032277038641476324
+  },
+  {
+    "feature": "Fwd IAT Mean",
+    "importance": 0.03201128937966874
+  },
+  {
+    "feature": "Flow IAT Max",
+    "importance": 0.028736079888256664
+  },
+  {
+    "feature": "Flow IAT Std",
+    "importance": 0.02867876754329974
+  },
+  {
+    "feature": "Max Packet Length",
+    "importance": 0.02694178255244867
+  },
+  {
+    "feature": "Init_Win_bytes_forward",
+    "importance": 0.026142972763648725
+  },
+  {
+    "feature": "min_seg_size_forward",
+    "importance": 0.025831237600360813
+  },
+  {
+    "feature": "Subflow Fwd Bytes",
+    "importance": 0.02554829994958737
+  },
+  {
+    "feature": "Subflow Bwd Bytes",
+    "importance": 0.0250715715605809
+  },
+  {
+    "feature": "Avg Bwd Segment Size",
+    "importance": 0.024829589992880784
+  },
+  {
+    "feature": "Fwd Packet Length Max",
+    "importance": 0.02479019450718261
+  },
+  {
+    "feature": "Fwd IAT Std",
+    "importance": 0.024138200474602994
+  },
+  {
+    "feature": "Fwd IAT Total",
+    "importance": 0.022479364249211566
+  },
+  {
+    "feature": "Bwd Header Length",
+    "importance": 0.02199925132491773
+  },
+  {
+    "feature": "Total Length of Fwd Packets",
+    "importance": 0.021451795079565236
+  },
+  {
+    "feature": "Fwd IAT Max",
+    "importance": 0.02099182252928467
+  },
+  {
+    "feature": "Fwd IAT Min",
+    "importance": 0.02055100571845796
+  },
+  {
+    "feature": "Total Fwd Packets",
+    "importance": 0.020377136071938588
+  },
+  {
+    "feature": "Bwd Packets/s",
+    "importance": 0.020219973595078943
+  },
+  {
+    "feature": "Flow Duration",
+    "importance": 0.019993461392888722
+  },
+  {
+    "feature": "Packet Length Variance",
+    "importance": 0.018168993545600687
+  },
+  {
+    "feature": "Average Packet Size",
+    "importance": 0.017991930755031027
+  },
+  {
+    "feature": "Bwd Packet Length Max",
+    "importance": 0.0174167990882555
+  },
+  {
+    "feature": "Fwd Packet Length Mean",
+    "importance": 0.0171797084305973
+  },
+  {
+    "feature": "Avg Fwd Segment Size",
+    "importance": 0.01646479589189782
+  },
+  {
+    "feature": "Packet Length Mean",
+    "importance": 0.016193279394039847
+  },
+  {
+    "feature": "Fwd Packet Length Std",
+    "importance": 0.016110124211652133
+  },
+  {
+    "feature": "Bwd Packet Length Min",
+    "importance": 0.01574833914348413
+  },
+  {
+    "feature": "Packet Length Std",
+    "importance": 0.015515611390529722
+  },
+  {
+    "feature": "Total Backward Packets",
+    "importance": 0.015200738216055727
+  },
+  {
+    "feature": "Flow IAT Min",
+    "importance": 0.015052844802382837
+  },
+  {
+    "feature": "Subflow Fwd Packets",
+    "importance": 0.01453033073216757
+  },
+  {
+    "feature": "act_data_pkt_fwd",
+    "importance": 0.01451795222063801
+  },
+  {
+    "feature": "Bwd IAT Min",
+    "importance": 0.014179964004026237
+  },
+  {
+    "feature": "Total Length of Bwd Packets",
+    "importance": 0.013399184412980174
+  },
+  {
+    "feature": "Bwd IAT Total",
+    "importance": 0.01314050370015777
+  },
+  {
+    "feature": "Bwd Packet Length Std",
+    "importance": 0.01271681986846128
+  },
+  {
+    "feature": "Active Min",
+    "importance": 0.01091334760007323
+  },
+  {
+    "feature": "Fwd Header Length.1",
+    "importance": 0.01005369922755454
+  },
+  {
+    "feature": "Bwd IAT Mean",
+    "importance": 0.009959543995638151
+  },
+  {
+    "feature": "Flow Packets/s",
+    "importance": 0.009683534221468781
+  },
+  {
+    "feature": "Subflow Bwd Packets",
+    "importance": 0.009325793560922866
+  },
+  {
+    "feature": "Min Packet Length",
+    "importance": 0.00900180165436998
+  },
+  {
+    "feature": "Flow Bytes/s",
+    "importance": 0.008213712017676516
+  },
+  {
+    "feature": "Fwd Packets/s",
+    "importance": 0.007337385984192887
+  },
+  {
+    "feature": "ACK Flag Count",
+    "importance": 0.007322846374003706
+  },
+  {
+    "feature": "Bwd IAT Max",
+    "importance": 0.007109216132868455
+  },
+  {
+    "feature": "Idle Mean",
+    "importance": 0.00678960655815338
+  },
+  {
+    "feature": "Fwd Header Length",
+    "importance": 0.006775558753843303
+  },
+  {
+    "feature": "Idle Max",
+    "importance": 0.006694959708734924
+  },
+  {
+    "feature": "PSH Flag Count",
+    "importance": 0.006561447546255501
+  },
+  {
+    "feature": "Idle Min",
+    "importance": 0.006478279910904847
+  },
+  {
+    "feature": "Bwd IAT Std",
+    "importance": 0.006289090190444779
+  },
+  {
+    "feature": "Fwd Packet Length Min",
+    "importance": 0.006008254641206841
+  },
+  {
+    "feature": "Active Max",
+    "importance": 0.005866910233411369
+  },
+  {
+    "feature": "Active Mean",
+    "importance": 0.0054744493332570966
+  },
+  {
+    "feature": "URG Flag Count",
+    "importance": 0.0032317339419456253
+  },
+  {
+    "feature": "Down/Up Ratio",
+    "importance": 0.0026667892348857035
+  },
+  {
+    "feature": "SYN Flag Count",
+    "importance": 0.0023041245975810973
+  },
+  {
+    "feature": "Fwd PSH Flags",
+    "importance": 0.0017115891967090673
+  },
+  {
+    "feature": "Idle Std",
+    "importance": 0.0009521330041775279
+  },
+  {
+    "feature": "Active Std",
+    "importance": 0.0005391312591054403
+  },
+  {
+    "feature": "FIN Flag Count",
+    "importance": 0.0003156237967271304
+  },
+  {
+    "feature": "Fwd URG Flags",
+    "importance": 1.6060068779317507e-06
+  },
+  {
+    "feature": "CWE Flag Count",
+    "importance": 1.2247991908135933e-06
+  },
+  {
+    "feature": "RST Flag Count",
+    "importance": 4.842262358650815e-19
+  },
+  {
+    "feature": "ECE Flag Count",
+    "importance": 0.0
+  },
+  {
+    "feature": "Bwd URG Flags",
+    "importance": 0.0
+  },
+  {
+    "feature": "Fwd Avg Packets/Bulk",
+    "importance": 0.0
+  },
+  {
+    "feature": "Bwd Avg Bytes/Bulk",
+    "importance": 0.0
+  },
+  {
+    "feature": "Bwd Avg Packets/Bulk",
+    "importance": 0.0
+  },
+  {
+    "feature": "Bwd Avg Bulk Rate",
+    "importance": 0.0
+  },
+  {
+    "feature": "Fwd Avg Bulk Rate",
+    "importance": 0.0
+  },
+  {
+    "feature": "Fwd Avg Bytes/Bulk",
+    "importance": 0.0
+  },
+  {
+    "feature": "Bwd PSH Flags",
+    "importance": 0.0
+  }
+]

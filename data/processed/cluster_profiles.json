@@ -1,0 +1,243 @@
+{
+  "k": 8,
+  "silhouette_score": 0.4800217913503917,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "size": 40221,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 1584.0,
+        "avg_packets_per_sec": 1730.7,
+        "avg_flow_bytes_per_sec": 7377.49,
+        "avg_packet_size": 55.25,
+        "top_destination_ports": {
+          "53": 16441,
+          "443": 5849,
+          "80": 5328,
+          "123": 280,
+          "22": 277
+        },
+        "tcp_ratio": 0.0481,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 2.0,
+        "avg_bwd_packets": 1.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (40,221 flows). Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Flow Duration": -0.4091,
+        "Fwd IAT Total": -0.4063,
+        "Max Packet Length": -0.3606,
+        "Packet Length Mean": -0.3588,
+        "Packet Length Std": -0.352
+      }
+    },
+    {
+      "cluster_id": 1,
+      "size": 2,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 119997526.5,
+        "avg_packets_per_sec": 3909.95,
+        "avg_flow_bytes_per_sec": 4936612.87,
+        "avg_packet_size": 1263.35,
+        "top_destination_ports": {
+          "80": 2
+        },
+        "tcp_ratio": 0.0,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 199943.5,
+        "avg_bwd_packets": 269240.5
+      },
+      "security_interpretation": "Unknown behaviour cluster (2 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Subflow Bwd Bytes": 157.9953,
+        "Total Length of Bwd Packets": 157.9943,
+        "act_data_pkt_fwd": 157.9069,
+        "Subflow Bwd Packets": 157.8699,
+        "Total Backward Packets": 157.8699
+      }
+    },
+    {
+      "cluster_id": 2,
+      "size": 2926,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 98131830.0,
+        "avg_packets_per_sec": 0.14,
+        "avg_flow_bytes_per_sec": 122.25,
+        "avg_packet_size": 916.31,
+        "top_destination_ports": {
+          "80": 2864,
+          "53": 29,
+          "443": 17,
+          "389": 11,
+          "3268": 5
+        },
+        "tcp_ratio": 0.0,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 7.0,
+        "avg_bwd_packets": 6.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (2,926 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Fwd IAT Std": 3.5937,
+        "Idle Max": 3.3993,
+        "Idle Mean": 3.3828,
+        "Flow IAT Max": 3.3728,
+        "Fwd IAT Max": 3.3681
+      }
+    },
+    {
+      "cluster_id": 3,
+      "size": 1820,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 584125.5,
+        "avg_packets_per_sec": 22.07,
+        "avg_flow_bytes_per_sec": 27629.32,
+        "avg_packet_size": 1292.56,
+        "top_destination_ports": {
+          "80": 1485,
+          "443": 335
+        },
+        "tcp_ratio": 0.0,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 3.0,
+        "avg_bwd_packets": 6.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (1,820 flows). Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Average Packet Size": 3.2862,
+        "Packet Length Mean": 3.2469,
+        "Bwd Packet Length Mean": 2.9711,
+        "Avg Bwd Segment Size": 2.9711,
+        "Packet Length Variance": 2.9637
+      }
+    },
+    {
+      "cluster_id": 4,
+      "size": 398,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 72691702.0,
+        "avg_packets_per_sec": 0.23,
+        "avg_flow_bytes_per_sec": 177.21,
+        "avg_packet_size": 921.92,
+        "top_destination_ports": {
+          "443": 22,
+          "80": 9,
+          "55232": 2,
+          "60260": 2,
+          "54545": 1
+        },
+        "tcp_ratio": 0.0955,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 6.5,
+        "avg_bwd_packets": 7.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (398 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Avg Fwd Segment Size": 9.7591,
+        "Fwd Packet Length Mean": 9.7591,
+        "Fwd Packet Length Std": 9.2243,
+        "Fwd Packet Length Max": 8.8239,
+        "Max Packet Length": 2.7568
+      }
+    },
+    {
+      "cluster_id": 5,
+      "size": 1,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 2918570.0,
+        "avg_packets_per_sec": 86.34,
+        "avg_flow_bytes_per_sec": 5797.36,
+        "avg_packet_size": 67.41,
+        "top_destination_ports": {
+          "137": 1
+        },
+        "tcp_ratio": 0.0,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 252.0,
+        "avg_bwd_packets": 0.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (1 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Fwd Header Length.1": -223.6016,
+        "Fwd Header Length": -223.6016,
+        "min_seg_size_forward": -220.9218,
+        "Min Packet Length": 1.3019,
+        "Down/Up Ratio": -0.929
+      }
+    },
+    {
+      "cluster_id": 6,
+      "size": 580,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 68602747.5,
+        "avg_packets_per_sec": 0.05,
+        "avg_flow_bytes_per_sec": 3.34,
+        "avg_packet_size": 85.5,
+        "top_destination_ports": {
+          "53": 370,
+          "123": 97,
+          "80": 56,
+          "443": 54,
+          "444": 1
+        },
+        "tcp_ratio": 0.0914,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 2.0,
+        "avg_bwd_packets": 2.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (580 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Fwd IAT Min": 8.6378,
+        "Fwd IAT Mean": 7.6699,
+        "Bwd IAT Min": 7.6185,
+        "Bwd IAT Mean": 7.0698,
+        "Flow IAT Mean": 6.7566
+      }
+    },
+    {
+      "cluster_id": 7,
+      "size": 4051,
+      "dominant_attack": "Unknown",
+      "label_breakdown": {},
+      "network_profile": {
+        "avg_duration_us": 112009725.0,
+        "avg_packets_per_sec": 0.38,
+        "avg_flow_bytes_per_sec": 74.0,
+        "avg_packet_size": 195.23,
+        "top_destination_ports": {
+          "443": 2579,
+          "80": 1287,
+          "53": 73,
+          "3268": 27,
+          "0": 25
+        },
+        "tcp_ratio": 0.0617,
+        "dominant_protocol": "Mixed/UDP",
+        "avg_fwd_packets": 17.0,
+        "avg_bwd_packets": 16.0
+      },
+      "security_interpretation": "Unknown behaviour cluster (4,051 flows). Long-duration flows \u2014 possible slow attack or session hijack. Dominant protocol: Mixed/UDP.",
+      "centroid_top_features": {
+        "Bwd IAT Total": 2.529,
+        "Flow Duration": 2.1844,
+        "Fwd IAT Total": 2.1588,
+        "Active Max": 1.2704,
+        "PSH Flag Count": 1.2697
+      }
+    }
+  ]
+}

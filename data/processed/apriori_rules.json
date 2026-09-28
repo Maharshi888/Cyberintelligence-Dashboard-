@@ -1,0 +1,1338 @@
+[
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "PORT=DNS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.693,
+    "lift": 7.3304
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.9584,
+    "lift": 7.3304
+  },
+  {
+    "antecedent": [
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.784,
+    "lift": 7.2051
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.8327,
+    "lift": 7.2051
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PORT=DNS"
+    ],
+    "support": 0.1155,
+    "confidence": 0.8832,
+    "lift": 7.0747
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.1155,
+    "confidence": 0.925,
+    "lift": 7.0747
+  },
+  {
+    "antecedent": [
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.1155,
+    "confidence": 0.9991,
+    "lift": 7.0722
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.1155,
+    "confidence": 0.8174,
+    "lift": 7.0722
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.6413,
+    "lift": 7.0705
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.9989,
+    "lift": 7.0705
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.7258,
+    "lift": 6.9447
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PORT=DNS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.867,
+    "lift": 6.9447
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0693,
+    "confidence": 1.0,
+    "lift": 5.6525
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0673,
+    "confidence": 1.0,
+    "lift": 5.6525
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0756,
+    "confidence": 0.9717,
+    "lift": 5.5789
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0673,
+    "confidence": 0.9702,
+    "lift": 5.5701
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0693,
+    "confidence": 0.8799,
+    "lift": 5.5473
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0673,
+    "confidence": 0.8782,
+    "lift": 5.5365
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0756,
+    "confidence": 0.9717,
+    "lift": 5.4927
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0756,
+    "confidence": 0.9717,
+    "lift": 5.4927
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.8555,
+    "lift": 5.4838
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0673,
+    "confidence": 0.8536,
+    "lift": 5.4717
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.8555,
+    "lift": 5.3939
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.8555,
+    "lift": 5.3939
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9109,
+    "lift": 5.2298
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9109,
+    "lift": 5.149
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9109,
+    "lift": 5.149
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PKT_SIZE=MEDIUM",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "support": 0.0533,
+    "confidence": 0.832,
+    "lift": 5.1304
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER"
+    ],
+    "support": 0.0526,
+    "confidence": 0.6675,
+    "lift": 4.7801
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PORT=OTHER"
+    ],
+    "support": 0.0548,
+    "confidence": 0.695,
+    "lift": 4.5963
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0526,
+    "confidence": 0.8055,
+    "lift": 4.5532
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PORT=OTHER"
+    ],
+    "support": 0.0526,
+    "confidence": 0.6867,
+    "lift": 4.5413
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PKT_SIZE=MEDIUM",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0533,
+    "confidence": 0.8333,
+    "lift": 4.4089
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PKT_SIZE=MEDIUM"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0533,
+    "confidence": 0.703,
+    "lift": 4.3347
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PKT_SIZE=MEDIUM"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "support": 0.0533,
+    "confidence": 0.703,
+    "lift": 4.3347
+  },
+  {
+    "antecedent": [
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0548,
+    "confidence": 0.7345,
+    "lift": 4.1516
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0766,
+    "confidence": 0.7314,
+    "lift": 4.1342
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PORT=OTHER"
+    ],
+    "support": 0.0653,
+    "confidence": 0.6235,
+    "lift": 4.1233
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=MEDIUM",
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0533,
+    "confidence": 0.7111,
+    "lift": 4.0547
+  },
+  {
+    "antecedent": [
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0526,
+    "confidence": 0.7054,
+    "lift": 4.0499
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0673,
+    "confidence": 0.6423,
+    "lift": 4.0493
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0673,
+    "confidence": 0.6423,
+    "lift": 4.0493
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0859,
+    "confidence": 0.6932,
+    "lift": 3.9798
+  },
+  {
+    "antecedent": [
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.1127,
+    "confidence": 0.6948,
+    "lift": 3.9615
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "support": 0.1127,
+    "confidence": 0.6425,
+    "lift": 3.9615
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0859,
+    "confidence": 0.6932,
+    "lift": 3.9183
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "support": 0.0859,
+    "confidence": 0.6932,
+    "lift": 3.9183
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.909
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.909
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0593,
+    "confidence": 0.6807,
+    "lift": 3.8813
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.8449
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.8449
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.8449
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.0756,
+    "confidence": 0.6098,
+    "lift": 3.8449
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "DURATION=LONG"
+    ],
+    "consequent": [
+      "PORT=HTTP",
+      "RATE=LOW_PPS"
+    ],
+    "support": 0.0652,
+    "confidence": 0.642,
+    "lift": 3.7772
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9839,
+    "lift": 3.7664
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0569,
+    "confidence": 0.9816,
+    "lift": 3.7578
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0859,
+    "confidence": 0.9725,
+    "lift": 3.7228
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PKT_SIZE=MEDIUM"
+    ],
+    "consequent": [
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0534,
+    "confidence": 0.7034,
+    "lift": 3.7216
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0766,
+    "confidence": 0.9721,
+    "lift": 3.7213
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0756,
+    "confidence": 0.9717,
+    "lift": 3.72
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0756,
+    "confidence": 0.9717,
+    "lift": 3.72
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0673,
+    "confidence": 0.9702,
+    "lift": 3.7141
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0673,
+    "confidence": 0.9702,
+    "lift": 3.7141
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM",
+      "PORT=DNS"
+    ],
+    "support": 0.0593,
+    "confidence": 0.6127,
+    "lift": 3.7043
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0526,
+    "confidence": 0.9604,
+    "lift": 3.6768
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=MEDIUM",
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM",
+      "PORT=DNS"
+    ],
+    "support": 0.0533,
+    "confidence": 0.6015,
+    "lift": 3.6364
+  },
+  {
+    "antecedent": [
+      "DURATION=MEDIUM",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.1127,
+    "confidence": 0.6812,
+    "lift": 3.6039
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER"
+    ],
+    "support": 0.1106,
+    "confidence": 0.6971,
+    "lift": 3.4323
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PORT=OTHER"
+    ],
+    "support": 0.1131,
+    "confidence": 0.7131,
+    "lift": 3.426
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=MEDIUM",
+      "PORT=DNS"
+    ],
+    "consequent": [
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.075,
+    "confidence": 0.6467,
+    "lift": 3.4217
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "DURATION=SHORT",
+      "PORT=OTHER"
+    ],
+    "support": 0.1106,
+    "confidence": 0.7088,
+    "lift": 3.4051
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.1091,
+    "confidence": 0.8801,
+    "lift": 3.3691
+  },
+  {
+    "antecedent": [
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET",
+      "PKT_SIZE=SMALL"
+    ],
+    "support": 0.0653,
+    "confidence": 0.8757,
+    "lift": 3.3525
+  },
+  {
+    "antecedent": [
+      "PORT=HTTPS",
+      "RATE=LOW_PPS"
+    ],
+    "consequent": [
+      "DURATION=LONG",
+      "PKT_SIZE=MEDIUM"
+    ],
+    "support": 0.0904,
+    "confidence": 0.6883,
+    "lift": 3.2806
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.1106,
+    "confidence": 0.625,
+    "lift": 3.2321
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "DURATION=SHORT"
+    ],
+    "consequent": [
+      "PORT=OTHER",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.1131,
+    "confidence": 0.6393,
+    "lift": 3.2304
+  },
+  {
+    "antecedent": [
+      "ACK_SET",
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL"
+    ],
+    "consequent": [
+      "PORT=OTHER",
+      "RATE=HIGH_PPS"
+    ],
+    "support": 0.1106,
+    "confidence": 0.6348,
+    "lift": 3.2076
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0693,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0766,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0693,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.1047,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0673,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0526,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.1336,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0548,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0788,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0746,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0673,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER",
+      "WIN_SIZE=SMALL"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0653,
+    "confidence": 1.0,
+    "lift": 3.1587
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9839,
+    "lift": 3.1077
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0528,
+    "confidence": 0.9839,
+    "lift": 3.1077
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PKT_SIZE=SMALL",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0569,
+    "confidence": 0.9816,
+    "lift": 3.1006
+  },
+  {
+    "antecedent": [
+      "PAYLOAD=ZERO",
+      "PORT=OTHER"
+    ],
+    "consequent": [
+      "ACK_SET"
+    ],
+    "support": 0.0569,
+    "confidence": 0.9816,
+    "lift": 3.1006
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "PORT=DNS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.693,
+    "lift": 3.0968
+  },
+  {
+    "antecedent": [
+      "RATE=HIGH_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "PORT=DNS"
+    ],
+    "support": 0.0906,
+    "confidence": 0.693,
+    "lift": 3.0968
+  },
+  {
+    "antecedent": [
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.784,
+    "lift": 3.0928
+  },
+  {
+    "antecedent": [
+      "DURATION=SHORT",
+      "PORT=DNS",
+      "RATE=HIGH_PPS"
+    ],
+    "consequent": [
+      "PKT_SIZE=SMALL",
+      "WIN_SIZE=ZERO"
+    ],
+    "support": 0.0906,
+    "confidence": 0.784,
+    "lift": 3.0928
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=MEDIUM",
+      "PORT=DNS",
+      "RATE=LOW_PPS",
+      "WIN_SIZE=ZERO"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM"
+    ],
+    "support": 0.0533,
+    "confidence": 0.7111,
+    "lift": 3.0755
+  },
+  {
+    "antecedent": [
+      "PKT_SIZE=MEDIUM",
+      "PORT=DNS",
+      "RATE=LOW_PPS"
+    ],
+    "consequent": [
+      "DURATION=MEDIUM"
+    ],
+    "support": 0.0533,
+    "confidence": 0.7111,
+    "lift": 3.0755
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "dataset_total_flows": 2830744,
+  "attack_flows": 557647,
+  "benign_flows": 2273097,
+  "top_targeted_ports": {
+    "Port 80 (HTTP)": 383239,
+    "Port 21 (FTP)": 8181,
+    "Port 22 (SSH)": 6140,
+    "Port 8080 (HTTP-Alt)": 1265,
+    "Port 444": 252,
+    "Port 443 (HTTPS)": 236,
+    "Port 139 (NetBIOS)": 197,
+    "Port 445 (SMB)": 179
+  },
+  "flag_radar": {
+    "labels": [
+      "SYN Flag",
+      "ACK Flag",
+      "FIN Flag",
+      "RST Flag",
+      "PSH Flag",
+      "URG Flag",
+      "ECE Flag"
+    ],
+    "attack": [
+      1.2,
+      43.37,
+      10.57,
+      0.0,
+      46.14,
+      0.87,
+      0.0
+    ],
+    "benign": [
+      5.49,
+      28.69,
+      1.81,
+      0.03,
+      25.8,
+      11.6,
+      0.03
+    ]
+  }
+}

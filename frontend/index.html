@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cyber Threat Intelligence Dashboard | CICIDS2017</title>
+  <meta name="description" content="Enterprise AI-powered cyber threat intelligence platform combining Random Forest, K-Means clustering, and Apriori association rules on the CICIDS2017 dataset." />
+  <link rel="stylesheet" href="/css/dashboard.css" />
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<div class="layout">
+
+  <!-- ═══════════════════════════════════════════════════════════
+       HEADER
+  ════════════════════════════════════════════════════════════════ -->
+  <header class="header">
+    <div class="header-brand">
+      <div class="header-icon">🛡️</div>
+      <div class="header-title">
+        <h1>Cyber Threat Intelligence Dashboard</h1>
+        <p>CICIDS2017 · Random Forest · K-Means · Apriori · Layer 5 Threat Engine</p>
+      </div>
+    </div>
+    <div class="header-status">
+      <div class="status-pill">
+        <div class="status-dot" id="server-dot"></div>
+        <span id="server-label">Connecting…</span>
+      </div>
+      <div class="status-pill">
+        <span class="text-cyan">⏱</span>
+        <span id="clock" class="mono">--:--:--</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       NAVIGATION TABS (5-SCREEN SPA)
+  ════════════════════════════════════════════════════════════════ -->
+  <nav class="nav-tabs" id="nav-tabs">
+    <button class="nav-tab active" data-screen="overview">
+      <span>🏠</span> Executive Overview
+    </button>
+    <button class="nav-tab" data-screen="analytics">
+      <span>📊</span> Attack Analytics & Forensics
+    </button>
+    <button class="nav-tab" data-screen="detection">
+      <span>⚡</span> ML Detection & Threat Intel
+    </button>
+    <button class="nav-tab" data-screen="clusters">
+      <span>🔵</span> Behavioral Clusters
+    </button>
+    <button class="nav-tab" data-screen="patterns">
+      <span>🧩</span> Pattern Discovery
+    </button>
+  </nav>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       SCREEN 1: EXECUTIVE OVERVIEW
+  ════════════════════════════════════════════════════════════════ -->
+  <section class="screen-view active" id="view-overview">
+    <!-- Threat Level Bar -->
+    <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px;flex-wrap:wrap;">
+      <span class="text-muted" style="font-size:0.78rem;text-transform:uppercase;letter-spacing:0.08em;white-space:nowrap;">
+        Global Threat Level
+      </span>
+      <div class="threat-level-bar" style="flex:1;min-width:200px;">
+        <div class="threat-level-segments">
+          <div class="threat-segment" id="seg-0"></div>
+          <div class="threat-segment" id="seg-1"></div>
+          <div class="threat-segment" id="seg-2"></div>
+          <div class="threat-segment" id="seg-3"></div>
+        </div>
+        <span class="text-green mono" id="threat-level-text" style="font-size:0.8rem;min-width:60px;">LOW</span>
+      </div>
+    </div>
+
+    <!-- KPI Cards -->
+    <div class="kpi-grid" style="margin-bottom:24px;">
+      <div class="kpi-card cyan">
+        <span class="kpi-icon">📊</span>
+        <div class="kpi-value" id="kpi-total">—</div>
+        <div class="kpi-label">Total Flows Analysed</div>
+      </div>
+      <div class="kpi-card red">
+        <span class="kpi-icon">⚠️</span>
+        <div class="kpi-value" id="kpi-attacks">—</div>
+        <div class="kpi-label">Attack Flows Detected</div>
+        <div class="kpi-change up" id="kpi-attack-pct"></div>
+      </div>
+      <div class="kpi-card green">
+        <span class="kpi-icon">✅</span>
+        <div class="kpi-value" id="kpi-benign">—</div>
+        <div class="kpi-label">Benign Flows</div>
+      </div>
+      <div class="kpi-card purple">
+        <span class="kpi-icon">🎯</span>
+        <div class="kpi-value" id="kpi-types">—</div>
+        <div class="kpi-label">Distinct Attack Types</div>
+      </div>
+      <div class="kpi-card amber">
+        <span class="kpi-icon">🤖</span>
+        <div class="kpi-value" id="kpi-accuracy">—</div>
+        <div class="kpi-label">RF Model Accuracy</div>
+      </div>
+    </div>
+
+    <!-- Row 1: Charts -->
+    <div class="dashboard-grid" style="margin-bottom:var(--gap);">
+      <!-- Attack Distribution Donut -->
+      <div class="panel col-6">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🍩</span> Multi-Class Attack Distribution</div>
+          <span class="panel-badge cyan">2.83M Full Dataset</span>
+        </div>
+        <div class="chart-wrapper tall">
+          <canvas id="chart-donut"></canvas>
+        </div>
+      </div>
+
+      <!-- Real-Time Continuous Timeseries (Future Scope Notice) -->
+      <div class="panel col-6" style="display:flex;flex-direction:column;justify-content:space-between;">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🛰️</span> Continuous Temporal Traffic Trends</div>
+          <span class="panel-badge amber">Future Scope · Coming Soon</span>
+        </div>
+        <div style="padding:20px;background:rgba(5,15,30,0.6);border:1px dashed rgba(255,165,2,0.3);border-radius:var(--radius-sm);margin:10px 0;">
+          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+            <span style="font-size:1.8rem;">🚧</span>
+            <div>
+              <h3 style="color:#ffa502;font-size:0.95rem;font-weight:600;">Continuous Streaming Telemetry (Production Pipeline)</h3>
+              <p style="color:#8da4be;font-size:0.8rem;margin-top:2px;">
+                Status: Roadmap Item · Integration Layer 6
+              </p>
+            </div>
+          </div>
+          <p style="color:#9cb5cf;font-size:0.82rem;line-height:1.6;margin-bottom:12px;">
+            The CICIDS2017 dataset represents pre-captured discrete network flow sessions rather than a continuous live clock stream. Real-time 24-hour continuous rolling trends require live socket interception via <strong>eBPF / Zeek / Suricata</strong> with streaming buffers (Apache Kafka + Prometheus).
+          </p>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;">
+            <span class="panel-badge purple" style="font-size:0.75rem;">Kafka Stream Connector (Scope)</span>
+            <span class="panel-badge cyan" style="font-size:0.75rem;">eBPF Packet Taps (Scope)</span>
+            <span class="panel-badge green" style="font-size:0.75rem;">Active Dataset: 2.83M Flows (Ready)</span>
+          </div>
+        </div>
+        <div style="font-size:0.78rem;color:#5a7a9a;padding:8px 0;text-align:right;">
+          Authentic metrics displayed across all other tabs are verified against 2,830,744 dataset flows.
+        </div>
+      </div>
+    </div>
+
+    <!-- Row 2: Live Inference & Telemetry Stream -->
+    <div class="dashboard-grid">
+      <div class="panel col-12">
+        <div class="panel-header">
+          <div class="panel-title">
+            <span class="icon">⚡</span> Model Inference Activity & Dataset Stream
+            <span class="status-dot" style="margin-left:6px;animation:blink 1.5s ease-in-out infinite;"></span>
+          </div>
+          <div style="display:flex;align-items:center;gap:10px;">
+            <span class="panel-badge green">Genuine Model Inferences</span>
+            <button class="btn btn-secondary" id="btn-stream-sample" style="font-size:0.75rem;padding:4px 12px;">
+              ▶ Stream 5 Dataset Flows
+            </button>
+          </div>
+        </div>
+        <div class="feed-scroll" id="live-feed">
+          <div class="no-data">Loading genuine inference stream…</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       SCREEN 2: ATTACK ANALYTICS & FORENSICS
+  ════════════════════════════════════════════════════════════════ -->
+  <section class="screen-view" id="view-analytics">
+    <div class="dashboard-grid" style="margin-bottom:var(--gap);">
+      <!-- Top Targeted Ports -->
+      <div class="panel col-6">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🎯</span> Top Targeted Ports</div>
+          <span class="panel-badge cyan">Port Distribution</span>
+        </div>
+        <div class="chart-wrapper tall">
+          <canvas id="chart-ports"></canvas>
+        </div>
+      </div>
+
+      <!-- Protocol & TCP Flags Radar -->
+      <div class="panel col-6">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🕸️</span> Attack vs Benign Flag Profile</div>
+          <span class="panel-badge purple">Radar Analysis</span>
+        </div>
+        <div class="chart-wrapper tall">
+          <canvas id="chart-radar"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="dashboard-grid">
+      <!-- Model Report Table -->
+      <div class="panel col-6">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">📋</span> Multi-Class Evaluation Metrics</div>
+          <span class="panel-badge cyan">Precision · Recall · F1</span>
+        </div>
+        <div style="overflow-x:auto;max-height:380px;overflow-y:auto;">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Attack Class</th>
+                <th>Precision</th>
+                <th>Recall</th>
+                <th>F1 Score</th>
+              </tr>
+            </thead>
+            <tbody id="model-report-body">
+              <tr><td colspan="4" class="no-data">Loading metrics…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Feature Importances -->
+      <div class="panel col-6">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🔍</span> Top Discriminative Features</div>
+          <span class="panel-badge purple">Top 15 RF Features</span>
+        </div>
+        <div class="chart-wrapper tall">
+          <canvas id="chart-features"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       SCREEN 3: ML DETECTION & THREAT INTELLIGENCE LAB
+  ════════════════════════════════════════════════════════════════ -->
+  <section class="screen-view" id="view-detection">
+    <div class="dashboard-grid">
+      <!-- Input Panel -->
+      <div class="panel col-5">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">⚡</span> Network Flow Feature Injector</div>
+          <span class="panel-badge red">Layer 5 Analyzer</span>
+        </div>
+        <p style="font-size:0.78rem;color:#5a7a9a;margin-bottom:14px;">
+          Inject network flow telemetry to run full Layer 5 threat assessment (RF Classifier + K-Means Context + Apriori Association Rules).
+        </p>
+
+        <!-- Quick Sample Presets -->
+        <div style="display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap;">
+          <button class="btn btn-secondary" style="font-size:0.75rem;padding:4px 10px;" id="btn-sample-benign">🟢 Normal HTTP</button>
+          <button class="btn btn-secondary" style="font-size:0.75rem;padding:4px 10px;" id="btn-sample-ddos">🔴 DDoS Flood</button>
+          <button class="btn btn-secondary" style="font-size:0.75rem;padding:4px 10px;" id="btn-sample-portscan">🟠 PortScan</button>
+          <button class="btn btn-secondary" style="font-size:0.75rem;padding:4px 10px;" id="btn-sample-bot">🟣 Bot C2</button>
+        </div>
+
+        <div class="predict-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label>Destination Port</label>
+              <input type="number" class="feat-input" id="feat-Destination_Port"
+                     data-feature="Destination Port" placeholder="e.g. 80" />
+            </div>
+            <div class="form-group">
+              <label>Flow Duration (µs)</label>
+              <input type="number" class="feat-input" id="feat-Flow_Duration"
+                     data-feature="Flow Duration" placeholder="e.g. 109" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label>Fwd Packets</label>
+              <input type="number" class="feat-input" id="feat-Total_Fwd_Packets"
+                     data-feature="Total Fwd Packets" placeholder="e.g. 1" />
+            </div>
+            <div class="form-group">
+              <label>Bwd Packets</label>
+              <input type="number" class="feat-input" id="feat-Total_Backward_Packets"
+                     data-feature="Total Backward Packets" placeholder="e.g. 1" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label>Flow Bytes/s</label>
+              <input type="number" class="feat-input" id="feat-Flow_Bytes_s"
+                     data-feature="Flow Bytes/s" placeholder="e.g. 110091" />
+            </div>
+            <div class="form-group">
+              <label>Flow Packets/s</label>
+              <input type="number" class="feat-input" id="feat-Flow_Packets_s"
+                     data-feature="Flow Packets/s" placeholder="e.g. 18348" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label>SYN Flag Count</label>
+              <input type="number" class="feat-input" id="feat-SYN_Flag_Count"
+                     data-feature="SYN Flag Count" placeholder="0 or 1" min="0" max="1" />
+            </div>
+            <div class="form-group">
+              <label>ACK Flag Count</label>
+              <input type="number" class="feat-input" id="feat-ACK_Flag_Count"
+                     data-feature="ACK Flag Count" placeholder="0 or 1" min="0" max="1" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label>Init Win Fwd</label>
+              <input type="number" class="feat-input" id="feat-Init_Win_bytes_forward"
+                     data-feature="Init_Win_bytes_forward" placeholder="e.g. 29" />
+            </div>
+            <div class="form-group">
+              <label>Init Win Bwd</label>
+              <input type="number" class="feat-input" id="feat-Init_Win_bytes_backward"
+                     data-feature="Init_Win_bytes_backward" placeholder="e.g. 256" />
+            </div>
+          </div>
+
+          <div style="display:flex;gap:10px;margin-top:6px;">
+            <button class="btn btn-primary" id="btn-predict" style="flex:1">🛡️ Run Threat Assessment</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Threat Intelligence Result Panel -->
+      <div class="panel col-7">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🔬</span> Unified Threat Assessment</div>
+          <span class="panel-badge purple" id="threat-score-badge">Awaiting Analysis</span>
+        </div>
+
+        <div id="threat-intel-result" class="threat-intel-box">
+          <div class="threat-score-header">
+            <div>
+              <div style="font-size:0.75rem;color:#5a7a9a;text-transform:uppercase;letter-spacing:0.06em;">Composite Threat Score</div>
+              <div class="threat-score-num text-cyan" id="threat-score-num">— / 100</div>
+            </div>
+            <div style="text-align:right;">
+              <span class="panel-badge green" id="threat-level-badge" style="font-size:0.85rem;padding:6px 14px;">STANDBY</span>
+              <div style="font-size:0.75rem;color:#8da4be;margin-top:4px;" id="threat-confidence-text">Confidence: —</div>
+            </div>
+          </div>
+
+          <div class="confidence-bar-wrapper" style="margin-bottom:18px;">
+            <div class="confidence-bar">
+              <div class="confidence-bar-fill" id="threat-score-bar" style="width:0%"></div>
+            </div>
+          </div>
+
+          <!-- Metadata Grid -->
+          <div class="threat-meta-grid">
+            <div class="threat-meta-item">
+              <div class="threat-meta-title">ML Primary Prediction</div>
+              <div class="threat-meta-val" id="threat-ml-pred">—</div>
+            </div>
+            <div class="threat-meta-item">
+              <div class="threat-meta-title">Behavioral Cluster</div>
+              <div class="threat-meta-val" id="threat-cluster-val">—</div>
+            </div>
+            <div class="threat-meta-item">
+              <div class="threat-meta-title">Apriori Pattern Match</div>
+              <div class="threat-meta-val" id="threat-pattern-val">—</div>
+            </div>
+          </div>
+
+          <!-- Security Recommendations -->
+          <div class="threat-recs-box">
+            <h4>🛡️ Recommended SOC Mitigations</h4>
+            <ul id="threat-recs-list">
+              <li>Submit network flow features or select a preset to generate security intelligence analysis.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       SCREEN 4: BEHAVIORAL CLUSTERS
+  ════════════════════════════════════════════════════════════════ -->
+  <section class="screen-view" id="view-clusters">
+    <div class="dashboard-grid">
+      <div class="panel col-12">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🔵</span> Unsupervised K-Means Behavioral Clustering</div>
+          <span class="panel-badge purple">Centroid Profiles & Network Stats</span>
+        </div>
+
+        <!-- Not computed banner -->
+        <div class="compute-banner" id="cluster-banner">
+          <p>
+            K-Means clustering discovers latent structural patterns and anomalous attack groupings in multi-dimensional flow space. Click to train or re-evaluate.
+          </p>
+          <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+            <label style="font-size:0.78rem;color:#5a7a9a;white-space:nowrap;">k =</label>
+            <input type="number" id="cluster-k" value="8" min="2" max="20"
+                   style="width:60px;background:rgba(0,20,40,0.6);border:1px solid var(--border-glow);
+                          color:#e8f4ff;font-family:var(--font-mono);font-size:0.85rem;
+                          padding:6px 10px;border-radius:6px;outline:none;" />
+            <button class="btn btn-secondary" id="btn-run-clusters">⚡ Run K-Means</button>
+          </div>
+        </div>
+        <div id="cluster-status-msg" class="status-message hidden"></div>
+
+        <!-- Cluster content -->
+        <div id="cluster-content" class="hidden">
+          <div style="display:flex;gap:var(--gap);flex-wrap:wrap;align-items:flex-start;margin-top:14px;">
+            <div style="flex:1;min-width:320px;">
+              <div class="cluster-grid" id="cluster-grid"></div>
+            </div>
+            <div style="flex:1.5;min-width:340px;">
+              <div class="chart-wrapper tall"><canvas id="chart-clusters"></canvas></div>
+            </div>
+          </div>
+          <div style="margin-top:14px;text-align:right;">
+            <button class="btn btn-secondary" id="btn-re-run-clusters" style="font-size:0.78rem;">
+              🔄 Re-run Clustering
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       SCREEN 5: PATTERN DISCOVERY
+  ════════════════════════════════════════════════════════════════ -->
+  <section class="screen-view" id="view-patterns">
+    <div class="dashboard-grid">
+      <div class="panel col-12">
+        <div class="panel-header">
+          <div class="panel-title"><span class="icon">🧩</span> Apriori Attack Pattern Association Rules</div>
+          <span class="panel-badge red">Support · Confidence · Lift</span>
+        </div>
+
+        <!-- Not computed banner -->
+        <div class="compute-banner" id="patterns-banner">
+          <p>
+            Association rule mining detects co-occurrence patterns between destination ports, packet rates, flow durations, and attack vectors to extract concrete attack signatures.
+          </p>
+          <button class="btn btn-danger" id="btn-run-patterns" style="flex-shrink:0;">
+            ⛏️ Mine Attack Patterns
+          </button>
+        </div>
+        <div id="patterns-status-msg" class="status-message hidden"></div>
+
+        <!-- Rules table -->
+        <div id="patterns-table-wrap" class="hidden" style="margin-top:14px;">
+          <div style="overflow-x:auto;">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Antecedent (Observed Conditions)</th>
+                  <th>Consequent (Predicted Threat)</th>
+                  <th>Support</th>
+                  <th>Confidence</th>
+                  <th>Lift ↓</th>
+                </tr>
+              </thead>
+              <tbody id="patterns-body">
+                <tr><td colspan="5" class="no-data">Loading discovered patterns…</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div style="margin-top:14px;text-align:right;">
+            <button class="btn btn-danger" id="btn-re-run-patterns" style="font-size:0.78rem;">
+              🔄 Re-run Pattern Mining
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FOOTER
+  ════════════════════════════════════════════════════════════════ -->
+  <footer style="text-align:center;padding:24px 0 10px;border-top:1px solid var(--border-glow);
+                 color:#3a5a7a;font-size:0.75rem;font-family:var(--font-mono);margin-top:30px;">
+    Cyber Threat Intelligence Platform · CICIDS2017 Dataset ·
+    Layer 1–7 Full Stack AI/ML Architecture · Built with FastAPI + Chart.js
+  </footer>
+
+</div>
+
+<!-- ── Scripts ─────────────────────────────────────────────────────────────── -->
+<script>
+  function updateClock() {
+    const el = document.getElementById('clock');
+    if (el) el.textContent = new Date().toLocaleTimeString();
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+</script>
+<script type="module" src="/js/main.js"></script>
+
+</body>
+</html>

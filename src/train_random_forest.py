@@ -10,26 +10,42 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
+import sys
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "raw" / "combinenew.csv"
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 MODEL_DIR = ROOT / "model"
 REPORT_DIR = ROOT / "reports"
+
 
 LABEL_COL = "Label"
 
 
-def load_dataset(path: Path) -> pd.DataFrame:
-    df = pd.read_csv(path, low_memory=False)
-    df.columns = df.columns.str.strip()
-    df = df.replace([float("inf"), float("-inf")], np.nan)
-    return df
+def load_dataset(path: Path | None = None, nrows: int | None = None) -> pd.DataFrame:
+    """Load dataset using src.data.loader.load_raw."""
+    from src.data.loader import load_raw, RAW_CSV
+    csv_path = path if path is not None else RAW_CSV
+    return load_raw(csv_path, nrows=nrows)
 
 
-def build_model_artifacts():
-    df = load_dataset(DATA_PATH)
+
+def build_model_artifacts(sample_size: int | None = None, n_estimators: int = 100):
+    import argparse
+    df = load_dataset()
 
     if LABEL_COL not in df.columns:
         raise ValueError(f"Could not find required label column: {LABEL_COL}")
+
+    if sample_size and len(df) > sample_size:
+        print(f"Sampling {sample_size:,} flows from {len(df):,} total records for training...")
+        # Stratified sample if possible
+        try:
+            df = df.groupby(LABEL_COL, group_keys=False).apply(
+                lambda x: x.sample(min(len(x), max(2, int(len(x) / len(df) * sample_size))), random_state=42)
+            ).reset_index(drop=True)
+        except Exception:
+            df = df.sample(n=sample_size, random_state=42).reset_index(drop=True)
 
     y = df[LABEL_COL].astype(str).str.strip()
     drop_columns = [LABEL_COL]
@@ -57,8 +73,9 @@ def build_model_artifacts():
     X_train_scaled = scaler.fit_transform(X_train)
     X_test_scaled = scaler.transform(X_test)
 
+    print(f"Training Random Forest ({n_estimators} estimators) on {X_train_scaled.shape[0]:,} samples...")
     rf = RandomForestClassifier(
-        n_estimators=200,
+        n_estimators=n_estimators,
         random_state=42,
         n_jobs=-1,
         class_weight="balanced_subsample",
@@ -108,4 +125,11 @@ def build_model_artifacts():
 
 
 if __name__ == "__main__":
-    build_model_artifacts()
+    import argparse
+    parser = argparse.ArgumentParser(description="Train Random Forest Classifier on CICIDS2017")
+    parser.add_argument("--sample", type=int, default=None, help="Sample size (e.g. 50000 for fast training)")
+    parser.add_argument("--estimators", type=int, default=100, help="Number of trees (default: 100)")
+    args = parser.parse_args()
+
+    build_model_artifacts(sample_size=args.sample, n_estimators=args.estimators)
+

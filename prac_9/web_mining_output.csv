@@ -1,0 +1,2907 @@
+Link Text,URL
+Jump to content,#bodyContent
+Main page,/wiki/Main_Page
+Contents,/wiki/Wikipedia:Contents
+Current events,/wiki/Portal:Current_events
+Random article,/wiki/Special:Random
+About Wikipedia,/wiki/Wikipedia:About
+Contact us,//en.wikipedia.org/wiki/Wikipedia:Contact_us
+Help,/wiki/Help:Contents
+Learn to edit,/wiki/Help:Introduction
+Community portal,/wiki/Wikipedia:Community_portal
+Recent changes,/wiki/Special:RecentChanges
+Upload file,/wiki/Wikipedia:File_upload_wizard
+Special pages,/wiki/Special:SpecialPages
+Search,/wiki/Special:Search
+Donate,https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+Create account,/w/index.php?title=Special:CreateAccount&returnto=Computer+security
+Log in,/w/index.php?title=Special:UserLogin&returnto=Computer+security
+Donate,https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+Create account,/w/index.php?title=Special:CreateAccount&returnto=Computer+security
+Log in,/w/index.php?title=Special:UserLogin&returnto=Computer+security
+(Top),#
+1Vulnerabilities and attacks,#Vulnerabilities_and_attacks
+1.1Backdoor,#Backdoor
+1.2Denial-of-service attack,#Denial-of-service_attack
+1.3Physical access attacks,#Physical_access_attacks
+1.4Eavesdropping,#Eavesdropping
+1.5Malware,#Malware
+1.5.1Types of malware,#Types_of_malware
+1.6Man-in-the-middle attacks,#Man-in-the-middle_attacks
+"1.7Multi-vector, polymorphic attacks","#Multi-vector,_polymorphic_attacks"
+1.8Phishing,#Phishing
+1.9Privilege escalation,#Privilege_escalation
+1.10Side-channel attack,#Side-channel_attack
+1.11Social engineering,#Social_engineering
+1.12Spoofing,#Spoofing
+1.13Tampering,#Tampering
+1.14HTML smuggling,#HTML_smuggling
+2Information security practices,#Information_security_practices
+3Computer protection (countermeasures),#Computer_protection_(countermeasures)
+3.1Security by design,#Security_by_design
+3.2Security architecture,#Security_architecture
+3.3Security measures,#Security_measures
+3.4Vulnerability management,#Vulnerability_management
+3.5Reducing vulnerabilities,#Reducing_vulnerabilities
+3.6Hardware protection mechanisms,#Hardware_protection_mechanisms
+3.7Secure operating systems,#Secure_operating_systems
+3.8Secure coding,#Secure_coding
+3.9Capabilities and access control lists,#Capabilities_and_access_control_lists
+3.10User security training,#User_security_training
+3.11Digital hygiene,#Digital_hygiene
+3.12Difficulty of responding to breaches,#Difficulty_of_responding_to_breaches
+3.13Types of security and privacy,#Types_of_security_and_privacy
+4Systems at risk,#Systems_at_risk
+4.1Financial systems,#Financial_systems
+4.2Utilities and industrial equipment,#Utilities_and_industrial_equipment
+4.3Aviation,#Aviation
+4.4Consumer devices,#Consumer_devices
+4.5Healthcare,#Healthcare
+4.6Large corporations,#Large_corporations
+4.7Automobiles,#Automobiles
+4.8Shipping,#Shipping
+4.9Government,#Government
+4.10Internet of things and physical vulnerabilities,#Internet_of_things_and_physical_vulnerabilities
+4.11Medical systems,#Medical_systems
+4.12Energy sector,#Energy_sector
+4.13Telecommunications,#Telecommunications
+5Cost and impact of security breaches,#Cost_and_impact_of_security_breaches
+6Attacker motivation,#Attacker_motivation
+7Computer security incident management,#Computer_security_incident_management
+8Notable attacks and breaches,#Notable_attacks_and_breaches
+8.1Robert Morris and the first computer worm,#Robert_Morris_and_the_first_computer_worm
+8.2Rome Laboratory,#Rome_Laboratory
+8.3TJX customer credit card details,#TJX_customer_credit_card_details
+8.4Stuxnet attack,#Stuxnet_attack
+8.5Global surveillance disclosures,#Global_surveillance_disclosures
+8.6Target and Home Depot breaches,#Target_and_Home_Depot_breaches
+8.7Office of Personnel Management data breach,#Office_of_Personnel_Management_data_breach
+8.8Ashley Madison breach,#Ashley_Madison_breach
+8.9Colonial Pipeline ransomware attack,#Colonial_Pipeline_ransomware_attack
+9Legal issues and global regulation,#Legal_issues_and_global_regulation
+10Role of government,#Role_of_government
+11International actions,#International_actions
+11.1Europe,#Europe
+12National actions,#National_actions
+12.1Canada,#Canada
+12.2Australia,#Australia
+12.3Hong Kong,#Hong_Kong
+12.4India,#India
+12.5South Korea,#South_Korea
+12.6United Kingdom,#United_Kingdom
+12.7United States,#United_States
+12.7.1Strategies and directives,#Strategies_and_directives
+12.7.1.1Legislation,#Legislation
+12.7.1.2Standardized government testing services,#Standardized_government_testing_services
+12.7.1.3Agencies,#Agencies
+13Modern warfare,#Modern_warfare
+14Careers,#Careers
+15Terminology,#Terminology
+16History,#History
+17Notable scholars,#Notable_scholars
+18See also,#See_also
+19References,#References
+20Further reading,#Further_reading
+Afrikaans,https://af.wikipedia.org/wiki/Rekenaarsekuriteit
+العربية,https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8
+Asturianu,https://ast.wikipedia.org/wiki/Segurid%C3%A1_inform%C3%A1tica
+Azərbaycanca,https://az.wikipedia.org/wiki/Kibert%C9%99hl%C3%BCk%C9%99sizlik
+Беларуская (тарашкевіца),https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D1%83%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D1%8F%D1%81%D1%8C%D0%BF%D0%B5%D0%BA%D0%B0
+Беларуская,https://be.wikipedia.org/wiki/%D0%9A%D1%96%D0%B1%D0%B5%D1%80%D0%B1%D1%8F%D1%81%D0%BF%D0%B5%D0%BA%D0%B0
+Български,https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%B0_%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%82
+भोजपुरी,https://bh.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0_%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%80
+বাংলা,https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE
+Bosanski,https://bs.wikipedia.org/wiki/Sigurnost_ra%C4%8Dunara
+Català,https://ca.wikipedia.org/wiki/Seguretat_inform%C3%A0tica
+Cebuano,https://ceb.wikipedia.org/wiki/Seguridad_sa_kompyuter
+کوردی,https://ckb.wikipedia.org/wiki/%D8%A6%D8%A7%D8%B3%D8%A7%DB%8C%D8%B4%DB%8C_%DA%A9%DB%86%D9%85%D9%BE%DB%8C%D9%88%D8%AA%DB%95%D8%B1
+Čeština,https://cs.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_bezpe%C4%8Dnost
+Dansk,https://da.wikipedia.org/wiki/It-sikkerhed
+Deutsch,https://de.wikipedia.org/wiki/Computersicherheit
+Ελληνικά,https://el.wikipedia.org/wiki/%CE%9A%CF%85%CE%B2%CE%B5%CF%81%CE%BD%CE%BF%CE%B1%CF%83%CF%86%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1
+Esperanto,https://eo.wikipedia.org/wiki/Sekurado_de_Informacioj
+Español,https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica
+Eesti,https://et.wikipedia.org/wiki/K%C3%BCberturvalisus
+Euskara,https://eu.wikipedia.org/wiki/Zibersegurtasun
+فارسی,https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87
+Suomi,https://fi.wikipedia.org/wiki/Kyberturvallisuus
+Français,https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information
+Galego,https://gl.wikipedia.org/wiki/Seguridade_inform%C3%A1tica
+گیلکی,https://glk.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%D9%BE%D9%8A%DB%8A%D8%AA%D8%B1%D9%8A_%D8%B3%D8%A4%D9%86%D9%8A
+ગુજરાતી,https://gu.wikipedia.org/wiki/%E0%AA%95%E0%AA%AE%E0%AB%8D%E0%AA%AA%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%9F%E0%AA%B0_%E0%AA%B8%E0%AB%81%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE
+Hausa,https://ha.wikipedia.org/wiki/Cyber_security
+עברית,https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%98%D7%97%D7%AA_%D7%9E%D7%97%D7%A9%D7%91_%D7%90%D7%99%D7%A9%D7%99
+हिन्दी,https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0_%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE
+Hrvatski,https://hr.wikipedia.org/wiki/Ra%C4%8Dunalna_sigurnost
+Հայերեն,https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D6%80%D5%A3%D5%B9%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A1%D5%B6%D5%BE%D5%BF%D5%A1%D5%B6%D5%A3%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6
+Bahasa Indonesia,https://id.wikipedia.org/wiki/Keamanan_komputer
+Íslenska,https://is.wikipedia.org/wiki/T%C3%B6lvu%C3%B6ryggi
+Italiano,https://it.wikipedia.org/wiki/Sicurezza_informatica
+日本語,https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3
+ქართული,https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%98%E1%83%A3%E1%83%A2%E1%83%94%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A3%E1%83%A1%E1%83%90%E1%83%A4%E1%83%A0%E1%83%97%E1%83%AE%E1%83%9D%E1%83%94%E1%83%91%E1%83%90
+Qaraqalpaqsha,https://kaa.wikipedia.org/wiki/Kompyuter_q%C3%A1wipsizligi
+Қазақша,https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BB%D1%96%D0%BA_%D2%9B%D0%B0%D1%83%D1%96%D0%BF%D1%81%D1%96%D0%B7%D0%B4%D1%96%D0%BA
+한국어,https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%B3%B4%EC%95%88
+Кыргызча,https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B4%D0%B8%D0%BA_%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA
+Lombard,https://lmo.wikipedia.org/wiki/Sicurezza_informatega
+Latviešu,https://lv.wikipedia.org/wiki/Kiberdro%C5%A1%C4%ABba
+Minangkabau,https://min.wikipedia.org/wiki/Ka%C3%A2manan_komputer
+മലയാളം,https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%B8%E0%B5%81%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7
+Монгол,https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%D0%BD_%D0%B0%D1%8E%D1%83%D0%BB%D0%B3%D2%AF%D0%B9_%D0%B1%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB
+मराठी,https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A3%E0%A4%95_%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE
+Bahasa Melayu,https://ms.wikipedia.org/wiki/Keselamatan_komputer
+नेपाली,https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%B0_%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE
+Nederlands,https://nl.wikipedia.org/wiki/Computerbeveiliging
+Norsk bokmål,https://no.wikipedia.org/wiki/Datasikkerhet
+ਪੰਜਾਬੀ,https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%B0%E0%A8%AA%E0%A8%BF%E0%A8%8A%E0%A8%9F%E0%A8%B0_%E0%A8%B8%E0%A8%95%E0%A8%BF%E0%A8%89%E0%A8%B0%E0%A8%BF%E0%A8%9F%E0%A9%80
+Polski,https://pl.wikipedia.org/wiki/Bezpiecze%C5%84stwo_teleinformatyczne
+پښتو,https://ps.wikipedia.org/wiki/%D8%AF_%DA%A9%D9%85%D9%BE%D9%8A%D9%88%D9%BC%D8%B1_%D8%A7%D9%85%D9%86%D9%8A%D8%AA
+Português,https://pt.wikipedia.org/wiki/Seguran%C3%A7a_computacional
+Română,https://ro.wikipedia.org/wiki/Securitate_(informatic%C4%83)
+Русский,https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+سنڌي,https://sd.wikipedia.org/wiki/%D8%B3%D8%A7%D8%A6%D8%A8%D8%B1_%D8%B3%D9%8A%DA%AA%D9%8A%D9%88%D8%B1%D9%BD%D9%8A
+Srpskohrvatski / српскохрватски,https://sh.wikipedia.org/wiki/Kompjuterska_sigurnost
+Simple English,https://simple.wikipedia.org/wiki/Cybersecurity
+Slovenčina,https://sk.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_bezpe%C4%8Dnos%C5%A5
+Slovenščina,https://sl.wikipedia.org/wiki/Informati%C4%8Dna_varnost
+Shqip,https://sq.wikipedia.org/wiki/Siguria_kibernetike
+Српски / srpski,https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%B1%D0%B5%D0%B7%D0%B1%D0%B5%D0%B4%D0%BD%D0%BE%D1%81%D1%82
+Svenska,https://sv.wikipedia.org/wiki/Cybers%C3%A4kerhet
+Kiswahili,https://sw.wikipedia.org/wiki/Usalama_wa_mtandao
+తెలుగు,https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D_%E0%B0%AD%E0%B0%A6%E0%B1%8D%E0%B0%B0%E0%B0%A4
+Тоҷикӣ,https://tg.wikipedia.org/wiki/%D0%90%D0%BC%D0%BD%D0%B8%D1%8F%D1%82%D0%B8_%D1%80%D0%BE%D1%91%D0%BD%D0%B0
+ไทย,https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C
+Türkçe,https://tr.wikipedia.org/wiki/Bilgisayar_g%C3%BCvenli%C4%9Fi
+Українська,https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0_%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0
+Tiếng Việt,https://vi.wikipedia.org/wiki/An_ninh_m%E1%BA%A1ng
+吴语,https://wuu.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8
+閩南語 / Bân-lâm-gí,https://zh-min-nan.wikipedia.org/wiki/Ti%C4%81n-n%C3%A1u_an-cho%C3%A2n
+粵語,https://zh-yue.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E4%BF%9D%E5%AE%89
+中文,https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8
+IsiZulu,https://zu.wikipedia.org/wiki/ILondosicikizi
+Edit links,https://www.wikidata.org/wiki/Special:EntityPage/Q3510521#sitelinks-wikipedia
+Article,/wiki/Computer_security
+Talk,/wiki/Talk:Computer_security
+Read,/wiki/Computer_security
+Edit,/w/index.php?title=Computer_security&action=edit
+View history,/w/index.php?title=Computer_security&action=history
+Read,/wiki/Computer_security
+Edit,/w/index.php?title=Computer_security&action=edit
+View history,/w/index.php?title=Computer_security&action=history
+What links here,/wiki/Special:WhatLinksHere/Computer_security
+Related changes,/wiki/Special:RecentChangesLinked/Computer_security
+Upload file,//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+Permanent link,/w/index.php?title=Computer_security&oldid=1375882203
+Page information,/w/index.php?title=Computer_security&action=info
+Cite this page,/w/index.php?title=Special:CiteThisPage&page=Computer_security&id=1375882203&wpFormIdentifier=titleform
+Get shortened URL,/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FComputer_security
+Switch to legacy parser,/w/index.php?title=Computer_security&useparsoid=0
+Download as PDF,/w/index.php?title=Special:DownloadAsPdf&page=Computer_security&action=show-download-screen
+Printable version,/w/index.php?title=Computer_security&printable=yes
+Wikimedia Commons,https://commons.wikimedia.org/wiki/Category:Computer_security
+Wikibooks,https://en.wikibooks.org/wiki/Basic_Computer_Security
+Wikiquote,https://en.wikiquote.org/wiki/Computer_security
+Wikidata item,https://www.wikidata.org/wiki/Special:EntityPage/Q3510521
+Computer hacking,https://en.wikipedia.org/wiki/Security_hacker
+History,https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
+Phreaking,https://en.wikipedia.org/wiki/Phreaking
+Cryptovirology,https://en.wikipedia.org/wiki/Cryptovirology
+Hacking of consumer electronics,https://en.wikipedia.org/wiki/Hacking_of_consumer_electronics
+List of hackers,https://en.wikipedia.org/wiki/List_of_hackers
+Hacker culture,https://en.wikipedia.org/wiki/Hacker_culture
+ethic,https://en.wikipedia.org/wiki/Hacker_ethic
+Hackathon,https://en.wikipedia.org/wiki/Hackathon
+Hacker Manifesto,https://en.wikipedia.org/wiki/Hacker_Manifesto
+Hackerspace,https://en.wikipedia.org/wiki/Hackerspace
+Hacktivism,https://en.wikipedia.org/wiki/Hacktivism
+Maker culture,https://en.wikipedia.org/wiki/Maker_culture
+hackers,https://en.wikipedia.org/wiki/Hacker
+Black hat,https://en.wikipedia.org/wiki/Black_hat_(computer_security)
+Grey hat,https://en.wikipedia.org/wiki/Grey_hat
+White hat,https://en.wikipedia.org/wiki/White_hat_(computer_security)
+Conferences,https://en.wikipedia.org/wiki/Computer_security_conference
+Black Hat (conference),https://en.wikipedia.org/wiki/Black_Hat_(conference)
+Chaos Communication Congress,https://en.wikipedia.org/wiki/Chaos_Communication_Congress
+DEF CON,https://en.wikipedia.org/wiki/DEF_CON
+Hackers on Planet Earth,https://en.wikipedia.org/wiki/Hackers_on_Planet_Earth
+Security BSides,https://en.wikipedia.org/wiki/Security_BSides
+ShmooCon,https://en.wikipedia.org/wiki/ShmooCon
+Summercon,https://en.wikipedia.org/wiki/Summercon
+Cybercrime,https://en.wikipedia.org/wiki/Cybercrime
+Crimeware,https://en.wikipedia.org/wiki/Crimeware
+List of cybercriminals,https://en.wikipedia.org/wiki/List_of_cybercriminals
+Script kiddie,https://en.wikipedia.org/wiki/Script_kiddie
+Exploit,https://en.wikipedia.org/wiki/Exploit_(computer_security)
+forensics-focused operating systems,https://en.wikipedia.org/wiki/List_of_digital_forensics_tools#Forensics-focused_operating_systems
+Payload,https://en.wikipedia.org/wiki/Payload_(computing)
+Social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+Vulnerability,https://en.wikipedia.org/wiki/Vulnerability_(computer_security)
+Practice sites,https://en.wikipedia.org/wiki/Hacker_culture
+HackThisSite,https://en.wikipedia.org/wiki/HackThisSite
+Zone-H,https://en.wikipedia.org/wiki/Zone-H
+Malware,https://en.wikipedia.org/wiki/Malware
+Rootkit,https://en.wikipedia.org/wiki/Rootkit
+Backdoor,https://en.wikipedia.org/wiki/Backdoor_(computing)
+Trojan horse,https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+Virus,https://en.wikipedia.org/wiki/Computer_virus
+Worm,https://en.wikipedia.org/wiki/Computer_worm
+Spyware,https://en.wikipedia.org/wiki/Spyware
+Ransomware,https://en.wikipedia.org/wiki/Ransomware
+Logic bomb,https://en.wikipedia.org/wiki/Logic_bomb
+Botnet,https://en.wikipedia.org/wiki/Botnet
+Keystroke logging,https://en.wikipedia.org/wiki/Keystroke_logging
+HIDS,https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system
+Web shell,https://en.wikipedia.org/wiki/Web_shell
+RCE,https://en.wikipedia.org/wiki/Arbitrary_code_execution
+Infostealer,https://en.wikipedia.org/wiki/Infostealer
+Cybersecurity,https://en.wikipedia.org/wiki/Computer_security
+Application security,https://en.wikipedia.org/wiki/Application_security
+Cloud computing security,https://en.wikipedia.org/wiki/Cloud_computing_security
+Cryptography,https://en.wikipedia.org/wiki/Cryptography
+Data security,https://en.wikipedia.org/wiki/Data_security
+Digital forensics,https://en.wikipedia.org/wiki/Digital_forensics
+"Governance, risk, and compliance","https://en.wikipedia.org/wiki/Governance,_risk,_and_compliance"
+Identity and access management,https://en.wikipedia.org/wiki/Identity_and_access_management
+Network security,https://en.wikipedia.org/wiki/Network_security
+OT/ICS security,https://en.wikipedia.org/wiki/Control_system_security
+Penetration test,https://en.wikipedia.org/wiki/Penetration_test
+Security operations,https://en.wikipedia.org/wiki/Information_security_operations_center
+Threat intelligence,https://en.wikipedia.org/wiki/Cyber_threat_intelligence
+Groups,https://en.wikipedia.org/wiki/Hacker_group
+Anonymous,https://en.wikipedia.org/wiki/Anonymous_(group)
+Chaos Computer Club,https://en.wikipedia.org/wiki/Chaos_Computer_Club
+Homebrew Computer Club,https://en.wikipedia.org/wiki/Homebrew_Computer_Club
+Legion of Doom,https://en.wikipedia.org/wiki/Legion_of_Doom_(hacker_group)
+LulzSec,https://en.wikipedia.org/wiki/LulzSec
+Masters of Deception,https://en.wikipedia.org/wiki/Masters_of_Deception
+Red team,https://en.wikipedia.org/wiki/Red_team
+Blue team,https://en.wikipedia.org/wiki/Blue_team_(computer_security)
+2600: The Hacker Quarterly,https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
+Hacker News,https://en.wikipedia.org/wiki/Hacker_News
+Nuts and Volts,https://en.wikipedia.org/wiki/Nuts_and_Volts
+Phrack,https://en.wikipedia.org/wiki/Phrack
+v,https://en.wikipedia.org/wiki/Template:Computer_hacking
+t,https://en.wikipedia.org/wiki/Template_talk:Computer_hacking
+e,https://en.wikipedia.org/wiki/Special:EditPage/Template:Computer_hacking
+Operating systems,https://en.wikipedia.org/wiki/Operating_system
+Process management,https://en.wikipedia.org/wiki/Process_management_(computing)
+Interrupts,https://en.wikipedia.org/wiki/Interrupt
+Memory management,https://en.wikipedia.org/wiki/Memory_management
+File system,https://en.wikipedia.org/wiki/File_system
+Device drivers,https://en.wikipedia.org/wiki/Device_driver
+Networking,https://en.wikipedia.org/wiki/Computer_network
+Security,https://en.wikipedia.org/wiki/Computer_security
+Input/output,https://en.wikipedia.org/wiki/Input/output
+v,https://en.wikipedia.org/wiki/Template:OS
+t,https://en.wikipedia.org/wiki/Template_talk:OS
+e,https://en.wikipedia.org/wiki/Special:EditPage/Template:OS
+information security,https://en.wikipedia.org/wiki/Information_security
+computer software,https://en.wikipedia.org/wiki/Computer_software
+systems,https://en.wikipedia.org/wiki/System
+networks,https://en.wikipedia.org/wiki/Computer_network
+threats,https://en.wikipedia.org/wiki/Threat_(security)
+hardware,https://en.wikipedia.org/wiki/Computer_hardware
+software,https://en.wikipedia.org/wiki/Software
+data,https://en.wikipedia.org/wiki/Data_(computing)
+services,https://en.wikipedia.org/wiki/Service_(economics)
+[1],#cite_note-:2-1
+[2],#cite_note-2
+computer systems,https://en.wikipedia.org/wiki/Computer_systems
+Internet,https://en.wikipedia.org/wiki/Internet
+[3],#cite_note-3
+wireless network standards,https://en.wikipedia.org/wiki/Wireless_network_standards
+smart devices,https://en.wikipedia.org/wiki/Smart_device
+smartphones,https://en.wikipedia.org/wiki/Smartphone
+televisions,https://en.wikipedia.org/wiki/Television
+Internet of things,https://en.wikipedia.org/wiki/Internet_of_things
+information systems,https://en.wikipedia.org/wiki/Information_systems
+power grids,https://en.wikipedia.org/wiki/Electric_power_distribution
+electoral processes,https://en.wikipedia.org/wiki/Election_security
+finance,https://en.wikipedia.org/wiki/Finance
+[4],#cite_note-4
+[5],#cite_note-5
+passwords,https://en.wikipedia.org/wiki/Passwords
+encryption,https://en.wikipedia.org/wiki/Encryption
+physical security,https://en.wikipedia.org/wiki/Physical_security
+metal locks,https://en.wikipedia.org/wiki/Lock_and_key
+information security,https://en.wikipedia.org/wiki/Information_security
+security convergence,https://en.wikipedia.org/wiki/Security_convergence
+edit,/w/index.php?title=Computer_security&action=edit&section=1
+Vulnerability (computing),https://en.wikipedia.org/wiki/Vulnerability_(computing)
+Common Vulnerabilities and Exposures,https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures
+[6],#cite_note-6
+exploit,https://en.wikipedia.org/wiki/Exploit_(computer_security)
+[7],#cite_note-7
+threat,https://en.wikipedia.org/wiki/Threat_(computer_security)
+hacker,https://en.wikipedia.org/wiki/Hacker
+automated tools,https://en.wikipedia.org/wiki/Automated_threat
+[8],#cite_note-8
+[9],#cite_note-9
+cyberattacks,https://en.wikipedia.org/wiki/Cyberattack
+[10],#cite_note-crowdstrike.com-10
+United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom_Government
+[11],#cite_note-Cyber_breaches_2023-11
+[11],#cite_note-Cyber_breaches_2023-11
+small and midsize businesses,https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises
+[10],#cite_note-crowdstrike.com-10
+man-in-the-middle attacks,https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+[10],#cite_note-crowdstrike.com-10
+[12],#cite_note-Cyber_attacks-12
+phishing,https://en.wikipedia.org/wiki/Phishing
+ransomware,https://en.wikipedia.org/wiki/Ransomware
+water holing,https://en.wikipedia.org/wiki/Watering_hole_attack
+[12],#cite_note-Cyber_attacks-12
+threats,https://en.wikipedia.org/wiki/Threat_(computer)
+edit,/w/index.php?title=Computer_security&action=edit&section=2
+backdoor,https://en.wikipedia.org/wiki/Backdoor_(computing)
+cryptosystem,https://en.wikipedia.org/wiki/Cryptosystem
+algorithm,https://en.wikipedia.org/wiki/Algorithm
+authentication,https://en.wikipedia.org/wiki/Authentication
+[13],#cite_note-13
+Criminals,https://en.wikipedia.org/wiki/Cybercrime
+malware,https://en.wikipedia.org/wiki/Malware
+[14],#cite_note-McAfee-2023-14
+[14],#cite_note-McAfee-2023-14
+operating system,https://en.wikipedia.org/wiki/Operating_system
+edit,/w/index.php?title=Computer_security&action=edit&section=3
+Denial-of-service attacks,https://en.wikipedia.org/wiki/Denial-of-service_attacks
+[15],#cite_note-DoS_guidance-15
+IP address,https://en.wikipedia.org/wiki/IP_address
+distributed denial-of-service,https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
+zombie computers,https://en.wikipedia.org/wiki/Zombie_computer
+botnet,https://en.wikipedia.org/wiki/Botnet
+distributed reflective denial-of-service,https://en.wikipedia.org/wiki/Denial-of-service_attack#Reflected_attack
+[15],#cite_note-DoS_guidance-15
+edit,/w/index.php?title=Computer_security&action=edit&section=4
+Physical access,https://en.wikipedia.org/wiki/Physical_access
+[16],#cite_note-16
+software worms,https://en.wikipedia.org/wiki/Computer_worm
+keyloggers,https://en.wikipedia.org/wiki/Keyloggers
+covert listening devices,https://en.wikipedia.org/wiki/Covert_listening_device
+CD-ROM,https://en.wikipedia.org/wiki/CD-ROM
+Disk encryption,https://en.wikipedia.org/wiki/Disk_encryption
+Trusted Platform Module,https://en.wikipedia.org/wiki/Trusted_Platform_Module
+direct memory attacks,https://en.wikipedia.org/wiki/DMA_attack
+[17],#cite_note-Kroll-17
+[17],#cite_note-Kroll-17
+edit,/w/index.php?title=Computer_security&action=edit&section=5
+Eavesdropping,https://en.wikipedia.org/wiki/Eavesdropping
+[18],#cite_note-Fortinet-18
+malware,https://en.wikipedia.org/wiki/Malware
+[18],#cite_note-Fortinet-18
+[19],#cite_note-19
+virtual private network,https://en.wikipedia.org/wiki/Virtual_private_network
+HTTPS,https://en.wikipedia.org/wiki/HTTPS
+HTTP,https://en.wikipedia.org/wiki/HTTP
+[20],#cite_note-20
+Carnivore,https://en.wikipedia.org/wiki/Carnivore_(FBI)
+NarusInSight,https://en.wikipedia.org/wiki/Narus_(company)
+Federal Bureau of Investigation,https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
+internet service providers,https://en.wikipedia.org/wiki/Internet_service_provider
+electromagnetic,https://en.wikipedia.org/wiki/Electromagnetic
+TEMPEST,https://en.wikipedia.org/wiki/Tempest_(codename)
+edit,/w/index.php?title=Computer_security&action=edit&section=6
+Malware,https://en.wikipedia.org/wiki/Malware
+[21],#cite_note-Malware-IBM-21
+[22],#cite_note-22
+[23],#cite_note-23
+edit,/w/index.php?title=Computer_security&action=edit&section=7
+Viruses,https://en.wikipedia.org/wiki/Computer_virus
+[21],#cite_note-Malware-IBM-21
+Worms,https://en.wikipedia.org/wiki/Computer_worm
+[21],#cite_note-Malware-IBM-21
+Trojan horses,https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+RAT (Remote Access Trojan),https://en.wikipedia.org/wiki/Remote_Access_Trojan
+[21],#cite_note-Malware-IBM-21
+Spyware,https://en.wikipedia.org/wiki/Spyware
+attacker,https://en.wikipedia.org/wiki/Hacker
+keyloggers,https://en.wikipedia.org/wiki/Keyloggers
+[21],#cite_note-Malware-IBM-21
+Scareware,https://en.wikipedia.org/wiki/Scareware
+malware,https://en.wikipedia.org/wiki/Malware
+social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+shock,https://en.wikipedia.org/wiki/Acute_stress_reaction
+anxiety,https://en.wikipedia.org/wiki/Anxiety
+unwanted software,https://en.wikipedia.org/wiki/Unwanted_software
+[21],#cite_note-Malware-IBM-21
+Ransomware,https://en.wikipedia.org/wiki/Ransomware
+Bitcoin,https://en.wikipedia.org/wiki/Bitcoin
+edit,/w/index.php?title=Computer_security&action=edit&section=8
+Man-in-the-middle attacks,https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+[24],#cite_note-verizon-mitm-24
+Malicious association,https://en.wikipedia.org/wiki/Malicious_association
+DNS spoofing,https://en.wikipedia.org/wiki/DNS_spoofing
+TLS interception,https://en.wikipedia.org/wiki/TLS_interception
+[24],#cite_note-verizon-mitm-24
+edit,/w/index.php?title=Computer_security&action=edit&section=9
+[25],#cite_note-25
+[26],#cite_note-26
+[27],#cite_note-Tounsi-2019-27
+[27],#cite_note-Tounsi-2019-27
+[27],#cite_note-Tounsi-2019-27
+edit,/w/index.php?title=Computer_security&action=edit&section=10
+email,https://en.wikipedia.org/wiki/Email
+fictional,https://en.wikipedia.org/wiki/Fiction
+sender,https://en.wikipedia.org/wiki/Sender
+confidential,https://en.wikipedia.org/wiki/Confidential
+URL,https://en.wikipedia.org/wiki/URL
+webpage,https://en.wikipedia.org/wiki/Webpage
+Phishing,https://en.wikipedia.org/wiki/Phishing
+[28],#cite_note-28
+email spoofing,https://en.wikipedia.org/wiki/Email_spoofing
+instant messaging,https://en.wikipedia.org/wiki/Instant_messaging
+text message,https://en.wikipedia.org/wiki/Text_message
+phone,https://en.wikipedia.org/wiki/Telephone_call
+look and feel,https://en.wikipedia.org/wiki/Look_and_feel
+[29],#cite_note-29
+social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+[30],#cite_note-30
+[31],#cite_note-:3-31
+edit,/w/index.php?title=Computer_security&action=edit&section=11
+Privilege escalation,https://en.wikipedia.org/wiki/Privilege_escalation
+[32],#cite_note-Privilege_escalation-32
+vulnerability,https://en.wikipedia.org/wiki/Vulnerability_(computing)
+root,https://en.wikipedia.org/wiki/Superuser
+ransomware attack,https://en.wikipedia.org/wiki/Ransomware
+social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+phishing,https://en.wikipedia.org/wiki/Phishing
+[32],#cite_note-Privilege_escalation-32
+[32],#cite_note-Privilege_escalation-32
+[32],#cite_note-Privilege_escalation-32
+edit,/w/index.php?title=Computer_security&action=edit&section=12
+Side-channel attack,https://en.wikipedia.org/wiki/Side-channel_attack
+cold boot attack,https://en.wikipedia.org/wiki/Cold_boot_attack
+[33],#cite_note-33
+edit,/w/index.php?title=Computer_security&action=edit&section=13
+Social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+[34],#cite_note-34
+cognitive biases,https://en.wikipedia.org/wiki/Cognitive_bias
+phishing,https://en.wikipedia.org/wiki/Phishing
+FBI,https://en.wikipedia.org/wiki/FBI
+business email compromise,https://en.wikipedia.org/wiki/Business_email_compromise
+[35],#cite_note-35
+Milwaukee Bucks,https://en.wikipedia.org/wiki/Milwaukee_Bucks
+NBA,https://en.wikipedia.org/wiki/NBA
+Peter Feigin,https://en.wikipedia.org/wiki/Peter_Feigin?action=edit&redlink=1
+W-2,https://en.wikipedia.org/wiki/Form_W-2
+[36],#cite_note-36
+edit,/w/index.php?title=Computer_security&action=edit&section=14
+Spoofing attack,https://en.wikipedia.org/wiki/Spoofing_attack
+phishing,https://en.wikipedia.org/wiki/Phishing
+[37],#cite_note-37
+[38],#cite_note-38
+Email spoofing,https://en.wikipedia.org/wiki/Email_spoofing
+IP address spoofing,https://en.wikipedia.org/wiki/IP_address_spoofing
+network packet,https://en.wikipedia.org/wiki/Network_packet
+MAC spoofing,https://en.wikipedia.org/wiki/MAC_spoofing
+Media Access Control (MAC) address,https://en.wikipedia.org/wiki/MAC_address
+network interface controller,https://en.wikipedia.org/wiki/Network_interface_controller
+Biometric,https://en.wikipedia.org/wiki/Biometric
+[39],#cite_note-39
+Address Resolution Protocol,https://en.wikipedia.org/wiki/Address_Resolution_Protocol
+local area network,https://en.wikipedia.org/wiki/Local_area_network
+Media Access Control address,https://en.wikipedia.org/wiki/Media_Access_Control_address
+edit,/w/index.php?title=Computer_security&action=edit&section=15
+Tampering,https://en.wikipedia.org/wiki/Tampering_(crime)
+malicious modification,https://en.wikipedia.org/wiki/Evasion_(network_security)
+Evil Maid attacks,https://en.wikipedia.org/wiki/Evil_Maid_attack
+surveillance,https://en.wikipedia.org/wiki/Surveillance
+[40],#cite_note-40
+edit,/w/index.php?title=Computer_security&action=edit&section=16
+HTML,https://en.wikipedia.org/wiki/HTML
+[41],#cite_note-Intelligence-2021-41
+content filters,https://en.wikipedia.org/wiki/Content_filter
+[42],#cite_note-42
+[41],#cite_note-Intelligence-2021-41
+edit,/w/index.php?title=Computer_security&action=edit&section=17
+Information security,https://en.wikipedia.org/wiki/Information_security
+[43],#cite_note-43
+[44],#cite_note-44
+[45],#cite_note-45
+[46],"#cite_note-Schlienger,_Thomas_2003-46"
+[46],"#cite_note-Schlienger,_Thomas_2003-46"
+[46],"#cite_note-Schlienger,_Thomas_2003-46"
+edit,/w/index.php?title=Computer_security&action=edit&section=18
+countermeasure,https://en.wikipedia.org/wiki/Countermeasure_(computer)
+attack,https://en.wikipedia.org/wiki/Attack_(computing)
+[47],#cite_note-47
+[48],#cite_note-48
+[49],#cite_note-49
+edit,/w/index.php?title=Computer_security&action=edit&section=19
+Secure by design,https://en.wikipedia.org/wiki/Secure_by_design
+[50],#cite_note-50
+principle of least privilege,https://en.wikipedia.org/wiki/Principle_of_least_privilege
+attacker,https://en.wikipedia.org/wiki/Hacker_(computer_security)
+Automated theorem proving,https://en.wikipedia.org/wiki/Automated_theorem_proving
+Code reviews,https://en.wikipedia.org/wiki/Code_review
+unit testing,https://en.wikipedia.org/wiki/Unit_testing
+Defense in depth,https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+fail-safe,https://en.wikipedia.org/wiki/Fail-safe
+safety engineering,https://en.wikipedia.org/wiki/Safety_engineering
+Audit trails,https://en.wikipedia.org/wiki/Audit_trail
+Full disclosure,https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)
+edit,/w/index.php?title=Computer_security&action=edit&section=20
+[51],#cite_note-NSCS_security_arch-51
+[51],#cite_note-NSCS_security_arch-51
+[52],#cite_note-52
+[53],#cite_note-53
+[54],#cite_note-54
+edit,/w/index.php?title=Computer_security&action=edit&section=21
+user account,https://en.wikipedia.org/wiki/User_account
+access controls,https://en.wikipedia.org/wiki/Access_control
+cryptography,https://en.wikipedia.org/wiki/Cryptography
+Firewalls,https://en.wikipedia.org/wiki/Firewall_(networking)
+[55],#cite_note-Oppliger-1997-55
+Intrusion Detection System,https://en.wikipedia.org/wiki/Intrusion_Detection_System
+forensics,https://en.wikipedia.org/wiki/Forensics
+audit trails,https://en.wikipedia.org/wiki/Audit_trail
+logs,https://en.wikipedia.org/wiki/Data_logging
+legal,https://en.wikipedia.org/wiki/Legal
+[56],#cite_note-56
+proxy,https://en.wikipedia.org/wiki/Proxy_server
+firewalls,https://en.wikipedia.org/wiki/Firewall_(computing)
+exit procedure,https://en.wikipedia.org/wiki/Exit_procedure
+Internet,https://en.wikipedia.org/wiki/Internet
+network stack,https://en.wikipedia.org/wiki/Network_stack
+UNIX,https://en.wikipedia.org/wiki/UNIX
+Linux,https://en.wikipedia.org/wiki/Linux
+kernel,https://en.wikipedia.org/wiki/Kernel_(operating_system)
+[55],#cite_note-Oppliger-1997-55
+big data,https://en.wikipedia.org/wiki/Big_data
+Apache Hadoop,https://en.wikipedia.org/wiki/Apache_Hadoop
+machine learning,https://en.wikipedia.org/wiki/Machine_learning
+advanced persistent threats,https://en.wikipedia.org/wiki/Advanced_persistent_threat
+[57],#cite_note-57
+CIA triad,https://en.wikipedia.org/wiki/CIA_triad
+[58],#cite_note-58
+[59],#cite_note-59
+edit,/w/index.php?title=Computer_security&action=edit&section=22
+Vulnerability management,https://en.wikipedia.org/wiki/Vulnerability_management
+vulnerabilities,https://en.wikipedia.org/wiki/Software_vulnerability
+[60],#cite_note-60
+firmware,https://en.wikipedia.org/wiki/Firmware
+network security,https://en.wikipedia.org/wiki/Network_security
+vulnerability scanner,https://en.wikipedia.org/wiki/Vulnerability_scanner
+[61],#cite_note-61
+open ports,https://en.wikipedia.org/wiki/Open_port
+malware,https://en.wikipedia.org/wiki/Malware
+penetration tests,https://en.wikipedia.org/wiki/Penetration_test
+[62],#cite_note-62
+edit,/w/index.php?title=Computer_security&action=edit&section=23
+information technology security assessments,https://en.wikipedia.org/wiki/Information_technology_security_assessment
+formal verification,https://en.wikipedia.org/wiki/Formal_verification
+[63],#cite_note-63
+[64],#cite_note-64
+seL4,https://en.wikipedia.org/wiki/SeL4
+[65],#cite_note-65
+SYSGO,https://en.wikipedia.org/wiki/SYSGO
+PikeOS,https://en.wikipedia.org/wiki/PikeOS
+[66],#cite_note-66
+[67],#cite_note-67
+[68],#cite_note-68
+backing up,https://en.wikipedia.org/wiki/Backup
+insurance,https://en.wikipedia.org/wiki/Insurance
+hardening,https://en.wikipedia.org/wiki/Hardening_(computing)
+[69],#cite_note-i451-69
+Two factor authentication,https://en.wikipedia.org/wiki/Two_factor_authentication
+[70],#cite_note-70
+[71],#cite_note-71
+inoculation theory,https://en.wikipedia.org/wiki/Inoculation_theory
+[72],#cite_note-72
+edit,/w/index.php?title=Computer_security&action=edit&section=24
+Computer security compromised by hardware failure,https://en.wikipedia.org/wiki/Computer_security_compromised_by_hardware_failure
+dongles,https://en.wikipedia.org/wiki/Dongle
+trusted platform modules,https://en.wikipedia.org/wiki/Trusted_platform_module
+dongles,https://en.wikipedia.org/wiki/Dongle
+[73],#cite_note-73
+Advanced Encryption Standard,https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+Virtual Private Networks,https://en.wikipedia.org/wiki/Virtual_Private_Networks
+[74],#cite_note-74
+[75],#cite_note-75
+Trusted platform modules,https://en.wikipedia.org/wiki/Trusted_platform_module
+[76],#cite_note-76
+Computer case intrusion detection,https://en.wikipedia.org/wiki/Computer_case#Intrusion_detection
+[77],#cite_note-77
+[78],#cite_note-78
+[79],#cite_note-79
+[80],#cite_note-80
+Bluetooth,https://en.wikipedia.org/wiki/Bluetooth
+Bluetooth low-energy,https://en.wikipedia.org/wiki/Bluetooth_low-energy?action=edit&redlink=1
+near-field communication,https://en.wikipedia.org/wiki/Near-field_communication
+biometric,https://en.wikipedia.org/wiki/Biometric
+QR code,https://en.wikipedia.org/wiki/QR_code
+[81],#cite_note-81
+IOMMUs,https://en.wikipedia.org/wiki/IOMMU
+sandboxing,https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+direct memory access,https://en.wikipedia.org/wiki/Direct_memory_access
+[82],#cite_note-82
+[83],#cite_note-83
+Physical Unclonable Functions,https://en.wikipedia.org/wiki/Physical_unclonable_function
+[84],#cite_note-84
+[85],#cite_note-85
+edit,/w/index.php?title=Computer_security&action=edit&section=25
+Security-evaluated operating system,https://en.wikipedia.org/wiki/Security-evaluated_operating_system
+secure operating systems,https://en.wikipedia.org/wiki/Security-evaluated_operating_system
+Common Criteria,https://en.wikipedia.org/wiki/Common_Criteria
+[86],#cite_note-86
+edit,/w/index.php?title=Computer_security&action=edit&section=26
+Secure coding,https://en.wikipedia.org/wiki/Secure_coding
+secure coding,https://en.wikipedia.org/wiki/Secure_coding
+secure by design,https://en.wikipedia.org/wiki/Secure_by_design
+correctness,https://en.wikipedia.org/wiki/Correctness_(computer_science)
+algorithms,https://en.wikipedia.org/wiki/Algorithms
+[87],#cite_note-87
+cryptographic protocols,https://en.wikipedia.org/wiki/Cryptographic_protocol
+edit,/w/index.php?title=Computer_security&action=edit&section=27
+Access control list,https://en.wikipedia.org/wiki/Access_control_list
+Role-based access control,https://en.wikipedia.org/wiki/Role-based_access_control
+Capability-based security,https://en.wikipedia.org/wiki/Capability-based_security
+security models,https://en.wikipedia.org/wiki/Computer_security_model
+access control lists,https://en.wikipedia.org/wiki/Access_control_list
+role-based access control,https://en.wikipedia.org/wiki/Role-based_access_control
+access-control list,https://en.wikipedia.org/wiki/Access-control_list
+[88],#cite_note-88
+[89],#cite_note-89
+[90],#cite_note-90
+[91],#cite_note-autogenerated2002-91
+mandatory access control,https://en.wikipedia.org/wiki/Mandatory_access_control
+discretionary access control,https://en.wikipedia.org/wiki/Discretionary_access_control
+capability-based security,https://en.wikipedia.org/wiki/Capability-based_security
+E language,https://en.wikipedia.org/wiki/E_programming_language
+edit,/w/index.php?title=Computer_security&action=edit&section=28
+[92],#cite_note-92
+[93],#cite_note-93
+[94],#cite_note-94
+[95],#cite_note-95
+[96],#cite_note-96
+[97],#cite_note-97
+[98],#cite_note-98
+edit,/w/index.php?title=Computer_security&action=edit&section=29
+personal hygiene,https://en.wikipedia.org/wiki/Personal_hygiene
+[99],#cite_note-Cyber_Hygiene-99
+proactive cyber defence,https://en.wikipedia.org/wiki/Proactive_cyber_defence
+[100],#cite_note-Kaljulaid-2017-100
+[101],#cite_note-101
+[102],#cite_note-102
+[103],#cite_note-103
+[104],#cite_note-104
+[105],#cite_note-105
+Vint Cerf,https://en.wikipedia.org/wiki/Vint_Cerf
+Congress,https://en.wikipedia.org/wiki/United_States_Congress
+[106],#cite_note-106
+Senate,https://en.wikipedia.org/wiki/United_States_Senate
+[107],#cite_note-107
+[108],#cite_note-108
+EU,https://en.wikipedia.org/wiki/EU
+[99],#cite_note-Cyber_Hygiene-99
+[100],#cite_note-Kaljulaid-2017-100
+edit,/w/index.php?title=Computer_security&action=edit&section=30
+security breaches,https://en.wikipedia.org/wiki/Security_breaches
+jurisdiction,https://en.wikipedia.org/wiki/Jurisdiction
+logs,https://en.wikipedia.org/wiki/Data_logging
+Law enforcement officers,https://en.wikipedia.org/wiki/Law_enforcement_officer
+security breach notification laws,https://en.wikipedia.org/wiki/Security_breach_notification_laws
+edit,/w/index.php?title=Computer_security&action=edit&section=31
+Access control,https://en.wikipedia.org/wiki/Access_control
+Anti-keyloggers,https://en.wikipedia.org/wiki/Anti-keylogger
+Anti-malware,https://en.wikipedia.org/wiki/Anti-malware
+Anti-spyware,https://en.wikipedia.org/wiki/Anti-spyware
+Anti-subversion software,https://en.wikipedia.org/wiki/Anti-subversion_software
+Anti-tamper software,https://en.wikipedia.org/wiki/Anti-tamper_software
+Anti-theft,https://en.wikipedia.org/wiki/Anti-theft
+Antivirus software,https://en.wikipedia.org/wiki/Antivirus_software
+Cryptographic software,https://en.wikipedia.org/wiki/Cryptographic_software
+Computer-aided dispatch,https://en.wikipedia.org/wiki/Computer-aided_dispatch
+Data loss prevention software,https://en.wikipedia.org/wiki/Data_loss_prevention_software
+Firewall,https://en.wikipedia.org/wiki/Firewall_(computing)
+Intrusion detection system,https://en.wikipedia.org/wiki/Intrusion_detection_system
+Intrusion prevention system,https://en.wikipedia.org/wiki/Intrusion_prevention_system
+Log management software,https://en.wikipedia.org/wiki/Log_management_software
+Parental control,https://en.wikipedia.org/wiki/Parental_control
+Records management,https://en.wikipedia.org/wiki/Records_management
+Sandbox,https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+Security information management,https://en.wikipedia.org/wiki/Security_information_management
+Security information and event management,https://en.wikipedia.org/wiki/Security_information_and_event_management
+Software and operating system updating,https://en.wikipedia.org/wiki/Patch_(computing)
+Vulnerability management,https://en.wikipedia.org/wiki/Vulnerability_management
+edit,/w/index.php?title=Computer_security&action=edit&section=32
+edit,/w/index.php?title=Computer_security&action=edit&section=33
+U.S. Securities and Exchange Commission,https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission
+cybercriminals,https://en.wikipedia.org/wiki/Cybercriminals
+[109],#cite_note-109
+credit card numbers,https://en.wikipedia.org/wiki/Credit_card_number
+bank account,https://en.wikipedia.org/wiki/Bank_account
+black market,https://en.wikipedia.org/wiki/Black_market
+[110],#cite_note-110
+ATMs,https://en.wikipedia.org/wiki/ATM
+PINs,https://en.wikipedia.org/wiki/Personal_identification_number
+UCLA,https://en.wikipedia.org/wiki/UCLA
+credit card,https://en.wikipedia.org/wiki/Credit_card
+[111],#cite_note-111
+Transport Layer Security,https://en.wikipedia.org/wiki/Transport_Layer_Security
+identity management,https://en.wikipedia.org/wiki/Identity_management
+authentication,https://en.wikipedia.org/wiki/Authentication
+domain name,https://en.wikipedia.org/wiki/Domain_name
+instant messaging,https://en.wikipedia.org/wiki/Instant_messaging
+VoIP,https://en.wikipedia.org/wiki/VoIP
+interoperable,https://en.wikipedia.org/wiki/Interoperable
+open source,https://en.wikipedia.org/wiki/Open_source
+source code,https://en.wikipedia.org/wiki/Source_code
+Visa,https://en.wikipedia.org/wiki/Visa_Debit
+MasterCard,https://en.wikipedia.org/wiki/MasterCard
+EMV,https://en.wikipedia.org/wiki/EMV
+Chip Authentication Program,https://en.wikipedia.org/wiki/Chip_Authentication_Program
+mall kiosks,https://en.wikipedia.org/wiki/Mall_kiosk
+edit,/w/index.php?title=Computer_security&action=edit&section=34
+telecommunications,https://en.wikipedia.org/wiki/Telecommunications
+power grid,https://en.wikipedia.org/wiki/Power_grid
+nuclear power plants,https://en.wikipedia.org/wiki/Nuclear_power_plant
+Stuxnet,https://en.wikipedia.org/wiki/Stuxnet
+Computer Emergency Readiness Team,https://en.wikipedia.org/wiki/Computer_Emergency_Readiness_Team
+Department of Homeland Security,https://en.wikipedia.org/wiki/Department_of_Homeland_Security
+[112],#cite_note-112
+edit,/w/index.php?title=Computer_security&action=edit&section=35
+aviation,https://en.wikipedia.org/wiki/Aviation
+[113],#cite_note-113
+[114],#cite_note-114
+[115],#cite_note-115
+[116],#cite_note-116
+[117],#cite_note-117
+[118],#cite_note-118
+Pan-European Network Service,https://en.wikipedia.org/wiki/Pan-European_Network_Service
+[119],#cite_note-119
+[120],#cite_note-120
+[121],#cite_note-121
+air navigation service providers,https://en.wikipedia.org/wiki/Air_navigation_service_provider
+biometric passports,https://en.wikipedia.org/wiki/Biometric_passport
+microchip,https://en.wikipedia.org/wiki/Microchip
+which?,https://en.wikipedia.org/wiki/Wikipedia:Avoid_weasel_words
+facial recognition technology,https://en.wikipedia.org/wiki/Facial_recognition_technology
+identity-related fraud,https://en.wikipedia.org/wiki/Identity_fraud
+[122],#cite_note-122
+UK,https://en.wikipedia.org/wiki/UK
+Australia,https://en.wikipedia.org/wiki/Australia
+fingerprint recognition,https://en.wikipedia.org/wiki/Fingerprint_recognition
+[123],#cite_note-123
+electronic tickets,https://en.wikipedia.org/wiki/Electronic_ticket
+which?,https://en.wikipedia.org/wiki/Wikipedia:Avoid_weasel_words
+air traffic control,https://en.wikipedia.org/wiki/Air_traffic_control
+edit,/w/index.php?title=Computer_security&action=edit&section=36
+Smartphones,https://en.wikipedia.org/wiki/Smartphone
+tablet computers,https://en.wikipedia.org/wiki/Tablet_computer
+smart watches,https://en.wikipedia.org/wiki/Smart_watch
+mobile devices,https://en.wikipedia.org/wiki/Mobile_devices
+quantified self,https://en.wikipedia.org/wiki/Quantified_self
+activity trackers,https://en.wikipedia.org/wiki/Activity_tracker
+accelerometers,https://en.wikipedia.org/wiki/Accelerometers
+[124],#cite_note-nestwatch-124
+home automation,https://en.wikipedia.org/wiki/Home_automation
+Nest thermostat,https://en.wikipedia.org/wiki/Nest_thermostat
+[124],#cite_note-nestwatch-124
+edit,/w/index.php?title=Computer_security&action=edit&section=37
+health insurance,https://en.wikipedia.org/wiki/Health_insurance
+tele-health,https://en.wikipedia.org/wiki/Telehealth
+[125],#cite_note-125
+[126],#cite_note-126
+edit,/w/index.php?title=Computer_security&action=edit&section=38
+identity theft,https://en.wikipedia.org/wiki/Identity_theft
+data breaches,https://en.wikipedia.org/wiki/Data_breach
+Home Depot,https://en.wikipedia.org/wiki/Home_Depot
+[127],#cite_note-127
+Staples,https://en.wikipedia.org/wiki/Staples_Inc.
+[128],#cite_note-128
+Target Corporation,https://en.wikipedia.org/wiki/Target_Corporation
+[129],#cite_note-129
+Equifax,https://en.wikipedia.org/wiki/Equifax
+[130],#cite_note-130
+[131],#cite_note-131
+[132],#cite_note-132
+HBGary Federal,https://en.wikipedia.org/wiki/HBGary_Federal
+hacktivist,https://en.wikipedia.org/wiki/Hacktivist
+Anonymous,https://en.wikipedia.org/wiki/Anonymous_(group)
+[133],#cite_note-133
+[134],#cite_note-134
+Sony Pictures,https://en.wikipedia.org/wiki/Sony_Pictures
+hacked in 2014,https://en.wikipedia.org/wiki/Sony_Pictures_hack
+[135],#cite_note-135
+[136],#cite_note-136
+edit,/w/index.php?title=Computer_security&action=edit&section=39
+Autonomous car §Potential disadvantages,https://en.wikipedia.org/wiki/Autonomous_car#Potential_disadvantages
+Automated driving system §Risks and liabilities,https://en.wikipedia.org/wiki/Automated_driving_system#Risks_and_liabilities
+Automotive hacking,https://en.wikipedia.org/wiki/Automotive_hacking
+cruise control,https://en.wikipedia.org/wiki/Cruise_control
+anti-lock brakes,https://en.wikipedia.org/wiki/Anti-lock_brakes
+airbags,https://en.wikipedia.org/wiki/Airbag
+advanced driver-assistance systems,https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems
+connected cars,https://en.wikipedia.org/wiki/Connected_car
+[137],#cite_note-vox-137
+Self-driving cars,https://en.wikipedia.org/wiki/Self-driving_car
+[138],#cite_note-138
+[139],#cite_note-139
+[140],#cite_note-140
+compact disc,https://en.wikipedia.org/wiki/Compact_disc
+[141],#cite_note-141
+controller area network,https://en.wikipedia.org/wiki/Controller_area_network
+[137],#cite_note-vox-137
+[142],#cite_note-142
+[143],#cite_note-143
+Tesla,https://en.wikipedia.org/wiki/Tesla_Motors
+[144],#cite_note-144
+United States Department of Transportation,https://en.wikipedia.org/wiki/United_States_Department_of_Transportation
+[145],#cite_note-145
+[146],#cite_note-146
+[147],#cite_note-147
+Monterrey,https://en.wikipedia.org/wiki/Monterrey
+Nuevo León,https://en.wikipedia.org/wiki/Nuevo_León
+[148],#cite_note-148
+edit,/w/index.php?title=Computer_security&action=edit&section=40
+[149],#cite_note-149
+RFID,https://en.wikipedia.org/wiki/RFID
+tracking device,https://en.wikipedia.org/wiki/Tracking_device
+barcode,https://en.wikipedia.org/wiki/Barcode
+FedEx,https://en.wikipedia.org/wiki/FedEx
+[150],#cite_note-150
+UPS,https://en.wikipedia.org/wiki/United_Parcel_Service
+[151],#cite_note-151
+edit,/w/index.php?title=Computer_security&action=edit&section=41
+military,https://en.wikipedia.org/wiki/Military
+[152],#cite_note-152
+[153],#cite_note-153
+[154],#cite_note-154
+[155],#cite_note-155
+[156],#cite_note-156
+[157],#cite_note-157
+[158],#cite_note-158
+traffic light,https://en.wikipedia.org/wiki/Traffic_light
+personnel records,https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach
+[159],#cite_note-159
+edit,/w/index.php?title=Computer_security&action=edit&section=42
+Internet of things,https://en.wikipedia.org/wiki/Internet_of_things
+embedded,https://en.wikipedia.org/wiki/Embedded_system
+electronics,https://en.wikipedia.org/wiki/Electronics
+software,https://en.wikipedia.org/wiki/Software
+sensors,https://en.wikipedia.org/wiki/Sensor
+network connectivity,https://en.wikipedia.org/wiki/Internet_access
+[160],#cite_note-160
+[161],#cite_note-161
+[162],#cite_note-162
+[163],#cite_note-163
+[164],#cite_note-164
+[165],#cite_note-165
+[166],#cite_note-166
+edit,/w/index.php?title=Computer_security&action=edit&section=43
+Medical device hijack,https://en.wikipedia.org/wiki/Medical_device_hijack
+Medical data breach,https://en.wikipedia.org/wiki/Medical_data_breach
+Medical devices,https://en.wikipedia.org/wiki/Medical_devices
+[167],#cite_note-167
+pacemakers,https://en.wikipedia.org/wiki/Pacemaker
+[168],#cite_note-168
+insulin pumps,https://en.wikipedia.org/wiki/Insulin_pump
+[169],#cite_note-169
+ransomware,https://en.wikipedia.org/wiki/Ransomware
+[170],#cite_note-170
+[171],#cite_note-wiwo1-171
+[172],#cite_note-172
+[173],#cite_note-173
+Windows XP,https://en.wikipedia.org/wiki/Windows_XP
+[174],#cite_note-174
+[175],#cite_note-175
+[176],#cite_note-176
+[177],#cite_note-177
+[178],#cite_note-178
+[171],#cite_note-wiwo1-171
+[179],#cite_note-179
+[180],#cite_note-180
+Food and Drug Administration,https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+device manufacturers,https://en.wikipedia.org/wiki/Medical_device_manufacturing
+[181],#cite_note-181
+[182],#cite_note-182
+edit,/w/index.php?title=Computer_security&action=edit&section=44
+Pepco,https://en.wikipedia.org/wiki/Pepco
+[183],#cite_note-183
+edit,/w/index.php?title=Computer_security&action=edit&section=45
+SIM,https://en.wikipedia.org/wiki/Subscriber_Identity_Module
+HTTP server,https://en.wikipedia.org/wiki/HTTP_server
+smart card,https://en.wikipedia.org/wiki/Smart_card
+[184],#cite_note-184
+DVD,https://en.wikipedia.org/wiki/DVD
+optical disc,https://en.wikipedia.org/wiki/Optical_disc
+mobile signatures,https://en.wikipedia.org/wiki/Mobile_signature
+electronic signature,https://en.wikipedia.org/wiki/Electronic_signature
+edit,/w/index.php?title=Computer_security&action=edit&section=46
+security breaches,https://en.wikipedia.org/wiki/Security_breaches
+virus,https://en.wikipedia.org/wiki/Computer_virus
+[185],#cite_note-185
+Gordon-Loeb Model,https://en.wikipedia.org/wiki/Gordon-Loeb_Model
+expected value,https://en.wikipedia.org/wiki/Expected_value
+security breach,https://en.wikipedia.org/wiki/Security_breach
+[186],#cite_note-186
+edit,/w/index.php?title=Computer_security&action=edit&section=47
+physical security,https://en.wikipedia.org/wiki/Physical_security
+vandals,https://en.wikipedia.org/wiki/Vandalism
+KGB,https://en.wikipedia.org/wiki/KGB
+Clifford Stoll,https://en.wikipedia.org/wiki/Clifford_Stoll
+The Cuckoo's Egg,https://en.wikipedia.org/wiki/The_Cuckoo's_Egg
+[15],#cite_note-DoS_guidance-15
+2015 Ukraine power grid hack,https://en.wikipedia.org/wiki/2015_Ukraine_power_grid_hack
+[187],#cite_note-187
+[188],#cite_note-188
+[189],#cite_note-189
+nation state,https://en.wikipedia.org/wiki/Nation_state
+[190],#cite_note-190
+[191],#cite_note-191
+edit,/w/index.php?title=Computer_security&action=edit&section=48
+Computer security incident management,https://en.wikipedia.org/wiki/Computer_security_incident_management
+data breach,https://en.wikipedia.org/wiki/Data_breach
+[192],#cite_note-192
+[193],#cite_note-193
+edit,/w/index.php?title=Computer_security&action=edit&section=49
+List of cyberattacks,https://en.wikipedia.org/wiki/List_of_cyberattacks
+List of data breaches,https://en.wikipedia.org/wiki/List_of_data_breaches
+edit,/w/index.php?title=Computer_security&action=edit&section=50
+Morris worm,https://en.wikipedia.org/wiki/Morris_worm
+computer worm,https://en.wikipedia.org/wiki/Computer_worm
+[194],#cite_note-multiple-194
+Cornell University,https://en.wikipedia.org/wiki/Cornell_University
+Robert Tappan Morris,https://en.wikipedia.org/wiki/Robert_Tappan_Morris
+[194],#cite_note-multiple-194
+edit,/w/index.php?title=Computer_security&action=edit&section=51
+Rome Laboratory,https://en.wikipedia.org/wiki/Rome_Laboratory
+trojan horses,https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+National Aeronautics and Space Administration,https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration
+[195],#cite_note-195
+edit,/w/index.php?title=Computer_security&action=edit&section=52
+TJX,https://en.wikipedia.org/wiki/TJX
+unauthorized computer systems intrusion,https://en.wikipedia.org/wiki/Hacker_(computer_security)
+[196],#cite_note-196
+credit card,https://en.wikipedia.org/wiki/Credit_card
+debit card,https://en.wikipedia.org/wiki/Debit_card
+check,https://en.wikipedia.org/wiki/Cheque
+[197],#cite_note-197
+edit,/w/index.php?title=Computer_security&action=edit&section=53
+Stuxnet,https://en.wikipedia.org/wiki/Stuxnet
+nuclear centrifuges,https://en.wikipedia.org/wiki/Nuclear_centrifuge
+[198],#cite_note-198
+programmable logic controllers,https://en.wikipedia.org/wiki/Programmable_logic_controller
+[199],#cite_note-199
+[200],#cite_note-200
+[201],#cite_note-201
+[202],#cite_note-202
+edit,/w/index.php?title=Computer_security&action=edit&section=54
+Global surveillance disclosures (2013–present),https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)
+Edward Snowden,https://en.wikipedia.org/wiki/Edward_Snowden
+The Washington Post,https://en.wikipedia.org/wiki/The_Washington_Post
+The Guardian,https://en.wikipedia.org/wiki/The_Guardian
+[203],#cite_note-203
+[204],#cite_note-204
+NSA,https://en.wikipedia.org/wiki/NSA
+NIST,https://en.wikipedia.org/wiki/NIST
+[205],#cite_note-205
+[206],#cite_note-206
+Google,https://en.wikipedia.org/wiki/Google
+[207],#cite_note-207
+edit,/w/index.php?title=Computer_security&action=edit&section=55
+Rescator,https://en.wikipedia.org/wiki/Rescator
+Target Corporation,https://en.wikipedia.org/wiki/Target_Corporation
+[208],#cite_note-208
+Home Depot,https://en.wikipedia.org/wiki/Home_Depot
+[209],#cite_note-209
+self checkout machines,https://en.wikipedia.org/wiki/Self_checkout_machine
+antivirus software,https://en.wikipedia.org/wiki/Antivirus_software
+edit,/w/index.php?title=Computer_security&action=edit&section=56
+Office of Personnel Management,https://en.wikipedia.org/wiki/Office_of_Personnel_Management
+discovered it had been hacked,https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach
+[210],#cite_note-210
+[211],#cite_note-211
+personally identifiable information,https://en.wikipedia.org/wiki/Personally_identifiable_information
+Social Security numbers,https://en.wikipedia.org/wiki/Social_Security_number
+[212],#cite_note-212
+[213],#cite_note-213
+[214],#cite_note-214
+edit,/w/index.php?title=Computer_security&action=edit&section=57
+Ashley Madison Data Breach,https://en.wikipedia.org/wiki/Ashley_Madison_data_breach
+[215],#cite_note-215
+edit,/w/index.php?title=Computer_security&action=edit&section=58
+Colonial Pipeline ransomware attack,https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack
+[216],#cite_note-216
+edit,/w/index.php?title=Computer_security&action=edit&section=59
+malware,https://en.wikipedia.org/wiki/Malware
+[217],#cite_note-ted.com-217
+[218],#cite_note-218
+attribution for cybercrimes and cyberattacks,https://en.wikipedia.org/wiki/Cyber_attribution
+Computer viruses,https://en.wikipedia.org/wiki/Computer_viruses
+[217],#cite_note-ted.com-217
+dynamic DNS,https://en.wikipedia.org/wiki/Dynamic_DNS
+fast flux,https://en.wikipedia.org/wiki/Fast_flux
+bullet proof servers,https://en.wikipedia.org/wiki/Bulletproof_hosting
+edit,/w/index.php?title=Computer_security&action=edit&section=60
+regulations,https://en.wikipedia.org/wiki/Cyber-security_regulation
+power-grid,https://en.wikipedia.org/wiki/Power_grid
+[219],#cite_note-219
+cyberspace,https://en.wikipedia.org/wiki/Cyberspace
+virtual space,https://en.wikipedia.org/wiki/Virtual_space
+blockchain,https://en.wikipedia.org/wiki/Blockchain
+bitcoin,https://en.wikipedia.org/wiki/Bitcoin
+[220],#cite_note-220
+R. Clarke,https://en.wikipedia.org/wiki/Richard_A._Clarke
+RSA Security Conference,https://en.wikipedia.org/wiki/RSA_Conference
+San Francisco,https://en.wikipedia.org/wiki/San_Francisco
+[221],#cite_note-221
+[222],#cite_note-222
+international peace,https://en.wikipedia.org/wiki/International_peace
+António Guterres,https://en.wikipedia.org/wiki/António_Guterres
+[223],#cite_note-223
+edit,/w/index.php?title=Computer_security&action=edit&section=61
+[224],#cite_note-224
+US-CERT,https://en.wikipedia.org/wiki/US-CERT
+AT&T,https://en.wikipedia.org/wiki/AT&T
+Apple,https://en.wikipedia.org/wiki/Apple_Inc.
+Cisco,https://en.wikipedia.org/wiki/Cisco
+McAfee,https://en.wikipedia.org/wiki/McAfee
+Microsoft,https://en.wikipedia.org/wiki/Microsoft
+[225],#cite_note-225
+Council of Europe,https://en.wikipedia.org/wiki/Council_of_Europe
+[226],#cite_note-226
+[227],#cite_note-227
+France Telecom,https://en.wikipedia.org/wiki/France_Telecom
+Facebook,https://en.wikipedia.org/wiki/Facebook
+AT&T,https://en.wikipedia.org/wiki/AT&T
+Apple,https://en.wikipedia.org/wiki/Apple_Inc.
+Cisco,https://en.wikipedia.org/wiki/Cisco
+Sprint,https://en.wikipedia.org/wiki/Sprint_Nextel
+[228],#cite_note-228
+European Network and Information Security Agency,https://en.wikipedia.org/wiki/European_Network_and_Information_Security_Agency
+agency of the European Union,https://en.wikipedia.org/wiki/Agency_of_the_European_Union
+European Union,https://en.wikipedia.org/wiki/European_Union
+edit,/w/index.php?title=Computer_security&action=edit&section=62
+European Parliament,https://en.wikipedia.org/wiki/European_Parliament
+Council of the European Union,https://en.wikipedia.org/wiki/Council_of_the_European_Union
+General Data Protection Regulation,https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+protection of personal data,https://en.wikipedia.org/wiki/Information_privacy
+TeleTrusT,https://en.wikipedia.org/wiki/TeleTrusT
+Germany,https://en.wikipedia.org/wiki/Germany
+edit,/w/index.php?title=Computer_security&action=edit&section=63
+computer emergency response teams,https://en.wikipedia.org/wiki/Computer_emergency_response_team
+proactive cyber defence,https://en.wikipedia.org/wiki/Proactive_cyber_defence
+cyber threat intelligence,https://en.wikipedia.org/wiki/Cyber_threat_intelligence
+cybersecurity regulations,https://en.wikipedia.org/wiki/Cyber-security_regulation
+information security standards,https://en.wikipedia.org/wiki/Information_security_standards
+edit,/w/index.php?title=Computer_security&action=edit&section=64
+[229],#cite_note-229
+[230],#cite_note-Canada's_Cyber_Security_Strategy-230
+[231],#cite_note-Government_of_Canada-231
+[230],#cite_note-Canada's_Cyber_Security_Strategy-230
+[231],#cite_note-Government_of_Canada-231
+[232],#cite_note-232
+[233],#cite_note-233
+Canadian Cyber Incident Response Centre,https://en.wikipedia.org/wiki/Canadian_Cyber_Incident_Response_Centre
+[234],#cite_note-234
+[235],#cite_note-235
+[236],#cite_note-236
+[237],#cite_note-237
+[238],#cite_note-238
+[239],#cite_note-239
+[240],#cite_note-240
+[231],#cite_note-Government_of_Canada-231
+edit,/w/index.php?title=Computer_security&action=edit&section=65
+Australian federal government,https://en.wikipedia.org/wiki/Australian_federal_government
+[241],#cite_note-241
+[242],#cite_note-242
+Clare O'Neil,https://en.wikipedia.org/wiki/Clare_O'Neil
+Julie Collins,https://en.wikipedia.org/wiki/Julie_Collins
+[243],#cite_note-243
+edit,/w/index.php?title=Computer_security&action=edit&section=66
+[244],#cite_note-244
+[245],#cite_note-245
+edit,/w/index.php?title=Computer_security&action=edit&section=67
+[246],#cite_note-246
+National Cyber Security Policy 2013,https://en.wikipedia.org/wiki/National_Cyber_Security_Policy_2013
+CERT- In,https://en.wikipedia.org/wiki/Indian_Computer_Emergency_Response_Team
+National Cyber Security Coordinator,https://en.wikipedia.org/wiki/National_Cyber_Coordination_Centre#National_Cyber_Security_Coordinator
+Prime Minister's Office (PMO),https://en.wikipedia.org/wiki/Prime_Minister's_Office_(India)
+[247],#cite_note-247
+edit,/w/index.php?title=Computer_security&action=edit&section=68
+[248],#cite_note-248
+[249],#cite_note-249
+edit,/w/index.php?title=Computer_security&action=edit&section=69
+National Cyber Security Centre,https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_(United_Kingdom)
+GCHQ,https://en.wikipedia.org/wiki/GCHQ
+[250],#cite_note-250
+[251],#cite_note-251
+[252],#cite_note-252
+[253],#cite_note-253
+National Cyber Force,https://en.wikipedia.org/wiki/National_Cyber_Force
+Ministry of Defence,https://en.wikipedia.org/wiki/Ministry_of_Defence_(United_Kingdom)
+[254],#cite_note-254
+edit,/w/index.php?title=Computer_security&action=edit&section=70
+edit,/w/index.php?title=Computer_security&action=edit&section=71
+executive order,https://en.wikipedia.org/wiki/Executive_order
+13636,https://en.wikisource.org/wiki/Executive%20Order%2013636
+NIST Cybersecurity Framework,https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework
+U.S. Office of Personnel Management,https://en.wikipedia.org/wiki/U.S._Office_of_Personnel_Management
+[255],#cite_note-255
+Colonial Pipeline ransomware attack,https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack
+Joe Biden,https://en.wikipedia.org/wiki/Joe_Biden
+[256],#cite_note-256
+[257],#cite_note-257
+[258],#cite_note-258
+edit,/w/index.php?title=Computer_security&action=edit&section=72
+Computer Fraud and Abuse Act,https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act
+18 U.S.C.,https://en.wikipedia.org/wiki/Title_18_of_the_United_States_Code
+§1030(e)(2),https://www.law.cornell.edu/uscode/text/18/1030#e_2
+edit,/w/index.php?title=Computer_security&action=edit&section=73
+General Services Administration,https://en.wikipedia.org/wiki/General_Services_Administration
+when?,https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items
+Penetration test §Standardized government penetration test services,https://en.wikipedia.org/wiki/Penetration_test#Standardized_government_penetration_test_services
+edit,/w/index.php?title=Computer_security&action=edit&section=74
+Department of Homeland Security,https://en.wikipedia.org/wiki/Department_of_Homeland_Security
+risk management,https://en.wikipedia.org/wiki/Risk_management
+National Cyber Security Division,https://en.wikipedia.org/wiki/National_Cyber_Security_Division
+[259],#cite_note-259
+[260],#cite_note-CSRDC-FAQ-260
+[260],#cite_note-CSRDC-FAQ-260
+[261],#cite_note-261
+[262],#cite_note-262
+National White Collar Crime Center,https://en.wikipedia.org/wiki/National_White_Collar_Crime_Center
+Bureau of Justice Assistance,https://en.wikipedia.org/wiki/Bureau_of_Justice_Assistance
+Internet Crime Complaint Center,https://en.wikipedia.org/wiki/Internet_Crime_Complaint_Center
+[263],#cite_note-263
+InfraGard,https://en.wikipedia.org/wiki/InfraGard
+[264],#cite_note-264
+[265],#cite_note-265
+Computer Crime and Intellectual Property Section,https://en.wikipedia.org/wiki/Computer_Crime_and_Intellectual_Property_Section
+United States Department of Justice Criminal Division,https://en.wikipedia.org/wiki/United_States_Department_of_Justice_Criminal_Division
+computer crime,https://en.wikipedia.org/wiki/Computer_crime
+intellectual property,https://en.wikipedia.org/wiki/Intellectual_property
+digital evidence,https://en.wikipedia.org/wiki/Digital_evidence
+networks,https://en.wikipedia.org/wiki/Computer_network
+[266],#cite_note-266
+[267],#cite_note-267
+United States Cyber Command,https://en.wikipedia.org/wiki/United_States_Cyber_Command
+[268],#cite_note-268
+[269],#cite_note-269
+[270],#cite_note-270
+Federal Communications Commission,https://en.wikipedia.org/wiki/Federal_Communications_Commission
+[271],#cite_note-271
+Food and Drug Administration,https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+[272],#cite_note-272
+National Highway Traffic Safety Administration,https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration
+[273],#cite_note-273
+Government Accountability Office,https://en.wikipedia.org/wiki/Government_Accountability_Office
+[274],#cite_note-274
+Federal Aviation Administration,https://en.wikipedia.org/wiki/Federal_Aviation_Administration
+Aircraft Communications Addressing and Reporting System,https://en.wikipedia.org/wiki/Aircraft_Communications_Addressing_and_Reporting_System
+[275],#cite_note-275
+Next Generation Air Transportation System,https://en.wikipedia.org/wiki/Next_Generation_Air_Transportation_System
+[276],#cite_note-276
+[277],#cite_note-277
+Computer emergency response team,https://en.wikipedia.org/wiki/Computer_emergency_response_team
+US-CERT,https://en.wikipedia.org/wiki/US-CERT
+National Cyber Security Division,https://en.wikipedia.org/wiki/National_Cyber_Security_Division
+United States Department of Homeland Security,https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security
+[278],#cite_note-278
+CERT/CC,https://en.wikipedia.org/wiki/CERT/CC
+Defense Advanced Research Projects Agency,https://en.wikipedia.org/wiki/Defense_Advanced_Research_Projects_Agency
+Software Engineering Institute,https://en.wikipedia.org/wiki/Software_Engineering_Institute
+U.S. nuclear power plants,https://en.wikipedia.org/wiki/Nuclear_power_in_the_United_States
+U.S. Nuclear Regulatory Commission (NRC),https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission
+10 CFR Part 73,https://en.wikipedia.org/wiki/Nuclear_safety_and_security#Title_10_CFR_Part_73_(U.S._NRC)
+10CFR,https://en.wikipedia.org/wiki/Title_10_of_the_Code_of_Federal_Regulations
+73.54,https://www.ecfr.gov/current/title-10/section-73.54
+Nuclear Energy Institute,https://en.wikipedia.org/wiki/Nuclear_Energy_Institute
+nuclear power industry,https://en.wikipedia.org/wiki/Nuclear_power_industry
+[279],#cite_note-279
+edit,/w/index.php?title=Computer_security&action=edit&section=75
+Cyberwarfare,https://en.wikipedia.org/wiki/Cyberwarfare
+The Christian Science Monitor,https://en.wikipedia.org/wiki/The_Christian_Science_Monitor
+[280],#cite_note-280
+cyberterrorism,https://en.wikipedia.org/wiki/Cyberterrorism
+United States Cyber Command,https://en.wikipedia.org/wiki/United_States_Cyber_Command
+[281],#cite_note-281
+have similar forces,https://en.wikipedia.org/wiki/Cyberwarfare#Cyber_activities_by_nation
+[282],#cite_note-282
+[283],#cite_note-283
+[284],#cite_note-284
+edit,/w/index.php?title=Computer_security&action=edit&section=76
+IT,https://en.wikipedia.org/wiki/IT
+[285],#cite_note-285
+[286],#cite_note-286
+[287],#cite_note-287
+[288],#cite_note-288
+[289],#cite_note-289
+security engineering,https://en.wikipedia.org/wiki/Security_engineering
+[290],#cite_note-290
+Chief Information Security Officer,https://en.wikipedia.org/wiki/Chief_Information_Security_Officer
+[291],#cite_note-291
+Chief Security Officer,https://en.wikipedia.org/wiki/Chief_Security_Officer
+Data Protection Officer,https://en.wikipedia.org/wiki/Data_Protection_Officer
+GDPR,https://en.wikipedia.org/wiki/GDPR
+[292],#cite_note-292
+[293],#cite_note-293
+[294],#cite_note-294
+[295],#cite_note-295
+[296],#cite_note-296
+[297],#cite_note-297
+U.K Cyber Security Forum,https://en.wikipedia.org/wiki/UK_Cyber_Security_Forum
+[298],#cite_note-298
+[299],#cite_note-299
+U.K Government,https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+Cyber Security Agency,https://en.wikipedia.org/wiki/Cyber_Security_Agency
+Infocomm Media Development Authority,https://en.wikipedia.org/wiki/Infocomm_Media_Development_Authority
+[300],#cite_note-300
+edit,/w/index.php?title=Computer_security&action=edit&section=77
+authorization,https://en.wikipedia.org/wiki/Authorization
+authentication,https://en.wikipedia.org/wiki/Authentication
+login,https://en.wikipedia.org/wiki/Login
+FTP,https://en.wikipedia.org/wiki/FTP
+passwords,https://en.wikipedia.org/wiki/Passwords
+identification cards,https://en.wikipedia.org/wiki/Identification_card
+smart cards,https://en.wikipedia.org/wiki/Smart_card
+biometric,https://en.wikipedia.org/wiki/Biometric
+Anti-virus software,https://en.wikipedia.org/wiki/Anti-virus_software
+computer viruses,https://en.wikipedia.org/wiki/Computer_viruses
+malware,https://en.wikipedia.org/wiki/Malware
+Applications,https://en.wikipedia.org/wiki/Application_software
+executable code,https://en.wikipedia.org/wiki/Executable_code
+restrict or block users the power,https://en.wikipedia.org/wiki/Superuser
+to the computer code,https://en.wikipedia.org/wiki/Open_source_software
+attack surface,https://en.wikipedia.org/wiki/Attack_surface
+least privilege,https://en.wikipedia.org/wiki/Least_privilege
+security patches,https://en.wikipedia.org/wiki/Security_patch
+Linux,https://en.wikipedia.org/wiki/Linux
+FreeBSD,https://en.wikipedia.org/wiki/FreeBSD
+OpenBSD,https://en.wikipedia.org/wiki/OpenBSD
+Unix,https://en.wikipedia.org/wiki/Unix
+chroot,https://en.wikipedia.org/wiki/Chroot
+restricting the application to its own 'sandbox',https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+namespaces,https://en.wikipedia.org/wiki/Linux_namespaces
+Cgroups,https://en.wikipedia.org/wiki/Cgroups
+SELinux,https://en.wikipedia.org/wiki/SELinux
+AppArmor,https://en.wikipedia.org/wiki/AppArmor
+Java byte code,https://en.wikipedia.org/wiki/Java_byte_code
+Java virtual machine,https://en.wikipedia.org/wiki/Java_virtual_machine
+software containers,https://en.wikipedia.org/wiki/OS-level_virtualization
+Authentication,https://en.wikipedia.org/wiki/Authentication
+Automated theorem proving,https://en.wikipedia.org/wiki/Automated_theorem_proving
+Backups,https://en.wikipedia.org/wiki/Backup
+Capability,https://en.wikipedia.org/wiki/Capability-based_security
+access control list,https://en.wikipedia.org/wiki/Access_control_list
+Capabilities vs. ACLs,#Capabilities_vs._ACLs
+Chain of trust,https://en.wikipedia.org/wiki/Chain_of_trust
+Confidentiality,https://en.wikipedia.org/wiki/Confidentiality
+[301],#cite_note-301
+Cryptographic,https://en.wikipedia.org/wiki/Cryptographic
+Cyber attribution,https://en.wikipedia.org/wiki/Cyber_attribution
+attribution,https://en.wikipedia.org/wiki/Legal_attribution
+cybercrime,https://en.wikipedia.org/wiki/Cybercrime
+cyberattack,https://en.wikipedia.org/wiki/Cyberattack
+Cyberwarfare,https://en.wikipedia.org/wiki/Cyberwarfare
+Data integrity,https://en.wikipedia.org/wiki/Data_integrity
+[302],#cite_note-302
+Cryptographic,https://en.wikipedia.org/wiki/Cryptographic
+Encryption,https://en.wikipedia.org/wiki/Encryption
+ciphers,https://en.wikipedia.org/wiki/Cipher
+breaking,https://en.wikipedia.org/wiki/Cryptanalysis
+Symmetric-key,https://en.wikipedia.org/wiki/Symmetric-key
+shared keys,https://en.wikipedia.org/wiki/Shared_key
+public-key encryption,https://en.wikipedia.org/wiki/Public-key_encryption
+digital certificates,https://en.wikipedia.org/wiki/Digital_certificate
+Endpoint security,https://en.wikipedia.org/wiki/Endpoint_security
+[303],#cite_note-303
+Firewalls,https://en.wikipedia.org/wiki/Firewall_(networking)
+logging,https://en.wikipedia.org/wiki/Logfile
+intrusion detection,https://en.wikipedia.org/wiki/Intrusion_detection
+intrusion prevention,https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention
+local area networks,https://en.wikipedia.org/wiki/Local_area_networks
+network segmentation,https://en.wikipedia.org/wiki/Network_segmentation
+hacker,https://en.wikipedia.org/wiki/Security_hacker
+Honey pots,https://en.wikipedia.org/wiki/Honeypot_(computing)
+Intrusion-detection systems,https://en.wikipedia.org/wiki/Intrusion-detection_system
+microkernel,https://en.wikipedia.org/wiki/Microkernel
+user space,https://en.wikipedia.org/wiki/User_space
+Pinging,https://en.wikipedia.org/wiki/Ping_(networking_utility)
+ping application,https://en.wikipedia.org/wiki/Ping_(networking_utility)
+port scan,https://en.wikipedia.org/wiki/Port_scan
+port scan,https://en.wikipedia.org/wiki/Port_scan
+open ports,https://en.wikipedia.org/wiki/Port_(computer_networking)
+key logger,https://en.wikipedia.org/wiki/Key_logger
+Social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+Logic bombs,https://en.wikipedia.org/wiki/Logic_bomb
+unikernel,https://en.wikipedia.org/wiki/Unikernel
+cloud,https://en.wikipedia.org/wiki/Cloud_computing
+virtual machines,https://en.wikipedia.org/wiki/Virtual_machine
+Zero trust security,https://en.wikipedia.org/wiki/Zero_trust_security
+edit,/w/index.php?title=Computer_security&action=edit&section=78
+Internet,https://en.wikipedia.org/wiki/Internet
+academia,https://en.wiktionary.org/wiki/academia
+distributed denial of service,https://en.wikipedia.org/wiki/Distributed_denial_of_service
+[304],#cite_note-304
+[305],#cite_note-305
+April 1967 session,https://en.wikipedia.org/wiki/Security_and_Privacy_in_Computer_Systems
+Willis Ware,https://en.wikipedia.org/wiki/Willis_Ware
+Spring Joint Computer Conference,https://en.wikipedia.org/wiki/Spring_Joint_Computer_Conference
+Ware Report,https://en.wikipedia.org/wiki/Ware_Report
+[306],#cite_note-MAHC.2016.48-306
+[306],#cite_note-MAHC.2016.48-306
+NIST,https://en.wikipedia.org/wiki/NIST
+[307],#cite_note-307
+CIA triad,https://en.wikipedia.org/wiki/CIA_triad
+[308],#cite_note-308
+[309],#cite_note-309
+[310],#cite_note-310
+IBM,https://en.wikipedia.org/wiki/IBM
+[311],#cite_note-311
+computer worm,https://en.wikipedia.org/wiki/Computer_worm
+Creeper,https://en.wikipedia.org/wiki/Creeper_and_Reaper
+BBN,https://en.wikipedia.org/wiki/BBN_Technologies
+ARPANET,https://en.wikipedia.org/wiki/ARPANET
+[312],#cite_note-312
+Ray Tomlinson,https://en.wikipedia.org/wiki/Ray_Tomlinson
+[313],#cite_note-313
+[314],#cite_note-314
+Markus Hess,https://en.wikipedia.org/wiki/Markus_Hess
+Morris worm,https://en.wikipedia.org/wiki/Morris_worm
+[315],#cite_note-315
+Netscape,https://en.wikipedia.org/wiki/Netscape
+SSL,https://en.wikipedia.org/wiki/Transport_Layer_Security
+National Center for Supercomputing Applications,https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications
+[316],#cite_note-:0-316
+[317],#cite_note-317
+[316],#cite_note-:0-316
+[318],#cite_note-318
+National Security Agency,https://en.wikipedia.org/wiki/National_Security_Agency
+protection,https://en.wikipedia.org/wiki/Protection
+[319],#cite_note-319
+[320],#cite_note-perlroth-320
+[321],#cite_note-321
+[322],#cite_note-322
+cyberwarfare,https://en.wikipedia.org/wiki/Cyberwarfare
+[323],#cite_note-323
+Israel,https://en.wikipedia.org/wiki/Israel
+Microsoft Windows,https://en.wikipedia.org/wiki/Microsoft_Windows
+[320],#cite_note-perlroth-320
+edit,/w/index.php?title=Computer_security&action=edit&section=79
+Ross J. Anderson,https://en.wikipedia.org/wiki/Ross_J._Anderson
+Annie Anton,https://en.wikipedia.org/wiki/Annie_Anton
+Adam Back,https://en.wikipedia.org/wiki/Adam_Back
+Daniel J. Bernstein,https://en.wikipedia.org/wiki/Daniel_J._Bernstein
+Matt Blaze,https://en.wikipedia.org/wiki/Matt_Blaze
+Stefan Brands,https://en.wikipedia.org/wiki/Stefan_Brands
+Josh Brunty,https://en.wikipedia.org/wiki/Josh_Brunty
+L. Jean Camp,https://en.wikipedia.org/wiki/L._Jean_Camp
+Lorrie Cranor,https://en.wikipedia.org/wiki/Lorrie_Cranor
+Dorothy E. Denning,https://en.wikipedia.org/wiki/Dorothy_E._Denning
+Peter J. Denning,https://en.wikipedia.org/wiki/Peter_J._Denning
+Cynthia Dwork,https://en.wikipedia.org/wiki/Cynthia_Dwork
+Chuck Easttom,https://en.wikipedia.org/wiki/Chuck_Easttom
+Deborah Estrin,https://en.wikipedia.org/wiki/Deborah_Estrin
+Joan Feigenbaum,https://en.wikipedia.org/wiki/Joan_Feigenbaum
+Ian Goldberg,https://en.wikipedia.org/wiki/Ian_Goldberg
+Shafi Goldwasser,https://en.wikipedia.org/wiki/Shafi_Goldwasser
+Lawrence A. Gordon,https://en.wikipedia.org/wiki/Lawrence_A._Gordon
+Peter Gutmann,https://en.wikipedia.org/wiki/Peter_Gutmann_(computer_scientist)
+Paul Kocher,https://en.wikipedia.org/wiki/Paul_Carl_Kocher
+Monica S. Lam,https://en.wikipedia.org/wiki/Monica_S._Lam
+Butler Lampson,https://en.wikipedia.org/wiki/Butler_Lampson
+Brian LaMacchia,https://en.wikipedia.org/wiki/Brian_LaMacchia
+Susan Landau,https://en.wikipedia.org/wiki/Susan_Landau
+Carl Landwehr,https://en.wikipedia.org/wiki/Carl_Landwehr
+Kevin Mitnick,https://en.wikipedia.org/wiki/Kevin_Mitnick
+Peter G. Neumann,https://en.wikipedia.org/wiki/Peter_G._Neumann
+Susan Nycum,https://en.wikipedia.org/wiki/Susan_Nycum
+Paul C. van Oorschot,https://en.wikipedia.org/wiki/Paul_C._van_Oorschot
+Fred Piper,https://en.wikipedia.org/wiki/Fred_Piper
+Roger R. Schell,https://en.wikipedia.org/wiki/Roger_R._Schell
+Bruce Schneier,https://en.wikipedia.org/wiki/Bruce_Schneier
+Dawn Song,https://en.wikipedia.org/wiki/Dawn_Song
+Gene Spafford,https://en.wikipedia.org/wiki/Gene_Spafford
+Salvatore J. Stolfo,https://en.wikipedia.org/wiki/Salvatore_J._Stolfo
+Willis Ware,https://en.wikipedia.org/wiki/Willis_Ware
+Moti Yung,https://en.wikipedia.org/wiki/Moti_Yung
+edit,/w/index.php?title=Computer_security&action=edit&section=80
+Center for Internet Security,https://en.wikipedia.org/wiki/Center_for_Internet_Security
+Cloud computing security,https://en.wikipedia.org/wiki/Cloud_computing_security
+Content Security Policy,https://en.wikipedia.org/wiki/Content_Security_Policy
+Countermeasure (computer),https://en.wikipedia.org/wiki/Countermeasure_(computer)
+Cyber insurance,https://en.wikipedia.org/wiki/Cyber_insurance
+Cyber self-defense,https://en.wikipedia.org/wiki/Cyber_self-defense
+Cyberbiosecurity,https://en.wikipedia.org/wiki/Cyberbiosecurity
+Cybersecurity information technology list,https://en.wikipedia.org/wiki/Cybersecurity_information_technology_list
+Cybersecurity in space,https://en.wikipedia.org/wiki/Cybersecurity_in_space
+Cybersecurity in popular culture,https://en.wikipedia.org/wiki/Cybersecurity_in_popular_culture
+Data security,https://en.wikipedia.org/wiki/Data_security
+Defense strategy (computing),https://en.wikipedia.org/wiki/Defense_strategy_(computing)
+Fault tolerance,https://en.wikipedia.org/wiki/Fault_tolerance
+Hardware security,https://en.wikipedia.org/wiki/Hardware_security
+Human–computer interaction (security),https://en.wikipedia.org/wiki/Human–computer_interaction_(security)
+Identity management,https://en.wikipedia.org/wiki/Identity_management
+Identity-based security,https://en.wikipedia.org/wiki/Identity-based_security
+Information security awareness,https://en.wikipedia.org/wiki/Information_security_awareness
+Internet privacy,https://en.wikipedia.org/wiki/Internet_privacy
+Internet safety,https://en.wikipedia.org/wiki/Internet_safety
+Internet security,https://en.wikipedia.org/wiki/Internet_security
+IT risk,https://en.wikipedia.org/wiki/IT_risk
+IT security standards,https://en.wikipedia.org/wiki/IT_security_standards
+Cyber kill chain,https://en.wikipedia.org/wiki/Cyber_kill_chain
+List of computer security certifications,https://en.wikipedia.org/wiki/List_of_computer_security_certifications
+List of cyber warfare forces,https://en.wikipedia.org/wiki/List_of_cyber_warfare_forces
+Open security,https://en.wikipedia.org/wiki/Open_security
+Outline of computer security,https://en.wikipedia.org/wiki/Outline_of_computer_security
+OWASP,https://en.wikipedia.org/wiki/OWASP
+Physical information security,https://en.wikipedia.org/wiki/Physical_information_security
+Privacy software,https://en.wikipedia.org/wiki/Privacy_software
+Security engineering,https://en.wikipedia.org/wiki/Security_engineering
+Security through obscurity,https://en.wikipedia.org/wiki/Security_through_obscurity
+Software-defined perimeter,https://en.wikipedia.org/wiki/Software-defined_perimeter
+edit,/w/index.php?title=Computer_security&action=edit&section=81
+↑,#cite_ref-:2_1-0
+"""Towards a More Representative Definition of Cyber Security""",https://commons.erau.edu/jdfsl/vol12/iss2/8/
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1558-7215,https://search.worldcat.org/issn/1558-7215
+↑,#cite_ref-2
+Computer security,https://www.britannica.com/EBchecked/topic/130682
+Encyclopædia Britannica,https://en.wikipedia.org/wiki/Encyclopædia_Britannica
+↑,#cite_ref-3
+"""Reliance spells end of road for ICT amateurs""",https://www.theaustralian.com.au/news/reliance-spells-end-of-road-for-ict-amateurs/news-story/6f84ad403b8721100f5957a472a945eb
+↑,#cite_ref-4
+"""Systematically Understanding Cybersecurity Economics: A Survey""",https://doi.org/10.3390%2Fsu132413677
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2021Sust...1313677K,https://ui.adsabs.harvard.edu/abs/2021Sust...1313677K
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.3390/su132413677,https://doi.org/10.3390%2Fsu132413677
+hdl,https://en.wikipedia.org/wiki/Hdl_(identifier)
+11250/2978306,https://hdl.handle.net/11250%2F2978306
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2071-1050,https://search.worldcat.org/issn/2071-1050
+↑,#cite_ref-5
+"""Global Cybersecurity: New Directions in Theory and Methods""",https://kclpure.kcl.ac.uk/portal/files/97261726/PaG_6_2_Global_Cybersecurity_New_Directions_in_Theory_and_Methods.pdf
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.17645/pag.v6i2.1569,https://doi.org/10.17645%2Fpag.v6i2.1569
+Archived,https://web.archive.org/web/20190904151257/https://kclpure.kcl.ac.uk/portal/files/97261726/PaG_6_2_Global_Cybersecurity_New_Directions_in_Theory_and_Methods.pdf
+↑,#cite_ref-6
+"""About the CVE Program""",https://www.cve.org/About/Overview
+↑,#cite_ref-7
+Computer Security and Mobile Security Challenges,https://www.researchgate.net/publication/298807979
+↑,#cite_ref-8
+"""Ghidra""",https://web.archive.org/web/20200815201448/https://www.nsa.gov/resources/everyone/ghidra/
+the original,https://www.nsa.gov/resources/everyone/ghidra/
+↑,#cite_ref-9
+"""Syzbot: Google Continuously Fuzzing The Linux Kernel""",https://www.phoronix.com/scan.php?page=news_item&px=Syzbot-Linux-Kernel-Fuzzing/
+1,#cite_ref-crowdstrike.com_10-0
+2,#cite_ref-crowdstrike.com_10-1
+3,#cite_ref-crowdstrike.com_10-2
+"""Cyber attacks on SMBs: Current Stats and How to Prevent Them""",https://www.crowdstrike.com/solutions/small-business/cyber-attacks-on-smbs/
+1,#cite_ref-Cyber_breaches_2023_11-0
+2,#cite_ref-Cyber_breaches_2023_11-1
+"""Cyber security breaches survey 2023""",https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2023/cyber-security-breaches-survey-2023
+1,#cite_ref-Cyber_attacks_12-0
+2,#cite_ref-Cyber_attacks_12-1
+"""How cyber attacks work""",https://www.ncsc.gov.uk/information/how-cyber-attacks-work
+↑,#cite_ref-13
+"""What is a backdoor attack? Definition and prevention | NordVPN""",https://nordvpn.com/blog/backdoor-attack/
+1,#cite_ref-McAfee-2023_14-0
+2,#cite_ref-McAfee-2023_14-1
+"""What is a backdoor attack?""",https://www.mcafee.com/learn/backdoor-threat/
+1,#cite_ref-DoS_guidance_15-0
+2,#cite_ref-DoS_guidance_15-1
+3,#cite_ref-DoS_guidance_15-2
+"""Denial of Service (DoS) guidance""",https://www.ncsc.gov.uk/collection/denial-service-dos-guidance-collection
+↑,#cite_ref-16
+"""Computer Security""",https://www.interelectronix.com/computer-security.html
+1,#cite_ref-Kroll_17-0
+2,#cite_ref-Kroll_17-1
+"""What Is a DMA Attack? Analysis & Mitigation""",https://www.kroll.com/en/insights/publications/cyber/what-is-dma-attack-understanding-mitigating-threat
+1,#cite_ref-Fortinet_18-0
+2,#cite_ref-Fortinet_18-1
+"""What Are Eavesdropping Attacks?""",https://www.fortinet.com/resources/cyberglossary/eavesdropping
+↑,#cite_ref-19
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1016/B978-1-59749-547-9.00003-X,https://doi.org/10.1016%2FB978-1-59749-547-9.00003-X
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-59749-547-9,https://en.wikipedia.org/wiki/Special:BookSources/978-1-59749-547-9
+↑,#cite_ref-20
+"""What Are Eavesdropping Attacks & How To Prevent Them""",https://web.archive.org/web/20211017182109/https://enterprise.verizon.com/resources/articles/s/what-are-eavesdropping-attacks/
+the original,https://enterprise.verizon.com/resources/articles/s/what-are-eavesdropping-attacks/
+1,#cite_ref-Malware-IBM_21-0
+2,#cite_ref-Malware-IBM_21-1
+3,#cite_ref-Malware-IBM_21-2
+4,#cite_ref-Malware-IBM_21-3
+5,#cite_ref-Malware-IBM_21-4
+6,#cite_ref-Malware-IBM_21-5
+"""What is Malware? | IBM""",https://www.ibm.com/topics/malware
+↑,#cite_ref-22
+"""Cyber-Attacks – Trends, Patterns and Security Countermeasures""",https://doi.org/10.1016%2FS2212-5671%2815%2901077-1
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1016/S2212-5671(15)01077-1,https://doi.org/10.1016%2FS2212-5671%2815%2901077-1
+↑,#cite_ref-23
+"""What is malware?""",https://www.mcafee.com/en-gb/antivirus/malware.html
+1,#cite_ref-verizon-mitm_24-0
+2,#cite_ref-verizon-mitm_24-1
+"""What is a man-in-the-middle attack and how can I protect my organization?""",https://www.verizon.com/business/resources/articles/s/what-is-a-man-in-the-middle-attack-and-how-can-i-protect-my-organization/
+verizon.com,https://en.wikipedia.org/wiki/Verizon.com
+↑,#cite_ref-25
+"""Multi-Vector Attacks Demand Multi-Vector Protection""",https://www.msspalert.com/analysis/multi-vector-attacks-demand-multi-vector-protection
+↑,#cite_ref-26
+"""New polymorphic malware evades three-quarters of AV scanners""",https://web.archive.org/web/20180614034417/https://www.scmagazineuk.com/new-polymorphic-malware-evades-three-quarters-of-av-scanners/article/718757/
+the original,https://www.scmagazineuk.com/new-polymorphic-malware-evades-three-quarters-of-av-scanners/article/718757/
+1,#cite_ref-Tounsi-2019_27-0
+2,#cite_ref-Tounsi-2019_27-1
+3,#cite_ref-Tounsi-2019_27-2
+"""What is Cyber Threat Intelligence and How is it Evolving?""",https://onlinelibrary.wiley.com/doi/10.1002/9781119618393.ch1
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1002/9781119618393.ch1,https://doi.org/10.1002%2F9781119618393.ch1
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-78630-448-3,https://en.wikipedia.org/wiki/Special:BookSources/978-1-78630-448-3
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+187294508,https://api.semanticscholar.org/CorpusID:187294508
+↑,#cite_ref-28
+"""Identifying Phishing Attempts""",https://web.archive.org/web/20150913200707/http://www.case.edu/its/kba/its-kba-27196-phishing-attempt/
+the original,https://www.case.edu/its/kba/its-kba-27196-phishing-attempt/
+↑,#cite_ref-29
+"""Protect yourself from phishing – Microsoft Support""",https://support.microsoft.com/en-us/windows/protect-yourself-from-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44
+↑,#cite_ref-30
+"""Phishers send fake invoices""",https://www.consumer.ftc.gov/blog/2018/02/phishers-send-fake-invoices
+↑,#cite_ref-:3_31-0
+"""Email Security""",https://web.archive.org/web/20220522081555/https://www.trellix.com/en-us/platform/email-security.html
+the original,https://www.trellix.com/en-us/platform/email-security.html
+1,#cite_ref-Privilege_escalation_32-0
+2,#cite_ref-Privilege_escalation_32-1
+3,#cite_ref-Privilege_escalation_32-2
+4,#cite_ref-Privilege_escalation_32-3
+"""What is Privilege Escalation? – CrowdStrike""",https://www.crowdstrike.com/cybersecurity-101/privilege-escalation/
+↑,#cite_ref-33
+"""Security beyond cybersecurity: side-channel attacks against non-cyber systems and their countermeasures""",https://link.springer.com/10.1007/s10207-021-00563-6
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1007/s10207-021-00563-6,https://doi.org/10.1007%2Fs10207-021-00563-6
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1615-5262,https://search.worldcat.org/issn/1615-5262
+↑,#cite_ref-34
+"""Social Engineering""",http://upcommons.upc.edu/pfc/bitstream/2099.1/12289/1/73827.pdf
+Archived,https://web.archive.org/web/20131203043630/http://upcommons.upc.edu/pfc/bitstream/2099.1/12289/1/73827.pdf
+↑,#cite_ref-35
+"""CEO email scam costs companies $2bn""",https://web.archive.org/web/20160623105523/http://www.ft.com/intl/cms/s/0/83b4e9be-db16-11e5-a72f-1e7744c66818.html#axzz41pN5YBV4
+the original,https://www.ft.com/intl/cms/s/0/83b4e9be-db16-11e5-a72f-1e7744c66818.html#axzz41pN5YBV4
+↑,#cite_ref-36
+"""Bucks leak tax info of players, employees as result of email scam""",https://www.espn.com/nba/story/_/id/15615363/milwaukee-bucks-leak-tax-information-players-employees-result-email-scam
+Archived,https://web.archive.org/web/20160520144908/http://espn.go.com/nba/story/_/id/15615363/milwaukee-bucks-leak-tax-informatiopn-players-employees-result-email-scam
+↑,#cite_ref-37
+"""What is Spoofing? – Definition from Techopedia""",https://www.techopedia.com/definition/5398/spoofing
+Archived,https://web.archive.org/web/20160630134737/https://www.techopedia.com/definition/5398/spoofing
+↑,#cite_ref-38
+"""spoofing""",http://www.oxfordreference.com/view/10.1093/acref/9780199688975.001.0001/acref-9780199688975-e-4987
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1093/acref/9780199688975.001.0001,https://doi.org/10.1093%2Facref%2F9780199688975.001.0001
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-19-968897-5,https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-968897-5
+↑,#cite_ref-39
+Handbook of Biometric Anti-Spoofing: Trusted Biometrics under Spoofing Attacks,http://infoscience.epfl.ch/record/203843
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1007/978-1-4471-6524-8,https://doi.org/10.1007%2F978-1-4471-6524-8
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-4471-6524-8,https://en.wikipedia.org/wiki/Special:BookSources/978-1-4471-6524-8
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2191-6594,https://search.worldcat.org/issn/2191-6594
+LCCN,https://en.wikipedia.org/wiki/LCCN_(identifier)
+2014942635,https://lccn.loc.gov/2014942635
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+27594864,https://api.semanticscholar.org/CorpusID:27594864
+↑,#cite_ref-40
+"""Photos of an NSA ""upgrade"" factory show Cisco router getting implant""",https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/
+Archived,https://web.archive.org/web/20140804130416/http://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/
+1,#cite_ref-Intelligence-2021_41-0
+2,#cite_ref-Intelligence-2021_41-1
+"""HTML smuggling surges: Highly evasive loader technique increasingly used in banking malware, targeted attacks""",https://www.microsoft.com/en-us/security/blog/2021/11/11/html-smuggling-surges-highly-evasive-loader-technique-increasingly-used-in-banking-malware-targeted-attacks/
+↑,#cite_ref-42
+"""Obfuscated Files or Information: HTML Smuggling, Sub-technique T1027.006 – Enterprise | MITRE ATT&CK®""",https://attack.mitre.org/techniques/T1027/006/
+↑,#cite_ref-43
+"""Exploring the Relationship between Organizational Culture and Information Security Culture""",http://ro.ecu.edu.au/ism/12
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.4225/75/57B4065130DEF,https://doi.org/10.4225%2F75%2F57B4065130DEF
+↑,#cite_ref-44
+Post-secondary Education Network Security: the End User Challenge and Evolving Threats,https://library.iated.org/view/REIMERS2017POS
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.21125/iceri.2017.0554,https://doi.org/10.21125%2Ficeri.2017.0554
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-84-697-6957-7,https://en.wikipedia.org/wiki/Special:BookSources/978-84-697-6957-7
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2340-1095,https://search.worldcat.org/issn/2340-1095
+↑,#cite_ref-45
+Verizon Data Breach Investigations Report 2020,https://enterprise.verizon.com/resources/reports/2020-data-breach-investigations-report.pdf
+Archived,https://web.archive.org/web/20200519161153/https://enterprise.verizon.com/resources/reports/2020-data-breach-investigations-report.pdf
+1,"#cite_ref-Schlienger,_Thomas_2003_46-0"
+2,"#cite_ref-Schlienger,_Thomas_2003_46-1"
+3,"#cite_ref-Schlienger,_Thomas_2003_46-2"
+hdl,https://en.wikipedia.org/wiki/Hdl_(identifier)
+10520/EJC27949,https://hdl.handle.net/10520%2FEJC27949
+↑,#cite_ref-47
+Internet Security Glossary,https://www.rfc-editor.org/rfc/rfc2828
+IETF,https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.17487/RFC2828,https://doi.org/10.17487%2FRFC2828
+RFC,https://en.wikipedia.org/wiki/RFC_(identifier)
+2828,https://www.rfc-editor.org/rfc/rfc2828
+↑,#cite_ref-48
+"""CNSS Instruction No. 4009""",https://web.archive.org/web/20120227163121/http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf
+the original,http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf
+↑,#cite_ref-49
+"""InfosecToday Glossary""",http://www.infosectoday.com/Articles/Glossary.pdf
+Archived,https://web.archive.org/web/20141120041536/http://www.infosectoday.com/Articles/Glossary.pdf
+↑,#cite_ref-50
+"""Cyber security design principles""",https://www.ncsc.gov.uk/collection/cyber-security-design-principles/cyber-security-design-principles
+1,#cite_ref-NSCS_security_arch_51-0
+2,#cite_ref-NSCS_security_arch_51-1
+"""How the NCSC thinks about security architecture""",https://www.ncsc.gov.uk/blog-post/how-ncsc-thinks-about-security-architecture
+↑,#cite_ref-52
+"""Secure System Architecture and Design""",https://www.ukcybersecuritycouncil.org.uk/careers-and-learning/cyber-career-framework/secure-system-architecture-design
+↑,#cite_ref-53
+"""security architecture – Glossary | CSRC""",https://csrc.nist.gov/glossary/term/security_architecture
+↑,#cite_ref-54
+"""Security Architecture""",http://www.techopedia.com/definition/72/security-architecture
+Archived,https://web.archive.org/web/20141003064643/http://www.techopedia.com/definition/72/security-architecture
+1,#cite_ref-Oppliger-1997_55-0
+2,#cite_ref-Oppliger-1997_55-1
+"""Internet security: firewalls and beyond""",https://doi.org/10.1145%2F253769.253802
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1145/253769.253802,https://doi.org/10.1145%2F253769.253802
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+0001-0782,https://search.worldcat.org/issn/0001-0782
+↑,#cite_ref-56
+"""How to Increase Cybersecurity Awareness""",https://www.isaca.org/resources/isaca-journal/issues/2019/volume-2/how-to-increase-cybersecurity-awareness
+↑,#cite_ref-57
+"""Why ONI May Be Our Best Hope for Cyber Security Now""",http://www.datanami.com/2016/05/09/oni-may-best-hope-cyber-security-now/
+Archived,https://web.archive.org/web/20160820015812/https://www.datanami.com/2016/05/09/oni-may-best-hope-cyber-security-now/
+↑,#cite_ref-58
+"""What Is The CIA Triad?""",https://www.f5.com/labs/articles/education/what-is-the-cia-triad.html
+dead link,https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+↑,#cite_ref-59
+"""Knowing Value of Data Assets is Crucial to Cybersecurity Risk Management | SecurityWeek.Com""",https://www.securityweek.com/knowing-value-data-assets-crucial-cybersecurity-risk-management
+↑,#cite_ref-60
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-4398-0150-5,https://en.wikipedia.org/wiki/Special:BookSources/978-1-4398-0150-5
+↑,#cite_ref-61
+CCNA Cybersecurity Operations Companion Guide,"https://books.google.com/books?id=FxRbDwAAQBAJ&q=Vulnerabilities+can+be+discovered+with+a+vulnerability+scanner,+which+analyzes+a+computer+system+in+search+of+known+vulnerabilities&pg=SA5-PA83"
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-13-516624-6,https://en.wikipedia.org/wiki/Special:BookSources/978-0-13-516624-6
+↑,#cite_ref-62
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-84928-554-4,https://en.wikipedia.org/wiki/Special:BookSources/978-1-84928-554-4
+↑,#cite_ref-63
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/LICS.2003.1210044,https://doi.org/10.1109%2FLICS.2003.1210044
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-7695-1884-8,https://en.wikipedia.org/wiki/Special:BookSources/978-0-7695-1884-8
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+44585546,https://api.semanticscholar.org/CorpusID:44585546
+↑,#cite_ref-64
+Formal verification of a real-time hardware design,http://portal.acm.org/citation.cfm?id=800667
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-8186-0026-5,https://en.wikipedia.org/wiki/Special:BookSources/978-0-8186-0026-5
+↑,#cite_ref-65
+"""Abstract Formal Specification of the seL4/ARMv6 API""",https://web.archive.org/web/20150521171234/https://sel4.systems/Docs/seL4-spec.pdf
+the original,https://sel4.systems/Docs/seL4-spec.pdf
+↑,#cite_ref-66
+Ingredients of Operating System Correctness? Lessons Learned in the Formal Verification of PikeOS,https://web.archive.org/web/20110719110932/http://www-wjp.cs.uni-saarland.de/publikationen/Ba10EW.pdf
+the original,http://www-wjp.cs.uni-saarland.de/publikationen/Ba10EW.pdf
+↑,#cite_ref-67
+"""Getting it Right""",https://web.archive.org/web/20130504191958/http://www.ganssle.com/rants/gettingitright.htm
+the original,http://www.ganssle.com/rants/gettingitright.htm
+↑,#cite_ref-68
+"""Everything you need for a career as a SOC analyst""",https://www.cybersecurityjobsite.com/staticpages/10300/everything-you-need-for-a-career-as-a-soc-analyst/
+↑,#cite_ref-i451_69-0
+Cybersecurity Operations Handbook,https://books.google.com/books?id=BKYSfjEsi78C&dq=%2522Hardening%2522+systems&pg=PA436
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-08-053018-5,https://en.wikipedia.org/wiki/Special:BookSources/978-0-08-053018-5
+↑,#cite_ref-70
+"""Turn on 2-step verification (2SV)""",https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email
+↑,#cite_ref-71
+"""NCSC's cyber security training for staff now available""",https://www.ncsc.gov.uk/blog-post/ncsc-cyber-security-training-for-staff-now-available
+↑,#cite_ref-72
+↑,#cite_ref-73
+"""What is a license dongle?""",https://www.revenera.com/software-monetization/glossary/license-dongle
+↑,#cite_ref-74
+"""Token-based authentication""",http://www.safenet-inc.com/multi-factor-authentication/authenticators/pki-usb-authentication/etoken-5200-token-based-authentication/
+Archived,https://web.archive.org/web/20140320234026/http://www.safenet-inc.com/multi-factor-authentication/authenticators/pki-usb-authentication/etoken-5200-token-based-authentication/
+↑,#cite_ref-75
+"""Lock and protect your Windows PC""",https://www.thewindowsclub.com/lock-protect-your-windows-pc-using-a-usb-drive-with-predator
+Archived,https://web.archive.org/web/20140320220321/http://www.thewindowsclub.com/lock-protect-your-windows-pc-using-a-usb-drive-with-predator
+↑,#cite_ref-76
+"""Intel Trusted Execution Technology: White Paper""",http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/trusted-execution-technology-security-paper.pdf
+Archived,https://web.archive.org/web/20140611161421/http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/trusted-execution-technology-security-paper.pdf
+↑,#cite_ref-77
+"""SafeNet ProtectDrive 8.4""",http://www.scmagazine.com/safenet-protectdrive-84/review/2596/
+Archived,https://web.archive.org/web/20140320220133/http://www.scmagazine.com/safenet-protectdrive-84/review/2596/
+↑,#cite_ref-78
+"""Secure Hard Drives: Lock Down Your Data""","https://www.pcmag.com/article2/0,2817,2342798,00.asp"
+Archived,"https://web.archive.org/web/20170621202140/http://www.pcmag.com/article2/0,2817,2342798,00.asp"
+↑,#cite_ref-79
+"""Guidelines for Managing the Security of Mobile Devices in the Enterprise""",https://www.nist.gov/publications/guidelines-managing-security-mobile-devices-enterprise
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.6028/NIST.SP.800-124r1,https://doi.org/10.6028%2FNIST.SP.800-124r1
+↑,#cite_ref-80
+"""Access Control Statistics: Trends & Insights""",https://entrycare.com/access-control-statistics/
+↑,#cite_ref-81
+"""Forget IDs, use your phone as credentials""",http://video.foxbusiness.com/v/2804966490001/forget-ids-use-your-phone-as-credentials/?playlist_id=937116503001#sp=show-clips
+Fox Business Network,https://en.wikipedia.org/wiki/Fox_Business_Network
+Archived,https://web.archive.org/web/20140320215829/http://video.foxbusiness.com/v/2804966490001/forget-ids-use-your-phone-as-credentials/?playlist_id=937116503001#sp=show-clips
+↑,#cite_ref-82
+"""Direct memory access protections for Mac computers""",https://support.apple.com/guide/security/direct-memory-access-protections-seca4960c2b5/1/web/1
+↑,#cite_ref-83
+"""Using IOMMU for DMA Protection in UEFI Firmware""",https://www.intel.com/content/dam/develop/external/us/en/documents/intel-whitepaper-using-iommu-for-dma-protection-in-uefi-820238.pdf
+Archived,https://web.archive.org/web/20211209062425/https://www.intel.com/content/dam/develop/external/us/en/documents/intel-whitepaper-using-iommu-for-dma-protection-in-uefi-820238.pdf
+↑,#cite_ref-84
+"""Reconfigurable Security Architecture (RESA) Based on PUF for FPGA-Based IoT Devices""",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9331300
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2022Senso..22.5577B,https://ui.adsabs.harvard.edu/abs/2022Senso..22.5577B
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.3390/s22155577,https://doi.org/10.3390%2Fs22155577
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1424-8220,https://search.worldcat.org/issn/1424-8220
+PMC,https://en.wikipedia.org/wiki/PMC_(identifier)
+9331300,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9331300
+PMID,https://en.wikipedia.org/wiki/PMID_(identifier)
+35898079,https://pubmed.ncbi.nlm.nih.gov/35898079
+↑,#cite_ref-85
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2021IITJ....8.6222H,https://ui.adsabs.harvard.edu/abs/2021IITJ....8.6222H
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/JIOT.2020.3025775,https://doi.org/10.1109%2FJIOT.2020.3025775
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2327-4662,https://search.worldcat.org/issn/2327-4662
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+226767829,https://api.semanticscholar.org/CorpusID:226767829
+↑,#cite_ref-86
+"""The Most Secure OS: What is the Safest OS Available?""",https://tech.co/antivirus-software/what-is-the-most-secure-os
+↑,#cite_ref-87
+↑,#cite_ref-88
+"""Role-Based Access Control""",http://csrc.nist.gov/groups/SNS/rbac/documents/ferraiolo-kuhn-92.pdf
+↑,#cite_ref-89
+"""Role-Based Access Control Models""",http://csrc.nist.gov/rbac/sandhu96.pdf
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+1996Compr..29b..38S,https://ui.adsabs.harvard.edu/abs/1996Compr..29b..38S
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/2.485845,https://doi.org/10.1109%2F2.485845
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+1958270,https://api.semanticscholar.org/CorpusID:1958270
+↑,#cite_ref-90
+A multi-domain role activation model,https://secplab.ppgia.pucpr.br/files/papers/2017-1.pdf
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/ICC.2017.7997247,https://doi.org/10.1109%2FICC.2017.7997247
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-4673-8999-0,https://en.wikipedia.org/wiki/Special:BookSources/978-1-4673-8999-0
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+6185138,https://api.semanticscholar.org/CorpusID:6185138
+↑,#cite_ref-autogenerated2002_91-0
+Economic Analysis of Role-Based Access Control,http://csrc.nist.gov/groups/SNS/rbac/documents/20101219_RBAC2_Final_Report.pdf
+↑,#cite_ref-92
+"""Studies prove once again that users are the weakest link in the security chain""",https://www.csoonline.com/article/2137210/security-awareness/studies-prove-once-again-that-users-are-the-weakest-link-in-the-security-chain.html
+↑,#cite_ref-93
+"""The Role of Human Error in Successful Security Attacks""",https://securityintelligence.com/the-role-of-human-error-in-successful-security-attacks/
+↑,#cite_ref-94
+"""90% of security incidents trace back to PEBKAC and ID10T errors""",https://www.computerworld.com/article/2910316/90-of-security-incidents-trace-back-to-pebkac-and-id10t-errors.html
+↑,#cite_ref-95
+"""Protect your online banking with 2FA""",https://web.archive.org/web/20200121073825/https://www.nzba.org.nz/2018/10/08/protect-your-online-banking-with-2fa/
+the original,https://www.nzba.org.nz/2018/10/08/protect-your-online-banking-with-2fa/
+↑,#cite_ref-96
+"""IBM Security Services 2014 Cyber Security Intelligence Index""",https://pcsite.co.uk/computer-security/IBM_Security_Services_2014_Cyber_Security_Intelligence_Index.pdf
+dead link,https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+↑,#cite_ref-97
+"""Risky business: why security awareness is crucial for employees""",https://www.theguardian.com/media-network/media-network-blog/2013/feb/12/business-cyber-security-risks-employees
+↑,#cite_ref-98
+"""Developing a Security Culture""",https://web.archive.org/web/20181009013120/https://www.cpni.gov.uk/developing-security-culture
+the original,https://www.cpni.gov.uk/developing-security-culture
+1,#cite_ref-Cyber_Hygiene_99-0
+2,#cite_ref-Cyber_Hygiene_99-1
+"""Cyber Hygiene – ENISA""",https://www.enisa.europa.eu/publications/cyber-hygiene
+1,#cite_ref-Kaljulaid-2017_100-0
+2,#cite_ref-Kaljulaid-2017_100-1
+"""President of the Republic at the Aftenposten's Technology Conference""",https://president.ee/en/official-duties/speeches/13671-president-of-the-republic-at-the-aftenpostens-technology-conference/index.html
+↑,#cite_ref-101
+"""Cyber security breaches survey 2023""",https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2023/cyber-security-breaches-survey-2023
+↑,#cite_ref-102
+"""Security execs call on companies to improve 'cyber hygiene'""",https://ghostarchive.org/archive/20221210/https://www.ft.com/content/8468cfda-e9e3-11e4-a687-00144feab7de
+the original,https://www.ft.com/content/8468cfda-e9e3-11e4-a687-00144feab7de
+↑,#cite_ref-103
+"""From AI to Russia, Here's How Estonia's President Is Planning for the Future""",https://www.wired.com/story/from-ai-to-russia-heres-how-estonias-president-is-planning-for-the-future/
+↑,#cite_ref-104
+"""Professor Len Adleman explains how he coined the term ""computer virus""""",https://www.welivesecurity.com/2017/11/01/professor-len-adleman-explains-computer-virus-term/
+↑,#cite_ref-105
+"""Statement of Dr. Vinton G. Cerf""",https://www.jec.senate.gov/archive/Documents/Hearings/cerf22300.htm
+↑,#cite_ref-106
+Promoting Good Cyber Hygiene Act of 2017,https://www.congress.gov/bill/115th-congress/house-bill/3010
+Congress.gov,https://en.wikipedia.org/wiki/United_States_Congress
+↑,#cite_ref-107
+"""Analysis | The Cybersecurity 202: Agencies struggling with basic cybersecurity despite Trump's pledge to prioritize it""",https://www.washingtonpost.com/news/powerpost/paloma/the-cybersecurity-202/2018/07/26/the-cybersecurity-202-agencies-struggling-with-basic-cybersecurity-despite-trump-s-pledge-to-prioritize-it/5b58a84e1b326b1e64695548/
+↑,#cite_ref-108
+"""Protected Voices""",https://www.fbi.gov/investigate/counterintelligence/foreign-influence/protected-voices
+↑,#cite_ref-109
+SSRN,https://en.wikipedia.org/wiki/SSRN_(identifier)
+2996896,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996896
+↑,#cite_ref-110
+"""Financial Weapons of War""",https://scholarship.law.umn.edu/mlr/205
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.24926/265535.1105,https://doi.org/10.24926%2F265535.1105
+SSRN,https://en.wikipedia.org/wiki/SSRN_(identifier)
+2765010,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2765010
+↑,#cite_ref-111
+The UCLA Internet report: Surveying the digital future,https://web.archive.org/web/20030423221926/http://ccp.ucla.edu/UCLA-Internet-Report-2000.pdf
+the original,http://ccp.ucla.edu/UCLA-Internet-Report-2000.pdf
+↑,#cite_ref-112
+"""Hackers attacked the U.S. energy grid 79 times this year""",https://web.archive.org/web/20150218070238/https://money.cnn.com/2014/11/18/technology/security/energy-grid-hack
+the original,https://money.cnn.com/2014/11/18/technology/security/energy-grid-hack/
+↑,#cite_ref-113
+"Computer Security in Aviation: Vulnerabilities, Threats, and Risks",https://www.csl.sri.com/~neumann/air.html
+↑,#cite_ref-114
+Aviation security: terrorist acts demonstrate urgent need to improve security at the nation's airports,https://rosap.ntl.bts.gov/view/dot/33937
+↑,#cite_ref-115
+"""Air Traffic Control Systems Vulnerabilities Could Make for Unfriendly Skies[Black Hat]– SecurityWeek.Com""",http://www.securityweek.com/air-traffic-control-systems-vulnerabilities-could-make-unfriendly-skies-black-hat
+Archived,https://web.archive.org/web/20150208070914/http://www.securityweek.com/air-traffic-control-systems-vulnerabilities-could-make-unfriendly-skies-black-hat
+↑,#cite_ref-116
+"""Hacker Says He Can Break into Airplane Systems Using In-Flight Wi-Fi""",https://www.npr.org/blogs/alltechconsidered/2014/08/04/337794061/hacker-says-he-can-break-into-airplane-systems-using-in-flight-wi-fi
+Archived,https://web.archive.org/web/20150208072554/http://www.npr.org/blogs/alltechconsidered/2014/08/04/337794061/hacker-says-he-can-break-into-airplane-systems-using-in-flight-wi-fi
+↑,#cite_ref-117
+"""Hacker says to show passenger jets at risk of cyber attack""",https://www.reuters.com/article/us-cybersecurity-hackers-airplanes-idUSKBN0G40WQ20140804
+Archived,https://web.archive.org/web/20151013061705/http://www.reuters.com/article/2014/08/04/us-cybersecurity-hackers-airplanes-idUSKBN0G40WQ20140804
+↑,#cite_ref-118
+"""Online course bolsters cybersecurity in aviation""",https://engineering.purdue.edu/AAE/Aerogram/2023-2024/articles/41-cyber-course
+↑,#cite_ref-119
+"""Pan-European Network Services (PENS) – Eurocontrol.int""",https://www.eurocontrol.int/articles/pan-european-network-services-pens
+Archived,https://web.archive.org/web/20161212175606/https://www.eurocontrol.int/articles/pan-european-network-services-pens
+↑,#cite_ref-120
+"""Centralised Services: NewPENS moves forward – Eurocontrol.int""",https://www.eurocontrol.int/news/centralised-services-newpens-moves-forward
+Archived,https://web.archive.org/web/20170319025329/https://www.eurocontrol.int/news/centralised-services-newpens-moves-forward
+↑,#cite_ref-121
+"""NextGen Data Communication""",https://web.archive.org/web/20150313110025/http://www.faa.gov/nextgen/update/progress_and_plans/data_comm/
+the original,https://www.faa.gov/nextgen/update/progress_and_plans/data_comm/
+↑,#cite_ref-122
+"""e-Passports | Homeland Security""",https://www.dhs.gov/e-passports
+↑,#cite_ref-123
+"""The Australian ePassport. Australian Government Department of Foreign Affairs and Trade website""",https://web.archive.org/web/20150109033115/http://www.dfat.gov.au/dept/passports/
+the original,http://www.dfat.gov.au/dept/passports/
+1,#cite_ref-nestwatch_124-0
+2,#cite_ref-nestwatch_124-1
+"""Is Your Watch Or Thermostat A Spy? Cybersecurity Firms Are On It""",https://www.npr.org/blogs/alltechconsidered/2014/08/06/338334508/is-your-watch-or-thermostat-a-spy-cyber-security-firms-are-on-it
+Archived,https://web.archive.org/web/20150211064650/http://www.npr.org/blogs/alltechconsidered/2014/08/06/338334508/is-your-watch-or-thermostat-a-spy-cyber-security-firms-are-on-it
+↑,#cite_ref-125
+"""As Insurers Offer Discounts For Fitness Trackers, Wearers Should Step With Caution""",https://www.npr.org/sections/health-shots/2018/11/19/668266197/as-insurers-offer-discounts-for-fitness-trackers-wearers-should-step-with-cautio
+↑,#cite_ref-126
+"""Security Techniques for the Electronic Health Records""",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522514
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1007/s10916-017-0778-4,https://doi.org/10.1007%2Fs10916-017-0778-4
+PMC,https://en.wikipedia.org/wiki/PMC_(identifier)
+5522514,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522514
+PMID,https://en.wikipedia.org/wiki/PMID_(identifier)
+28733949,https://pubmed.ncbi.nlm.nih.gov/28733949
+↑,#cite_ref-127
+"""Home Depot: 56 million cards exposed in breach""",https://web.archive.org/web/20141218221105/https://money.cnn.com/2014/09/18/technology/security/home-depot-hack/
+CNNMoney,https://en.wikipedia.org/wiki/CNNMoney
+the original,https://money.cnn.com/2014/09/18/technology/security/home-depot-hack/
+↑,#cite_ref-128
+"""Staples: Breach may have affected 1.16 million customers' cards""",http://fortune.com/2014/12/19/staples-cards-affected-breach/
+Archived,https://web.archive.org/web/20141221160612/http://fortune.com/2014/12/19/staples-cards-affected-breach/
+↑,#cite_ref-129
+"""Target: 40 million credit cards compromised""",https://web.archive.org/web/20171201035530/https://money.cnn.com/2013/12/18/news/companies/target-credit-card/index.html
+the original,https://money.cnn.com/2013/12/18/news/companies/target-credit-card/index.html
+↑,#cite_ref-130
+"""2.5 Million More People Potentially Exposed in Equifax Breach""",https://www.nytimes.com/2017/10/02/business/equifax-breach.html
+Archived,https://web.archive.org/web/20171201054900/https://www.nytimes.com/2017/10/02/business/equifax-breach.html
+↑,#cite_ref-131
+"""Exclusive: FBI warns healthcare sector vulnerable to cyber attacks""",https://www.reuters.com/article/us-cybersecurity-healthcare-fbi-exclusiv-idUSBREA3M1Q920140423
+Archived,https://web.archive.org/web/20160604120725/http://www.reuters.com/article/us-cybersecurity-healthcare-fbi-exclusiv-idUSBREA3M1Q920140423
+↑,#cite_ref-132
+"""Lack of Employee Security Training Plagues US Businesses""",https://www.infosecurity-magazine.com/news/lack-of-employee-security-training/
+Archived,https://web.archive.org/web/20171109081033/https://www.infosecurity-magazine.com/news/lack-of-employee-security-training/
+↑,#cite_ref-133
+"""Anonymous speaks: the inside story of the HBGary hack""",https://arstechnica.com/tech-policy/news/2011/02/anonymous-speaks-the-inside-story-of-the-hbgary-hack.ars/
+Archived,https://web.archive.org/web/20110327045801/http://arstechnica.com/tech-policy/news/2011/02/anonymous-speaks-the-inside-story-of-the-hbgary-hack.ars
+↑,#cite_ref-134
+"""How one man tracked down Anonymous–and paid a heavy price""",https://arstechnica.com/tech-policy/news/2011/02/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price.ars/
+Archived,https://web.archive.org/web/20110329090824/http://arstechnica.com/tech-policy/news/2011/02/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price.ars
+↑,#cite_ref-135
+"""What caused Sony hack: What we know now""",https://web.archive.org/web/20150104195455/https://money.cnn.com/2014/12/24/technology/security/sony-hack-facts/
+CNN Money,https://en.wikipedia.org/wiki/CNN_Money
+the original,https://money.cnn.com/2014/12/24/technology/security/sony-hack-facts/
+↑,#cite_ref-136
+"""Sony Hackers Have Over 100 Terabytes Of Documents. Only Released 200 Gigabytes So Far""",http://www.businessinsider.com/the-sony-hackers-still-have-a-massive-amount-of-data-that-hasnt-been-leaked-yet-2014-12
+Business Insider,https://en.wikipedia.org/wiki/Business_Insider
+Archived,https://web.archive.org/web/20141217204735/http://www.businessinsider.com/the-sony-hackers-still-have-a-massive-amount-of-data-that-hasnt-been-leaked-yet-2014-12
+1,#cite_ref-vox_137-0
+2,#cite_ref-vox_137-1
+"""The next frontier of hacking: your car""",https://www.vox.com/2015/1/18/7629603/car-hacking-dangers
+Archived,https://web.archive.org/web/20170317212726/http://www.vox.com/2015/1/18/7629603/car-hacking-dangers
+↑,#cite_ref-138
+Tracking & Hacking: Security & Privacy Gaps Put American Drivers at Risk,http://www.markey.senate.gov/imo/media/doc/2015-02-06_MarkeyReport-Tracking_Hacking_CarSecurity%202.pdf
+Archived,https://web.archive.org/web/20161109040112/http://www.markey.senate.gov/imo/media/doc/2015-02-06_MarkeyReport-Tracking_Hacking_CarSecurity%202.pdf
+↑,#cite_ref-139
+"""Cybersecurity expert: It will take a 'major event' for companies to take this issue seriously""",https://www.aol.com/article/news/2016/12/26/expert-warns-major-event-will-need-to-happen-for-cybersecurity/21632630/
+Archived,https://web.archive.org/web/20170120180918/https://www.aol.com/article/news/2016/12/26/expert-warns-major-event-will-need-to-happen-for-cybersecurity/21632630/
+↑,#cite_ref-140
+"""The problem with self-driving cars: who controls the code?""",https://www.theguardian.com/technology/2015/dec/23/the-problem-with-self-driving-cars-who-controls-the-code
+Archived,https://web.archive.org/web/20170316152605/https://www.theguardian.com/technology/2015/dec/23/the-problem-with-self-driving-cars-who-controls-the-code
+↑,#cite_ref-141
+"Kantor, Brian",https://en.wikipedia.org/wiki/Brian_Kantor
+"Savage, Stefan",https://en.wikipedia.org/wiki/Stefan_Savage
+Comprehensive Experimental Analyses of Automotive Attack Surfaces,http://www.autosec.org/pubs/cars-usenixsec2011.pdf
+Archived,https://web.archive.org/web/20150221064614/http://www.autosec.org/pubs/cars-usenixsec2011.pdf
+↑,#cite_ref-142
+"""Hackers Remotely Kill a Jeep on the Highway–With Me in It""",https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
+Archived,https://web.archive.org/web/20170119103855/https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
+↑,#cite_ref-143
+"""Hackers take control of car, drive it into a ditch""",https://www.independent.co.uk/news/science/hackers-remotely-carjack-jeep-from-10-miles-away-and-drive-it-into-ditch-10406554.html
+Archived,https://web.archive.org/web/20170202061247/http://www.independent.co.uk/news/science/hackers-remotely-carjack-jeep-from-10-miles-away-and-drive-it-into-ditch-10406554.html
+↑,#cite_ref-144
+"""Tesla fixes software bug that allowed Chinese hackers to control car remotely""",https://www.telegraph.co.uk/technology/2016/09/21/tesla-fixes-software-bug-that-allowed-chinese-hackers-to-control/
+Archived,https://web.archive.org/web/20170202014932/http://www.telegraph.co.uk/technology/2016/09/21/tesla-fixes-software-bug-that-allowed-chinese-hackers-to-control/
+↑,#cite_ref-145
+"""Self-Driving Cars Gain Powerful Ally: The Government""",https://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html
+Archived,https://web.archive.org/web/20170214045032/https://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html?_r=0
+↑,#cite_ref-146
+"""Federal Automated Vehicles Policy""",https://www.transportation.gov/sites/dot.gov/files/docs/AV%20policy%20guidance%20PDF.pdf
+Archived,https://web.archive.org/web/20170121161404/https://www.transportation.gov/sites/dot.gov/files/docs/AV%20policy%20guidance%20PDF.pdf
+↑,#cite_ref-147
+"""Vehicle Cybersecurity""",https://web.archive.org/web/20231230000028/https://www.nhtsa.gov/technology-innovation/vehicle-cybersecurity
+the original,https://www.nhtsa.gov/technology-innovation/vehicle-cybersecurity
+↑,#cite_ref-148
+"""Thales supplies smart driver license to 4 states in Mexico""",https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/customer-cases/mexico
+↑,#cite_ref-149
+"""4 Companies Using RFID for Supply Chain Management""",https://www.atlasrfidstore.com/rfid-insider/4-companies-using-rfid-for-supply-chain-management
+↑,#cite_ref-150
+"""The Cutting Edge of RFID Technology and Applications for Manufacturing and Distribution""",https://www.supplychainmarket.com/doc/the-cutting-edge-of-rfid-technology-and-appli-0001
+↑,#cite_ref-151
+CiteSeerX,https://en.wikipedia.org/wiki/CiteSeerX_(identifier)
+10.1.1.397.7831,https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.397.7831
+cite conference,https://en.wikipedia.org/wiki/Template:Cite_conference
+help,https://en.wikipedia.org/wiki/Help:CS1_errors#deprecated_params
+↑,#cite_ref-152
+"""Gary McKinnon profile: Autistic 'hacker' who started writing computer programs at 14""",https://www.telegraph.co.uk/news/worldnews/northamerica/usa/4320901/Gary-McKinnon-profile-Autistic-hacker-who-started-writing-computer-programs-at-14.html
+Archived,https://web.archive.org/web/20100602065423/http://www.telegraph.co.uk/news/worldnews/northamerica/usa/4320901/Gary-McKinnon-profile-Autistic-hacker-who-started-writing-computer-programs-at-14.html
+↑,#cite_ref-153
+"""Gary McKinnon extradition ruling due by 16 October""",https://www.bbc.co.uk/news/uk-19506090
+Archived,https://web.archive.org/web/20120906185731/http://www.bbc.co.uk/news/uk-19506090
+↑,#cite_ref-154
+Text,https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm
+↑,#cite_ref-155
+"""Fresh Leak on US Spying: NSA Accessed Mexican President's Email""",https://web.archive.org/web/20151106193613/http://www.spiegel.de/international/world/nsa-hacked-email-account-of-mexican-president-a-928817.html
+the original,http://www.spiegel.de/international/world/nsa-hacked-email-account-of-mexican-president-a-928817.html
+↑,#cite_ref-156
+"""Massive Data Breach Puts 4 Million Federal Employees' Records at Risk""",https://www.npr.org/sections/thetwo-way/2015/06/04/412086068/massive-data-breach-puts-4-million-federal-employees-records-at-risk
+Archived,https://web.archive.org/web/20150605041629/http://www.npr.org/sections/thetwo-way/2015/06/04/412086068/massive-data-breach-puts-4-million-federal-employees-records-at-risk
+↑,#cite_ref-157
+"""U.S. government hacked; feds think China is the culprit""",http://www.cnn.com/2015/06/04/politics/federal-agency-hacked-personnel-management/
+Archived,https://web.archive.org/web/20150606063139/http://www.cnn.com/2015/06/04/politics/federal-agency-hacked-personnel-management/
+↑,#cite_ref-158
+"""Encryption ""would not have helped"" at OPM, says DHS official""",https://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
+Archived,https://web.archive.org/web/20170624014751/https://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
+↑,#cite_ref-159
+"""Schools Learn Lessons From Security Breaches""",http://www.edweek.org/ew/articles/2015/10/21/lessons-learned-from-security-breaches.html
+Archived,https://web.archive.org/web/20160610130749/http://www.edweek.org/ew/articles/2015/10/21/lessons-learned-from-security-breaches.html
+↑,#cite_ref-160
+"""Internet of Things Global Standards Initiative""",http://www.itu.int/en/ITU-T/gsi/iot/Pages/default.aspx
+Archived,https://web.archive.org/web/20150626125229/http://www.itu.int/en/ITU-T/gsi/iot/Pages/default.aspx
+↑,#cite_ref-161
+"""Twenty Cloud Security Considerations for Supporting the Internet of Things""",https://web.archive.org/web/20250211172850/https://dash.harvard.edu/bitstream/1/35349952/1/iot-2016.pdf
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/JIOT.2015.2460333,https://doi.org/10.1109%2FJIOT.2015.2460333
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+4732406,https://api.semanticscholar.org/CorpusID:4732406
+the original,https://dash.harvard.edu/bitstream/1/35349952/1/iot-2016.pdf
+↑,#cite_ref-162
+"""Why The FTC Can't Regulate The Internet Of Things""",https://www.forbes.com/sites/chrisclearfield/2013/09/18/why-the-ftc-cant-regulate-the-internet-of-things/
+Archived,https://web.archive.org/web/20150627090938/http://www.forbes.com/sites/chrisclearfield/2013/09/18/why-the-ftc-cant-regulate-the-internet-of-things/
+↑,#cite_ref-163
+"""Internet of Things: Science Fiction or Business Fact?""",https://hbr.org/resources/pdfs/comm/verizon/18980_HBR_Verizon_IoT_Nov_14.pdf
+Archived,https://web.archive.org/web/20150317052909/https://hbr.org/resources/pdfs/comm/verizon/18980_HBR_Verizon_IoT_Nov_14.pdf
+↑,#cite_ref-164
+"""Internet of Things: Converging Technologies for Smart Environments and Integrated Ecosystems""",http://www.internet-of-things-research.eu/pdf/Converging_Technologies_for_Smart_Environments_and_Integrated_Ecosystems_IERC_Book_Open_Access_2013.pdf
+Archived,https://web.archive.org/web/20161012010519/http://www.internet-of-things-research.eu/pdf/Converging_Technologies_for_Smart_Environments_and_Integrated_Ecosystems_IERC_Book_Open_Access_2013.pdf
+↑,#cite_ref-165
+"""Rethinking Security for the Internet of Things""",http://blogs.hbr.org/2013/06/rethinking-security-for-the-in/
+Archived,https://web.archive.org/web/20130920145534/http://blogs.hbr.org/2013/06/rethinking-security-for-the-in/
+↑,#cite_ref-166
+"""Hotel room burglars exploit critical flaw in electronic door locks""",https://arstechnica.com/security/2012/11/hotel-room-burglars-exploit-critical-flaw-in-electronic-door-locks/
+Archived,https://web.archive.org/web/20160514002208/http://arstechnica.com/security/2012/11/hotel-room-burglars-exploit-critical-flaw-in-electronic-door-locks/
+↑,#cite_ref-167
+"""Hospital Medical Devices Used As Weapons in Cyberattacks""",http://www.darkreading.com/vulnerabilities---threats/hospital-medical-devices-used-as-weapons-in-cyberattacks/d/d-id/1320751
+Archived,https://web.archive.org/web/20160529002947/http://www.darkreading.com/vulnerabilities---threats/hospital-medical-devices-used-as-weapons-in-cyberattacks/d/d-id/1320751
+↑,#cite_ref-168
+"""Pacemaker hack can deliver deadly 830-volt jolt""",http://www.computerworld.com/article/2492453/malware-vulnerabilities/pacemaker-hack-can-deliver-deadly-830-volt-jolt.html
+Archived,https://web.archive.org/web/20160604201841/http://www.computerworld.com/article/2492453/malware-vulnerabilities/pacemaker-hack-can-deliver-deadly-830-volt-jolt.html
+↑,#cite_ref-169
+"""How Your Pacemaker Will Get Hacked""",http://www.thedailybeast.com/articles/2014/11/17/how-your-pacemaker-will-get-hacked.html
+Archived,https://web.archive.org/web/20160520155616/http://www.thedailybeast.com/articles/2014/11/17/how-your-pacemaker-will-get-hacked.html
+↑,#cite_ref-170
+"""Hacking Hospitals And Holding Hostages: Cybersecurity In 2016""",https://www.forbes.com/sites/kalevleetaru/2016/03/29/hacking-hospitals-and-holding-hostages-cybersecurity-in-2016/
+Archived,https://web.archive.org/web/20161229104021/http://www.forbes.com/sites/kalevleetaru/2016/03/29/hacking-hospitals-and-holding-hostages-cybersecurity-in-2016/
+1,#cite_ref-wiwo1_171-0
+2,#cite_ref-wiwo1_171-1
+"""Cyber-Angriffe: Krankenhäuser rücken ins Visier der Hacker""",http://www.wiwo.de/technologie/digitale-welt/cyber-angriffe-krankenhaeuser-ruecken-ins-visier-der-hacker/14946040.html
+Archived,https://web.archive.org/web/20161229101724/http://www.wiwo.de/technologie/digitale-welt/cyber-angriffe-krankenhaeuser-ruecken-ins-visier-der-hacker/14946040.html
+↑,#cite_ref-172
+"""Hospitals keep getting attacked by ransomware–Here's why""",http://www.businessinsider.com/hospital-ransomware-hack-2016-5
+Archived,https://web.archive.org/web/20161229101247/http://www.businessinsider.com/hospital-ransomware-hack-2016-5
+↑,#cite_ref-173
+"""MedStar Hospitals Recovering After 'Ransomware' Hack""",https://www.nbcnews.com/news/us-news/medstar-hospitals-recovering-after-ransomware-hack-n548121
+Archived,https://web.archive.org/web/20161229103355/https://www.nbcnews.com/news/us-news/medstar-hospitals-recovering-after-ransomware-hack-n548121
+↑,#cite_ref-174
+"""US hospitals hacked with ancient exploits""",https://www.theregister.co.uk/2016/06/28/medjack/
+Archived,https://web.archive.org/web/20161116141207/http://www.theregister.co.uk/2016/06/28/medjack
+↑,#cite_ref-175
+"""Zombie OS lurches through Royal Melbourne Hospital spreading virus""",https://www.theregister.co.uk/2016/01/19/melbourne_hospital_pathology_wing_splattered_by_virus/
+Archived,https://web.archive.org/web/20161229101019/http://www.theregister.co.uk/2016/01/19/melbourne_hospital_pathology_wing_splattered_by_virus/
+↑,#cite_ref-176
+"""Hacked Lincolnshire hospital computer systems 'back up'""",https://www.bbc.com/news/uk-england-humber-37849746
+Archived,https://web.archive.org/web/20161229101819/http://www.bbc.com/news/uk-england-humber-37849746
+↑,#cite_ref-177
+"""Lincolnshire operations cancelled after network attack""",https://www.bbc.com/news/uk-england-humber-37822084
+Archived,https://web.archive.org/web/20161229101209/http://www.bbc.com/news/uk-england-humber-37822084
+↑,#cite_ref-178
+"""Legion cyber-attack: Next dump is sansad.nic.in, say hackers""",http://indianexpress.com/article/technology/tech-news-technology/legion-hacking-no-political-agenda-just-computer-geeks-says-hacker-4423167/
+Archived,https://web.archive.org/web/20161229100631/http://indianexpress.com/article/technology/tech-news-technology/legion-hacking-no-political-agenda-just-computer-geeks-says-hacker-4423167/
+↑,#cite_ref-179
+"""Former New Hampshire Psychiatric Hospital Patient Accused Of Data Breach""",http://boston.cbslocal.com/2016/12/27/former-patient-accused-data-breech-new-hampshire-psychiatric-hospital/
+Archived,https://web.archive.org/web/20170929233237/http://boston.cbslocal.com/2016/12/27/former-patient-accused-data-breech-new-hampshire-psychiatric-hospital/
+↑,#cite_ref-180
+"""Texas Hospital hacked, affects nearly 30,000 patient records""",http://www.healthcareitnews.com/news/texas-hospital-hacked-affects-nearly-30000-patient-records
+Archived,https://web.archive.org/web/20161229171117/http://www.healthcareitnews.com/news/texas-hospital-hacked-affects-nearly-30000-patient-records
+↑,#cite_ref-181
+"""New cybersecurity guidelines for medical devices tackle evolving threats""",https://www.theverge.com/2016/12/27/14095166/fda-guidance-medical-device-cybersecurity-cyberattack-hacking-guidelines
+Archived,https://web.archive.org/web/20161228210257/http://www.theverge.com/2016/12/27/14095166/fda-guidance-medical-device-cybersecurity-cyberattack-hacking-guidelines
+↑,#cite_ref-182
+"""Postmarket Management of Cybersecurity in Medical Devices""",https://web.archive.org/web/20161229102808/https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM482022.pdf
+Food and Drug Administration,https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+the original,https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM482022.pdf
+↑,#cite_ref-183
+"""D.C. distributed energy proposal draws concerns of increased cybersecurity risks""",https://dailyenergyinsider.com/featured/13110-d-c-distributed-4:.energy-proposal-draws-concerns-of-increased-cybersecurity-risks/
+↑,#cite_ref-184
+"""Current Releases - The Open Mobile Alliance""",http://www.openmobilealliance.org/Technical/release_program/scws_v1_0.aspx
+↑,#cite_ref-185
+The Economic Impact of Cyber-Attacks,https://sgp.fas.org/crs/misc/RL32331.pdf
+↑,#cite_ref-186
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1145/581271.581274,https://doi.org/10.1145%2F581271.581274
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+1500788,https://api.semanticscholar.org/CorpusID:1500788
+↑,#cite_ref-187
+"""U.S. and Britain Help Ukraine Prepare for Potential Russian Cyberassault""",https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+0362-4331,https://search.worldcat.org/issn/0362-4331
+↑,#cite_ref-188
+"""Cyber-Attack Against Ukrainian Critical Infrastructure | CISA""",https://www.cisa.gov/news-events/ics-alerts/ir-alert-h-16-056-01
+↑,#cite_ref-189
+"""Q&A. What Motivates Cyber-Attackers?""",https://doi.org/10.22215%2Ftimreview%2F838
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.22215/timreview/838,https://doi.org/10.22215%2Ftimreview%2F838
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1927-0321,https://search.worldcat.org/issn/1927-0321
+↑,#cite_ref-190
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1177/1043986217699100,https://doi.org/10.1177%2F1043986217699100
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+152277480,https://api.semanticscholar.org/CorpusID:152277480
+↑,#cite_ref-191
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-119-64281-7,https://en.wikipedia.org/wiki/Special:BookSources/978-1-119-64281-7
+OCLC,https://en.wikipedia.org/wiki/OCLC_(identifier)
+1224516855,https://search.worldcat.org/oclc/1224516855
+↑,#cite_ref-192
+"""The Leading Cloud Recruiting Software""",https://www.icims.com/gc/incident-response-procedures/
+↑,#cite_ref-193
+1,#cite_ref-multiple_194-0
+2,#cite_ref-multiple_194-1
+↑,#cite_ref-195
+Information Security,https://fas.org/irp/gao/aim96084.htm
+Archived,https://web.archive.org/web/20160306140354/http://fas.org/irp/gao/aim96084.htm
+Wayback Machine,https://en.wikipedia.org/wiki/Wayback_Machine
+↑,#cite_ref-196
+"""The TJX Companies, Inc. Victimized by Computer System Intrusion; Provides Information to Help Protect Customers""",http://www.businesswire.com/news/tjx/20070117005971/en
+Archived,https://web.archive.org/web/20120927014805/http://www.businesswire.com/news/tjx/20070117005971/en
+↑,#cite_ref-197
+Largest Customer Info Breach Grows,http://www.myfoxtwincities.com/myfox/pages/Home/Detail?contentId=2804836&version=3&locale=EN-US&layoutCode=TSTY&pageId=1.1.1
+Archived,https://web.archive.org/web/20070928041047/http://www.myfoxtwincities.com/myfox/pages/Home/Detail?contentId=2804836&version=3&locale=EN-US&layoutCode=TSTY&pageId=1.1.1
+Wayback Machine,https://en.wikipedia.org/wiki/Wayback_Machine
+↑,#cite_ref-198
+"""The Stuxnet Attack On Iran's Nuclear Plant Was 'Far More Dangerous' Than Previously Thought""",http://www.businessinsider.com/stuxnet-was-far-more-dangerous-than-previous-thought-2013-11
+Archived,https://web.archive.org/web/20140509020404/http://www.businessinsider.com/stuxnet-was-far-more-dangerous-than-previous-thought-2013-11
+↑,#cite_ref-199
+"""Stuxnet Worm a U.S. Cyber-Attack on Iran Nukes?""",https://www.cbsnews.com/news/stuxnet-worm-a-us-cyber-attack-on-iran-nukes/
+Archived,https://web.archive.org/web/20131016133651/http://www.cbsnews.com/8301-501465_162-20017507-501465.html
+↑,#cite_ref-200
+"""Cyberwar Issues Likely to Be Addressed Only After a Catastrophe""",https://www.wired.com/threatlevel/2011/02/cyberwar-issues-likely-to-be-addressed-only-after-a-catastrophe
+Archived,https://web.archive.org/web/20110218154415/http://www.wired.com/threatlevel/2011/02/cyberwar-issues-likely-to-be-addressed-only-after-a-catastrophe/
+↑,#cite_ref-201
+"""Cone of silence surrounds U.S. cyberwarfare""",http://www.stripes.com/news/cone-of-silence-surrounds-u-s-cyberwarfare-1.158090
+Archived,https://web.archive.org/web/20120307021747/http://www.stripes.com/news/cone-of-silence-surrounds-u-s-cyberwarfare-1.158090
+↑,#cite_ref-202
+"""Computers as Weapons of War""",https://web.archive.org/web/20111219174833/http://www.crows.org/images/stories/pdf/IOI/IO%20Journal_Vol2Iss2_0210.pdf
+the original,http://www.crows.org/images/stories/pdf/IOI/IO%20Journal_Vol2Iss2_0210.pdf
+↑,#cite_ref-203
+"""NSA collecting phone records of millions of Verizon customers daily""",https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order
+Archived,https://web.archive.org/web/20130816045641/http://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order
+Verizon,https://en.wikipedia.org/wiki/Verizon
+Obama,https://en.wikipedia.org/wiki/Obama
+↑,#cite_ref-204
+"""Transcript: ARD interview with Edward Snowden""",https://www.freesnowden.is/fr/2014/01/27/video-ard-interview-with-edward-snowden/
+Archived,https://web.archive.org/web/20140714174333/https://www.freesnowden.is/fr/2014/01/27/video-ard-interview-with-edward-snowden/
+↑,#cite_ref-205
+"""Can You Trust NIST?""",https://spectrum.ieee.org/can-you-trust-nist
+Archived,https://web.archive.org/web/20160201095426/https://spectrum.ieee.org/telecom/security/can-you-trust-nist
+↑,#cite_ref-206
+"""NIST Removes Cryptography Algorithm from Random Number Generator Recommendations""",https://www.nist.gov/itl/csd/sp800-90-042114.cfm
+↑,#cite_ref-207
+"""New Snowden Leak: NSA Tapped Google, Yahoo Data Centers""",http://mashable.com/2013/10/30/nsa-google-yahoo-data-centers/
+Archived,https://web.archive.org/web/20140709131535/http://mashable.com/2013/10/30/nsa-google-yahoo-data-centers/
+Wayback Machine,https://en.wikipedia.org/wiki/Wayback_Machine
+↑,#cite_ref-208
+"""Target Missed Warnings in Epic Hack of Credit Card Data""",https://web.archive.org/web/20150127015928/http://www.businessweek.com/articles/2014-03-13/target-missed-alarms-in-epic-hack-of-credit-card-data
+the original,http://www.businessweek.com/articles/2014-03-13/target-missed-alarms-in-epic-hack-of-credit-card-data
+↑,#cite_ref-209
+"""Home Depot says 53 million emails stolen""",https://www.cnet.com/news/53-million-emails-stolen-in-home-depot-breach/
+Archived,https://web.archive.org/web/20141209035159/http://www.cnet.com/news/53-million-emails-stolen-in-home-depot-breach/
+↑,#cite_ref-210
+"""Millions more Americans hit by government personnel data hack""",https://www.reuters.com/article/us-cybersecurity-usa-idUSKCN0PJ2M420150709
+Archived,https://web.archive.org/web/20170228005352/http://www.reuters.com/article/us-cybersecurity-usa-idUSKCN0PJ2M420150709
+↑,#cite_ref-211
+"""U.S. Suspects Hackers in China Breached About four (4) Million People's Records, Officials Say""",https://www.wsj.com/articles/u-s-suspects-hackers-in-china-behind-government-data-breach-sources-say-1433451888
+Archived,https://web.archive.org/web/20150604215718/http://www.wsj.com/articles/u-s-suspects-hackers-in-china-behind-government-data-breach-sources-say-1433451888
+↑,#cite_ref-212
+"""China Suspected in Theft of Federal Employee Records""",https://web.archive.org/web/20150606064331/http://www.usnews.com/news/articles/2015/06/05/china-suspected-in-theft-of-federal-employee-records
+the original,https://www.usnews.com/news/articles/2015/06/05/china-suspected-in-theft-of-federal-employee-records
+↑,#cite_ref-213
+"""Estimate of Americans hit by government personnel data hack skyrockets""",https://www.reuters.com/article/us-cybersecurity-usa-idUSKCN0PJ2M420150709
+Archived,https://web.archive.org/web/20150710075449/http://www.reuters.com/article/2015/07/09/us-cybersecurity-usa-idUSKCN0PJ2M420150709
+↑,#cite_ref-214
+"""Hacking Linked to China Exposes Millions of U.S. Workers""",https://www.nytimes.com/2015/06/05/us/breach-in-a-federal-computer-system-exposes-personnel-data.html
+Archived,https://web.archive.org/web/20150605135158/http://www.nytimes.com/2015/06/05/us/breach-in-a-federal-computer-system-exposes-personnel-data.html
+↑,#cite_ref-215
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1016/S1353-4858(15)30080-5,https://doi.org/10.1016%2FS1353-4858%2815%2930080-5
+↑,#cite_ref-216
+"""Hackers Breached Colonial Pipeline Using Compromised Password""",https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password
+1,#cite_ref-ted.com_217-0
+2,#cite_ref-ted.com_217-1
+"""Mikko Hypponen: Fighting viruses, defending the net""",https://www.ted.com/talks/mikko_hypponen_fighting_viruses_defending_the_net
+Archived,https://web.archive.org/web/20130116010603/http://www.ted.com/talks/mikko_hypponen_fighting_viruses_defending_the_net.html
+↑,#cite_ref-218
+"""Mikko Hypponen – Behind Enemy Lines""",https://www.youtube.com/watch?v=0TMFRO66Wv4
+Archived,https://web.archive.org/web/20161125075257/https://www.youtube.com/watch?v=0TMFRO66Wv4
+↑,#cite_ref-219
+"""Ensuring the Security of Federal Information Systems and Cyber Critical Infrastructure and Protecting the Privacy of Personally Identifiable Information""",http://www.gao.gov/highrisk/protecting_the_federal_government_information_systems/why_did_study
+Archived,https://web.archive.org/web/20151119221200/http://www.gao.gov/highrisk/protecting_the_federal_government_information_systems/why_did_study
+↑,#cite_ref-220
+"""The Venn diagram between libertarians and crypto bros is so close it's basically a circle""",https://qz.com/1284178/almost-half-of-cryptocurrency-and-bitcoin-bros-identify-as-libertarian/
+↑,#cite_ref-221
+"""Former White House aide backs some Net regulation / Clarke says government, industry deserve 'F' in cyber security""",https://www.sfgate.com/business/article/Former-White-House-aide-backs-some-Net-regulation-2729985.php
+↑,#cite_ref-222
+"""Privatizing Political Authority: Cybersecurity, Public-Private Partnerships, and the Reproduction of Liberal Political Order""",https://www.cogitatiopress.com/politicsandgovernance/article/download/1335/800
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.17645/pag.v6i2.1335,https://doi.org/10.17645%2Fpag.v6i2.1335
+↑,#cite_ref-223
+"""It's Time to Treat Cybersecurity as a Human Rights Issue""",https://www.hrw.org/news/2020/05/26/its-time-treat-cybersecurity-human-rights-issue
+↑,#cite_ref-224
+"""FIRST Mission""",https://www.first.org/about/mission/
+↑,#cite_ref-225
+"""FIRST Members""",https://www.first.org/members/
+↑,#cite_ref-226
+"""European council""",http://www.coe.int/t/DGHL/cooperation/economiccrime/cybercrime/default_en.asp
+Archived,https://web.archive.org/web/20141203223358/http://www.coe.int/t/DGHL/cooperation/economiccrime/cybercrime/default_en.asp
+↑,#cite_ref-227
+"""MAAWG""",http://www.maawg.org/about_maawg
+Archived,https://web.archive.org/web/20140923153548/http://www.maawg.org/about_maawg
+↑,#cite_ref-228
+"""MAAWG""",http://www.maawg.org/about/roster
+Archived,https://web.archive.org/web/20141017165203/http://www.maawg.org/about/roster
+↑,#cite_ref-229
+"""Government of Canada Launches Canada's Cyber Security Strategy""",http://www.marketwired.com/press-release/government-of-canada-launches-canadas-cyber-security-strategy-1328661.htm
+Archived,https://web.archive.org/web/20141102175904/http://www.marketwired.com/press-release/government-of-canada-launches-canadas-cyber-security-strategy-1328661.htm
+1,#cite_ref-Canada's_Cyber_Security_Strategy_230-0
+2,#cite_ref-Canada's_Cyber_Security_Strategy_230-1
+"""Canada's Cyber Security Strategy""",http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx
+Archived,https://web.archive.org/web/20141102175701/http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx
+1,#cite_ref-Government_of_Canada_231-0
+2,#cite_ref-Government_of_Canada_231-1
+3,#cite_ref-Government_of_Canada_231-2
+"""Action Plan 2010–2015 for Canada's Cyber Security Strategy""",http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx
+Archived,https://web.archive.org/web/20141102173436/http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx
+↑,#cite_ref-232
+"""Cyber Incident Management Framework For Canada""",http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-ncdnt-frmwrk/index-eng.aspx#_Toc360619104
+Archived,https://web.archive.org/web/20141102213822/http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-ncdnt-frmwrk/index-eng.aspx#_Toc360619104
+↑,#cite_ref-233
+"""Action Plan 2010–2015 for Canada's Cyber Security Strategy""",http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx
+Archived,https://web.archive.org/web/20141102173436/http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx
+↑,#cite_ref-234
+"""Canadian Cyber Incident Response Centre""",http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx
+Archived,https://web.archive.org/web/20141008035436/http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx
+↑,#cite_ref-235
+"""Cyber Security Bulletins""",http://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/index-eng.aspx
+Archived,https://web.archive.org/web/20141008194739/http://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/index-eng.aspx
+↑,#cite_ref-236
+"""Report a Cyber Security Incident""",http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/rprt-eng.aspx
+Archived,https://web.archive.org/web/20141111212708/http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/rprt-eng.aspx
+↑,#cite_ref-237
+"""Government of Canada Launches Cyber Security Awareness Month With New Public Awareness Partnership""",http://www.marketwired.com/press-release/government-canada-launches-cyber-security-awareness-month-with-new-public-awareness-1706660.htm
+Archived,https://web.archive.org/web/20141103225408/http://www.marketwired.com/press-release/government-canada-launches-cyber-security-awareness-month-with-new-public-awareness-1706660.htm
+↑,#cite_ref-238
+"""Cyber Security Cooperation Program""",http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cprtn-prgrm/index-eng.aspx
+Archived,https://web.archive.org/web/20141102184754/http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cprtn-prgrm/index-eng.aspx
+↑,#cite_ref-239
+"""Cyber Security Cooperation Program""",http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cprtn-prgrm/index-eng.aspx
+Archived,https://web.archive.org/web/20141102184754/http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cprtn-prgrm/index-eng.aspx
+↑,#cite_ref-240
+"""GetCyberSafe""",http://www.getcybersafe.gc.ca/index-eng.aspx
+Archived,https://web.archive.org/web/20141111210737/http://www.getcybersafe.gc.ca/index-eng.aspx
+↑,#cite_ref-241
+"""2023-2030 Australian Cyber Security Strategy""",https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/strategy/2023-2030-australian-cyber-security-strategy
+Archived,https://web.archive.org/web/20260407150540/https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/strategy/2023-2030-australian-cyber-security-strategy
+↑,#cite_ref-242
+"""Submission on the Australian Government's Strengthening Australia's cyber security regulations and incentives""",https://www.homeaffairs.gov.au/reports-and-pubs/files/strengthening-australias-cyber-security-submissions/nsw-young-lawyers.pdf
+Archived,https://web.archive.org/web/20251122194907/https://www.homeaffairs.gov.au/reports-and-pubs/files/strengthening-australias-cyber-security-submissions/nsw-young-lawyers.pdf
+↑,#cite_ref-243
+"""2023-2030 Australian Cyber Security Strategy""",https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/strategy/2023-2030-australian-cyber-security-strategy
+↑,#cite_ref-244
+"""Securing critical infrastructures: What you need to know about Hong Kong's first cyber legislation""",https://www.jsm.com/publications/2025/securing-critical-infrastructures-what-you-need-to-know-about-hong-kongs-first-cyber-legislation/
+↑,#cite_ref-245
+"""Safeguarding Hong Kong's cybersecurity: Essential insights for Critical Infrastructure Operators""",https://www.jsm.com/publications/2026/safeguarding-hong-kongs-cybersecurity-essential-insights-for-critical-infrastructure-operators/
+↑,#cite_ref-246
+"""Need for proper structure of PPPs to address specific cyberspace risks""",http://www.orfonline.org/cyfy-event/need-for-proper-structure-of-ppps-to-address-specific-cyberspace-risks/
+Archived,https://web.archive.org/web/20171113165123/http://www.orfonline.org/cyfy-event/need-for-proper-structure-of-ppps-to-address-specific-cyberspace-risks/
+↑,#cite_ref-247
+"""National Cyber Safety and Security Standards(NCSSS)-Home""",https://web.archive.org/web/20180219150958/https://www.ncdrc.res.in/
+the original,https://www.ncdrc.res.in/
+↑,#cite_ref-248
+↑,#cite_ref-249
+"""Seoul Puts a Price on Cyberdefense""",https://blogs.wsj.com/korearealtime/2013/09/23/seoul-puts-a-price-on-cyberdefense/
+Archived,https://web.archive.org/web/20130925102342/http://blogs.wsj.com/korearealtime/2013/09/23/seoul-puts-a-price-on-cyberdefense/
+↑,#cite_ref-250
+"""UK cyber-centre thwarts hostile hackers""",https://www.bbc.co.uk/news/technology-45863953
+↑,#cite_ref-251
+"""New head of GCHQ cyber security agency announced""",https://www.independent.co.uk/news/uk/home-news/national-cyber-security-centre-gchq-head-lindy-cameron-a9642051.html
+↑,#cite_ref-252
+"""UK's 2022 National Cyber Security Strategy: The Top 10 takeaways""",https://www.thestack.technology/uks-2022-national-cyber-security-strategy/
+↑,#cite_ref-253
+"""National Cyber Strategy 2022""",https://www.gov.uk/government/publications/national-cyber-strategy-2022
+↑,#cite_ref-254
+"""National Cyber Force will target UK adversaries online""",https://www.ft.com/content/a41b34e7-a8fc-4bce-92e4-508cd1c83ba9
+Financial Times,https://en.wikipedia.org/wiki/Financial_Times
+↑,#cite_ref-255
+"""National Cyber Strategy of the United States of America""",https://digital.library.unt.edu/ark:/67531/metadc1259394/
+↑,#cite_ref-256
+"""Biden Adviser On Cyber Threats And The New Executive Order To Combat Them""",https://www.npr.org/2021/05/13/996617560/biden-advisor-on-cyber-threats-and-the-new-executive-order-to-combat-them
+NPR,https://en.wikipedia.org/wiki/NPR
+↑,#cite_ref-257
+Executive Order on Improving the Nation's Cybersecurity,https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+↑,#cite_ref-258
+"""National security strategy""",https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf
+↑,#cite_ref-259
+"""National Cyber Security Division""",https://web.archive.org/web/20080611210347/https://www.dhs.gov/xabout/structure/editorial_0839.shtm
+the original,https://www.dhs.gov/xabout/structure/editorial_0839.shtm
+1,#cite_ref-CSRDC-FAQ_260-0
+2,#cite_ref-CSRDC-FAQ_260-1
+"""FAQ: Cyber Security R&D Center""",http://www.cyber.st.dhs.gov/faq.html
+Archived,https://web.archive.org/web/20081006042850/http://www.cyber.st.dhs.gov/faq.html
+↑,#cite_ref-261
+↑,#cite_ref-262
+"""Federal Bureau of Investigation – Priorities""",https://www.fbi.gov/about-us/quick-facts
+Archived,https://web.archive.org/web/20160711053557/https://www.fbi.gov/about-us/quick-facts
+↑,#cite_ref-263
+"""Internet Crime Complaint Center (IC3) – Home""",https://www.ic3.gov/default.aspx
+Archived,https://web.archive.org/web/20111120021742/http://www.ic3.gov/default.aspx
+↑,#cite_ref-264
+"""Infragard, Official Site""",http://www.infragard.net/
+Archived,https://web.archive.org/web/20100909051004/http://www.infragard.net/
+↑,#cite_ref-265
+"""Robert S. Mueller, III – InfraGard Interview at the 2005 InfraGard Conference""",https://web.archive.org/web/20110617004540/http://www.infragard.net/media/files/dir_med.mov
+the original,http://www.infragard.net/media/files/dir_med.mov
+↑,#cite_ref-266
+"""CCIPS""",https://www.cybercrime.gov/
+Archived,https://web.archive.org/web/20060823173821/http://www.cybercrime.gov/
+↑,#cite_ref-267
+"""A Framework for a Vulnerability Disclosure Program for Online Systems""",https://www.justice.gov/criminal-ccips/page/file/983996/download
+↑,#cite_ref-268
+"""Mission and Vision""",https://www.cybercom.mil/About/Mission-and-Vision/
+dead link,https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+↑,#cite_ref-269
+Remarks at the Defense Information Technology Acquisition Summit,https://web.archive.org/web/20100415113237/http://www.defense.gov/speeches/speech.aspx?speechid=1399
+the original,https://www.defense.gov/speeches/speech.aspx?speechid=1399
+↑,#cite_ref-270
+"""Military's Cyber Commander Swears: ""No Role"" in Civilian Networks""",https://web.archive.org/web/20101106032102/http://www.brookings.edu/opinions/2010/0923_military_internet_shachtman.aspx
+the original,http://www.brookings.edu/opinions/2010/0923_military_internet_shachtman.aspx
+↑,#cite_ref-271
+"""FCC Cybersecurity""",https://web.archive.org/web/20100527095750/http://www.fcc.gov/pshs/emergency-information/cybersecurity.html
+the original,https://www.fcc.gov/pshs/emergency-information/cybersecurity.html
+↑,#cite_ref-272
+"""Cybersecurity for Medical Devices and Hospital Networks: FDA Safety Communication""",https://web.archive.org/web/20160528153847/https://www.fda.gov/medicaldevices/safety/alertsandnotices/ucm356423.htm
+Food and Drug Administration,https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+the original,https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm356423.htm
+↑,#cite_ref-273
+"""Automotive Cybersecurity – National Highway Traffic Safety Administration (NHTSA)""",https://web.archive.org/web/20160525195552/http://www.nhtsa.gov/Research/Crash+Avoidance/Automotive+Cybersecurity
+the original,https://www.nhtsa.gov/Research/Crash+Avoidance/Automotive+Cybersecurity
+↑,#cite_ref-274
+Air Traffic Control: FAA Needs a More Comprehensive Approach to Address Cybersecurity As Agency Transitions to NextGen,http://www.gao.gov/products/GAO-15-370
+Archived,https://web.archive.org/web/20160613150636/http://www.gao.gov/products/GAO-15-370
+↑,#cite_ref-275
+"""FAA Working on New Guidelines for Hack-Proof Planes""",http://www.nextgov.com/cybersecurity/2016/03/faa-has-started-shaping-cybersecurity-regulations/126449/
+Archived,https://web.archive.org/web/20160519181332/http://www.nextgov.com/cybersecurity/2016/03/faa-has-started-shaping-cybersecurity-regulations/126449/
+↑,#cite_ref-276
+"""Protecting Civil Aviation from Cyberattacks""",https://www.fas.org/sgp/crs/homesec/IN10296.pdf
+Archived,https://web.archive.org/web/20161017100306/https://www.fas.org/sgp/crs/homesec/IN10296.pdf
+↑,#cite_ref-277
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.21125/edulearn.2019.1914,https://doi.org/10.21125%2Fedulearn.2019.1914
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-84-09-12031-4,https://en.wikipedia.org/wiki/Special:BookSources/978-84-09-12031-4
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2340-1117,https://search.worldcat.org/issn/2340-1117
+↑,#cite_ref-278
+"""DHS launches national cyber alert system""","http://www.computerworld.com/securitytopics/security/story/0,10801,89488,00.html"
+Archived,"https://web.archive.org/web/20050831162039/http://www.computerworld.com/securitytopics/security/story/0,10801,89488,00.html"
+↑,#cite_ref-279
+Cyber Security Plan for Nuclear Power Reactors,https://www.nrc.gov/docs/ML1011/ML101180437.pdf
+↑,#cite_ref-280
+"""The new cyber arms race""",https://www.csmonitor.com/USA/Military/2011/0307/The-new-cyber-arms-race
+Archived,https://web.archive.org/web/20150416090310/http://www.csmonitor.com/USA/Military/2011/0307/The-new-cyber-arms-race
+↑,#cite_ref-281
+"""Obama to be urged to split cyberwar command from NSA""",https://web.archive.org/web/20170518193840/https://www.washingtonpost.com/world/national-security/obama-to-be-urged-to-split-cyberwar-command-from-the-nsa/2016/09/12/0ad09a22-788f-11e6-ac8e-cf8e0dd91dc7_story.html
+The Washington Post,https://en.wikipedia.org/wiki/The_Washington_Post
+the original,https://www.washingtonpost.com/world/national-security/obama-to-be-urged-to-split-cyberwar-command-from-the-nsa/2016/09/12/0ad09a22-788f-11e6-ac8e-cf8e0dd91dc7_story.html
+↑,#cite_ref-282
+"""The geopolitics of renewable energy: Debunking four emerging myths""",https://doi.org/10.1016%2Fj.erss.2018.10.018
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2019ERSS...49...36O,https://ui.adsabs.harvard.edu/abs/2019ERSS...49...36O
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1016/j.erss.2018.10.018,https://doi.org/10.1016%2Fj.erss.2018.10.018
+hdl,https://en.wikipedia.org/wiki/Hdl_(identifier)
+11250/2579292,https://hdl.handle.net/11250%2F2579292
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2214-6296,https://search.worldcat.org/issn/2214-6296
+↑,#cite_ref-283
+"""How We Stopped Worrying about Cyber Doom and Started Collecting Data""",https://doi.org/10.17645%2Fpag.v6i2.1368
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.17645/pag.v6i2.1368,https://doi.org/10.17645%2Fpag.v6i2.1368
+hdl,https://en.wikipedia.org/wiki/Hdl_(identifier)
+10945/60589,https://hdl.handle.net/10945%2F60589
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+2183-2463,https://search.worldcat.org/issn/2183-2463
+↑,#cite_ref-284
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1177/0095327x15572997,https://doi.org/10.1177%2F0095327x15572997
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+0095-327X,https://search.worldcat.org/issn/0095-327X
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+146145942,https://api.semanticscholar.org/CorpusID:146145942
+↑,#cite_ref-285
+Style and Statistics: The Art of Retail Analytics,https://onlinelibrary.wiley.com/doi/book/10.1002/9781119271260
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1002/9781119271260.ch8,https://doi.org/10.1002%2F9781119271260.ch8
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-119-27031-7,https://en.wikipedia.org/wiki/Special:BookSources/978-1-119-27031-7
+↑,#cite_ref-286
+"""Cybersecurity Skills Shortage Impact on Cloud Computing""",https://web.archive.org/web/20160323042705/http://www.networkworld.com/article/3045801/security/cybersecurity-skills-shortage-impact-on-cloud-computing.html
+the original,http://www.networkworld.com/article/3045801/security/cybersecurity-skills-shortage-impact-on-cloud-computing.html
+↑,#cite_ref-287
+"""Why is a Degree in Cyber Security one of the Best?""",https://web.archive.org/web/20211010052542/https://www.degreequery.com/why-is-a-degree-in-cyber-security-one-of-the-best/
+the original,https://www.degreequery.com/why-is-a-degree-in-cyber-security-one-of-the-best/
+↑,#cite_ref-288
+"""Government vs. Commerce: The Cyber Security Industry and You (Part One)""",http://www.defenceiq.com/defence-technology/articles/the-cyber-security-industry-and-you/
+Archived,https://web.archive.org/web/20140424200253/http://www.defenceiq.com/defence-technology/articles/the-cyber-security-industry-and-you/
+↑,#cite_ref-289
+"""Department of Computer Science""",https://web.archive.org/web/20130603085633/http://www.cs.gwu.edu/academics/graduate_programs/master/cybersecurity/cybersecurity-jobs
+the original,http://www.cs.gwu.edu/academics/graduate_programs/master/cybersecurity/cybersecurity-jobs
+↑,#cite_ref-290
+"""About Cyber Security architect""",https://www.cisa.gov/security-architect
+↑,#cite_ref-291
+"""How to become a Chief Information Security Officer (CISO)?""",https://web.archive.org/web/20220103085645/https://cybersecuritycareer.org/chief-information-security-officer-ciso/
+the original,https://cybersecuritycareer.org/chief-information-security-officer-ciso/
+↑,#cite_ref-292
+"""Data Protection Officers""",https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers/
+dead link,https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+↑,#cite_ref-293
+"""Student Cybersecurity Resources""",https://edit.niccs.us-cert.gov/audience/cybersecurity-students
+Archived,https://web.archive.org/web/20201105234726/https://niccs.cisa.gov/formal-education/students-launch-your-cyber-career
+↑,#cite_ref-294
+"""Current Job Opportunities at DHS""",https://www.dhs.gov/join-dhs-cybersecurity
+Archived,https://web.archive.org/web/20130502135412/http://www.dhs.gov/join-dhs-cybersecurity
+↑,#cite_ref-295
+"""Cybersecurity Training & Exercises""",https://www.dhs.gov/cybersecurity-training-exercises
+Archived,https://web.archive.org/web/20150107111146/http://www.dhs.gov/cybersecurity-training-exercises
+↑,#cite_ref-296
+"""Cyber Security Awareness Free Training and Webcasts""",https://msisac.cisecurity.org/resources/videos/free-training.cfm
+Archived,https://web.archive.org/web/20150106064140/http://msisac.cisecurity.org/resources/videos/free-training.cfm
+↑,#cite_ref-297
+"""DoD Approved 8570 Baseline Certifications""",https://web.archive.org/web/20161021073353/http://iase.disa.mil/iawip/Pages/iabaseline.aspx
+the original,http://iase.disa.mil/iawip/Pages/iabaseline.aspx
+↑,#cite_ref-298
+"""The UK Cyber Security Strategy: Report on Progress and Forward Plans December 2014""",https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/386093/The_UK_Cyber_Security_Strategy_Report_on_Progress_and_Forward_Plans_-_De___.pdf
+Archived,https://web.archive.org/web/20180418230804/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/386093/The_UK_Cyber_Security_Strategy_Report_on_Progress_and_Forward_Plans_-_De___.pdf
+↑,#cite_ref-299
+"""Cyber skills for a vibrant and secure UK""",https://www.gov.uk/government/news/cyber-skills-for-a-vibrant-and-secure-uk
+↑,#cite_ref-300
+"""Singapore Operational Technology (OT) Cybersecurity Competency Framework""",https://web.archive.org/web/20211016185633/https://www.csa.gov.sg/News/Press-Releases/singapore-operational-technology-cybersecurity-competency-framework
+the original,https://www.csa.gov.sg/News/Press-Releases/singapore-operational-technology-cybersecurity-competency-framework
+↑,#cite_ref-301
+"""Confidentiality""",http://medical-dictionary.thefreedictionary.com/confidentiality
+↑,#cite_ref-302
+"""Data Integrity""",http://www.businessdictionary.com/definition/data-integrity.html
+Archived,https://web.archive.org/web/20111106055944/http://www.businessdictionary.com/definition/data-integrity.html
+↑,#cite_ref-303
+"""Endpoint Security""",http://www.webopedia.com/TERM/E/endpoint_security.html
+Archived,https://web.archive.org/web/20140316021605/http://www.webopedia.com/TERM/E/endpoint_security.html
+↑,#cite_ref-304
+"""A Brief History of the Cybersecurity Profession""",https://www.isaca.org/resources/news-and-trends/industry-news/2022/a-brief-history-of-the-cybersecurity-profession
+↑,#cite_ref-305
+"""One step ahead in computing security""",https://www.rit.edu/news/one-step-ahead-computing-security
+1,#cite_ref-MAHC.2016.48_306-0
+2,#cite_ref-MAHC.2016.48_306-1
+"""Computer Security Discourse at RAND, SDC, and NSA (1958-1970)""",https://dl.acm.org/doi/10.1109/MAHC.2016.48
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2016IAHC...38d..12M,https://ui.adsabs.harvard.edu/abs/2016IAHC...38d..12M
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/MAHC.2016.48,https://doi.org/10.1109%2FMAHC.2016.48
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+17609542,https://api.semanticscholar.org/CorpusID:17609542
+↑,#cite_ref-307
+"""Post-processing audit tools and techniques""",https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-19.pdf
+Archived,https://web.archive.org/web/20161010044638/http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-19.pdf
+↑,#cite_ref-308
+"""How NIST can protect the CIA triad, including the often overlooked 'I' – integrity""",https://web.archive.org/web/20221126181307/https://blog.itgovernanceusa.com/blog/how-nist-can-protect-the-cia-triad-including-the-often-overlooked-i-integrity
+the original,https://blog.itgovernanceusa.com/blog/how-nist-can-protect-the-cia-triad-including-the-often-overlooked-i-integrity
+↑,#cite_ref-309
+"""The CIA Triad""",https://www.techrepublic.com/blog/security/the-cia-triad/488
+↑,#cite_ref-310
+Engineering Principles for Information Technology Security,http://csrc.nist.gov/publications/nistpubs/800-27A/SP800-27-RevA.pdf
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.6028/NIST.SP.800-27rA,https://doi.org/10.6028%2FNIST.SP.800-27rA
+Archived,https://web.archive.org/web/20041012074937/http://csrc.nist.gov/publications/nistpubs/800-27A/SP800-27-RevA.pdf
+↑,#cite_ref-311
+Bibcode,https://en.wikipedia.org/wiki/Bibcode_(identifier)
+2015IAHC...37b..46Y,https://ui.adsabs.harvard.edu/abs/2015IAHC...37b..46Y
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1109/MAHC.2015.21,https://doi.org/10.1109%2FMAHC.2015.21
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1934-1547,https://search.worldcat.org/issn/1934-1547
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+18929482,https://api.semanticscholar.org/CorpusID:18929482
+↑,#cite_ref-312
+"""A Brief History of Computer Viruses & What the Future Holds""",https://www.kaspersky.com/resource-center/threats/a-brief-history-of-computer-viruses-and-what-the-future-holds
+↑,#cite_ref-313
+"""Interview with Ray Tomlinson on Creeper/Reaper""",https://www.osnews.com/story/29157/interview-with-ray-tomlinson-on-creeperreaper/
+↑,#cite_ref-314
+"""First incident of cyber-espionage""",https://www.guinnessworldrecords.com/world-records/612868-first-incident-of-cyber-espionage
+↑,#cite_ref-315
+"""The Morris Worm - 30 Years Since First Major Attack on the Internet""",https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218
+1,#cite_ref-:0_316-0
+2,#cite_ref-:0_316-1
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-471-68996-6,https://en.wikipedia.org/wiki/Special:BookSources/978-0-471-68996-6
+↑,#cite_ref-317
+"""1993: Mosaic Launches and the Web is Set Free""",https://web.archive.org/web/20240612123716/https://webdevelopmenthistory.com/1993-mosaic-launches-and-the-web-is-set-free/
+the original,https://webdevelopmenthistory.com/1993-mosaic-launches-and-the-web-is-set-free/
+↑,#cite_ref-318
+"""Web Design Museum - Netscape Navigator 2.0""",https://www.webdesignmuseum.org/web-design-history/netscape-navigator-2-0-1995
+↑,#cite_ref-319
+"""Bush Order Expands Network Monitoring: Intelligence Agencies to Track Intrusions""",https://www.washingtonpost.com/wp-dyn/content/article/2008/01/25/AR2008012503261_pf.html
+1,#cite_ref-perlroth_320-0
+2,#cite_ref-perlroth_320-1
+"""How the U.S. Lost to Hackers""",https://ghostarchive.org/archive/20211228/https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html
+The New York Times,https://en.wikipedia.org/wiki/The_New_York_Times
+the original,https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html
+↑,#cite_ref-321
+"""How Chinese Spies Got the N.S.A.'s Hacking Tools, and Used Them for Attacks""",https://www.nytimes.com/2019/05/06/us/politics/china-hacking-cyber.html
+↑,#cite_ref-322
+"""The Strange Journey of an NSA Zero-Day—Into Multiple Enemies' Hands""",https://www.wired.com/story/nsa-zero-day-symantec-buckeye-china/
+↑,#cite_ref-323
+"""Ex-U.S. intel operatives admit hacking American networks for UAE""",https://www.reuters.com/world/us/american-hacker-mercenaries-face-us-charges-work-uae-2021-09-14/
+edit,/w/index.php?title=Computer_security&action=edit&section=82
+Library resources,https://en.wikipedia.org/wiki/Wikipedia:The_Wikipedia_Library
+Resources in your library,https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Computer+security
+Resources in other libraries,https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Computer+security&library=0CHOOSE0
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1017/s002081832000051x,https://doi.org/10.1017%2Fs002081832000051x
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+0020-8183,https://search.worldcat.org/issn/0020-8183
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+224886794,https://api.semanticscholar.org/CorpusID:224886794
+Cybersecurity: A Generic Reference Curriculum,https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2016_10/20161025_1610-cybersecurity-curriculum.pdf
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-92-845-0196-0,https://en.wikipedia.org/wiki/Special:BookSources/978-92-845-0196-0
+Archived,https://web.archive.org/web/20170310031437/http://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2016_10/20161025_1610-cybersecurity-curriculum.pdf
+"""The Roots of the United States' Cyber (In)Security""",https://eprints.soton.ac.uk/407741/3/Fuller_Roots_of_Cyber_Insecurity_clean_images.doc
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1093/dh/dhy038,https://doi.org/10.1093%2Fdh%2Fdhy038
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+0145-2096,https://search.worldcat.org/issn/0145-2096
+"""Ex-IDF cyber intel. official reveals secrets behind cyber offense""",https://www.jpost.com/israel-news/ex-idf-cyber-intel-official-how-to-carry-out-a-cyber-offense-attack-677173
+CreateSpace Independent Publishing Platform,https://en.wikipedia.org/wiki/CreateSpace_Independent_Publishing_Platform
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-4949-3263-3,https://en.wikipedia.org/wiki/Special:BookSources/978-1-4949-3263-3
+"Lee, Newton",https://en.wikipedia.org/wiki/Newton_Lee
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-3-319-17243-9,https://en.wikipedia.org/wiki/Special:BookSources/978-3-319-17243-9
+"""Cybersecurity and Liability in a Big Data World""",https://revistas.ucp.pt/index.php/mclawreview/article/view/325
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.2139/ssrn.3220475,https://doi.org/10.2139%2Fssrn.3220475
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1556-5068,https://search.worldcat.org/issn/1556-5068
+S2CID,https://en.wikipedia.org/wiki/S2CID_(identifier)
+216704215,https://api.semanticscholar.org/CorpusID:216704215
+SSRN,https://en.wikipedia.org/wiki/SSRN_(identifier)
+3220475,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3220475
+"""Enterprise information security, a review of architectures and frameworks from interoperability perspective""",https://doi.org/10.1016%2Fj.procs.2010.12.089
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.1016/j.procs.2010.12.089,https://doi.org/10.1016%2Fj.procs.2010.12.089
+ISSN,https://en.wikipedia.org/wiki/ISSN_(identifier)
+1877-0509,https://search.worldcat.org/issn/1877-0509
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-0-19-991811-9,https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-991811-9
+ISBN,https://en.wikipedia.org/wiki/ISBN_(identifier)
+978-1-4665-7213-3,https://en.wikipedia.org/wiki/Special:BookSources/978-1-4665-7213-3
+"""Cybersecurity Best Practices""",https://web.archive.org/web/20240425044015/https://www.cisa.gov/topics/cybersecurity-best-practices
+the original,https://www.cisa.gov/topics/cybersecurity-best-practices
+doi,https://en.wikipedia.org/wiki/Doi_(identifier)
+10.3390/s23052778,https://doi.org/10.3390%2Fs23052778
+Computer security,https://en.wikiquote.org/wiki/Special:Search/Computer%20security
+Computer security,https://commons.wikimedia.org/wiki/Category:Computer%20security
+v,https://en.wikipedia.org/wiki/Template:Information_security
+t,https://en.wikipedia.org/wiki/Template_talk:Information_security
+e,https://en.wikipedia.org/wiki/Special:EditPage/Template:Information_security
+Information security,https://en.wikipedia.org/wiki/Information_security
+Threats,https://en.wikipedia.org/wiki/Threat_(computer)
+Adware,https://en.wikipedia.org/wiki/Adware
+Advanced persistent threat,https://en.wikipedia.org/wiki/Advanced_persistent_threat
+Arbitrary code execution,https://en.wikipedia.org/wiki/Arbitrary_code_execution
+Backdoors,https://en.wikipedia.org/wiki/Backdoor_(computing)
+Fork,https://en.wikipedia.org/wiki/Fork_bomb
+Logic,https://en.wikipedia.org/wiki/Logic_bomb
+Time,https://en.wikipedia.org/wiki/Time_bomb_(software)
+Zip,https://en.wikipedia.org/wiki/Zip_bomb
+Hardware backdoors,https://en.wikipedia.org/wiki/Hardware_backdoor
+Code injection,https://en.wikipedia.org/wiki/Code_injection
+Crimeware,https://en.wikipedia.org/wiki/Crimeware
+Cross-site scripting,https://en.wikipedia.org/wiki/Cross-site_scripting
+Cross-site leaks,https://en.wikipedia.org/wiki/Cross-site_leaks
+DOM clobbering,https://en.wikipedia.org/wiki/DOM_clobbering
+History sniffing,https://en.wikipedia.org/wiki/History_sniffing
+Cryptojacking,https://en.wikipedia.org/wiki/Cryptojacking
+Botnets,https://en.wikipedia.org/wiki/Botnet
+Data breach,https://en.wikipedia.org/wiki/Data_breach
+Drive-by download,https://en.wikipedia.org/wiki/Drive-by_download
+Browser Helper Objects,https://en.wikipedia.org/wiki/Browser_Helper_Object
+Viruses,https://en.wikipedia.org/wiki/Computer_virus
+Data scraping,https://en.wikipedia.org/wiki/Data_scraping
+Denial-of-service attack,https://en.wikipedia.org/wiki/Denial-of-service_attack
+Eavesdropping,https://en.wikipedia.org/wiki/Eavesdropping
+Email fraud,https://en.wikipedia.org/wiki/Email_fraud
+Email spoofing,https://en.wikipedia.org/wiki/Email_spoofing
+Exploits,https://en.wikipedia.org/wiki/Exploit_(computer_security)
+Fraudulent dialers,https://en.wikipedia.org/wiki/Dialer#Fraudulent_dialer
+Hacktivism,https://en.wikipedia.org/wiki/Hacktivism
+Infostealer,https://en.wikipedia.org/wiki/Infostealer
+Insecure direct object reference,https://en.wikipedia.org/wiki/Insecure_direct_object_reference
+Keystroke loggers,https://en.wikipedia.org/wiki/Keystroke_logging
+Malware,https://en.wikipedia.org/wiki/Malware
+Payload,https://en.wikipedia.org/wiki/Payload_(computing)
+Phishing,https://en.wikipedia.org/wiki/Phishing
+Voice,https://en.wikipedia.org/wiki/Voice_phishing
+Polymorphic engine,https://en.wikipedia.org/wiki/Polymorphic_engine
+Privilege escalation,https://en.wikipedia.org/wiki/Privilege_escalation
+Ransomware,https://en.wikipedia.org/wiki/Ransomware
+Rootkits,https://en.wikipedia.org/wiki/Rootkit
+Scareware,https://en.wikipedia.org/wiki/Scareware
+Shellcode,https://en.wikipedia.org/wiki/Shellcode
+Spamming,https://en.wikipedia.org/wiki/Spamming
+Social engineering,https://en.wikipedia.org/wiki/Social_engineering_(security)
+Spyware,https://en.wikipedia.org/wiki/Spyware
+Software bugs,https://en.wikipedia.org/wiki/Software_bug
+Trojan horses,https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+Hardware Trojans,https://en.wikipedia.org/wiki/Hardware_Trojan
+Remote access trojans,https://en.wikipedia.org/wiki/Remote_access_trojan
+Vulnerability,https://en.wikipedia.org/wiki/Vulnerability_(computer_security)
+Web shells,https://en.wikipedia.org/wiki/Web_shell
+Wiper,https://en.wikipedia.org/wiki/Wiper_(malware)
+Worms,https://en.wikipedia.org/wiki/Computer_worm
+SQL injection,https://en.wikipedia.org/wiki/SQL_injection
+Rogue security software,https://en.wikipedia.org/wiki/Rogue_security_software
+Zombie,https://en.wikipedia.org/wiki/Zombie_(computing)
+Application security,https://en.wikipedia.org/wiki/Application_security
+Secure coding,https://en.wikipedia.org/wiki/Secure_coding
+Secure by design,https://en.wikipedia.org/wiki/Secure_by_design
+Misuse case,https://en.wikipedia.org/wiki/Misuse_case
+Computer access control,https://en.wikipedia.org/wiki/Computer_access_control
+Authentication,https://en.wikipedia.org/wiki/Authentication
+Multi-factor authentication,https://en.wikipedia.org/wiki/Multi-factor_authentication
+Authorization,https://en.wikipedia.org/wiki/Authorization
+Computer security software,https://en.wikipedia.org/wiki/Computer_security_software
+Antivirus software,https://en.wikipedia.org/wiki/Antivirus_software
+Security-focused operating system,https://en.wikipedia.org/wiki/Security-focused_operating_system
+Data-centric security,https://en.wikipedia.org/wiki/Data-centric_security
+Software obfuscation,https://en.wikipedia.org/wiki/Obfuscation_(software)
+Data masking,https://en.wikipedia.org/wiki/Data_masking
+Encryption,https://en.wikipedia.org/wiki/Encryption
+Firewall,https://en.wikipedia.org/wiki/Firewall_(computing)
+Intrusion detection system,https://en.wikipedia.org/wiki/Intrusion_detection_system
+Host-based intrusion detection system,https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system
+Anomaly detection,https://en.wikipedia.org/wiki/Anomaly_detection
+Information security management,https://en.wikipedia.org/wiki/Information_security_management
+Information risk management,https://en.wikipedia.org/wiki/Information_risk_management
+Security information and event management,https://en.wikipedia.org/wiki/Security_information_and_event_management
+Runtime application self-protection,https://en.wikipedia.org/wiki/Runtime_application_self-protection
+Site isolation,https://en.wikipedia.org/wiki/Site_isolation
+Scrubber Center,https://en.wikipedia.org/wiki/Scrubber_Center
+Cybersecurity,https://en.wikipedia.org/wiki/Computer_security
+Application security,https://en.wikipedia.org/wiki/Application_security
+Cloud computing security,https://en.wikipedia.org/wiki/Cloud_computing_security
+Cryptography,https://en.wikipedia.org/wiki/Cryptography
+Data security,https://en.wikipedia.org/wiki/Data_security
+Digital forensics,https://en.wikipedia.org/wiki/Digital_forensics
+"Governance, risk, and compliance","https://en.wikipedia.org/wiki/Governance,_risk,_and_compliance"
+Identity and access management,https://en.wikipedia.org/wiki/Identity_and_access_management
+Malware analysis and reverse engineering,https://en.wikipedia.org/wiki/Malware_analysis
+Network security,https://en.wikipedia.org/wiki/Network_security
+OT/ICS security,https://en.wikipedia.org/wiki/Control_system_security
+Penetration testing,https://en.wikipedia.org/wiki/Penetration_test
+Security architecture and engineering,https://en.wikipedia.org/wiki/Security_engineering
+Security operations,https://en.wikipedia.org/wiki/Information_security_operations_center
+Threat intelligence,https://en.wikipedia.org/wiki/Cyber_threat_intelligence
+Vulnerability management,https://en.wikipedia.org/wiki/Vulnerability_management
+Computer security,https://en.wikipedia.org/wiki/Computer_security
+Automotive security,https://en.wikipedia.org/wiki/Automotive_security
+Cybercrime,https://en.wikipedia.org/wiki/Cybercrime
+Cybersex trafficking,https://en.wikipedia.org/wiki/Cybersex_trafficking
+Computer fraud,https://en.wikipedia.org/wiki/Computer_fraud
+Cybergeddon,https://en.wikipedia.org/wiki/Cybergeddon
+Cyberterrorism,https://en.wikipedia.org/wiki/Cyberterrorism
+Cyberwarfare,https://en.wikipedia.org/wiki/Cyberwarfare
+Electronic warfare,https://en.wikipedia.org/wiki/Electronic_warfare
+Information warfare,https://en.wikipedia.org/wiki/Information_warfare
+Internet security,https://en.wikipedia.org/wiki/Internet_security
+Mobile security,https://en.wikipedia.org/wiki/Mobile_security
+Copy protection,https://en.wikipedia.org/wiki/Copy_protection
+Digital rights management,https://en.wikipedia.org/wiki/Digital_rights_management
+v,https://en.wikipedia.org/wiki/Template:Computer_science
+t,https://en.wikipedia.org/wiki/Template_talk:Computer_science
+e,https://en.wikipedia.org/wiki/Special:EditPage/Template:Computer_science
+Computer science,https://en.wikipedia.org/wiki/Computer_science
+ACM Computing Classification System,https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+Hardware,https://en.wikipedia.org/wiki/Computer_hardware
+Printed circuit board,https://en.wikipedia.org/wiki/Printed_circuit_board
+Peripheral,https://en.wikipedia.org/wiki/Peripheral
+Integrated circuit,https://en.wikipedia.org/wiki/Integrated_circuit
+Very-large-scale integration,https://en.wikipedia.org/wiki/Very-large-scale_integration
+System on a chip,https://en.wikipedia.org/wiki/System_on_a_chip
+Energy consumption,https://en.wikipedia.org/wiki/Green_computing
+Electronic design automation,https://en.wikipedia.org/wiki/Electronic_design_automation
+Hardware acceleration,https://en.wikipedia.org/wiki/Hardware_acceleration
+Processor,https://en.wikipedia.org/wiki/Processor_(computing)
+Size,https://en.wikipedia.org/wiki/List_of_computer_size_categories
+Form,https://en.wikipedia.org/wiki/Form_factor_(design)
+Computer architecture,https://en.wikipedia.org/wiki/Computer_architecture
+Computational complexity,https://en.wikipedia.org/wiki/Computational_complexity
+Dependability,https://en.wikipedia.org/wiki/Dependability
+Embedded system,https://en.wikipedia.org/wiki/Embedded_system
+Real-time computing,https://en.wikipedia.org/wiki/Real-time_computing
+Cyber-physical system,https://en.wikipedia.org/wiki/Cyber-physical_system
+Fault tolerance,https://en.wikipedia.org/wiki/Fault_tolerance
+Wireless sensor network,https://en.wikipedia.org/wiki/Wireless_sensor_network
+Networks,https://en.wikipedia.org/wiki/Computer_network
+Network architecture,https://en.wikipedia.org/wiki/Network_architecture
+Network protocol,https://en.wikipedia.org/wiki/Communication_protocol
+Network components,https://en.wikipedia.org/wiki/Networking_hardware
+Network scheduler,https://en.wikipedia.org/wiki/Network_scheduler
+Network performance evaluation,https://en.wikipedia.org/wiki/Network_performance
+Network service,https://en.wikipedia.org/wiki/Network_service
+Interpreter,https://en.wikipedia.org/wiki/Interpreter_(computing)
+Middleware,https://en.wikipedia.org/wiki/Middleware
+Virtual machine,https://en.wikipedia.org/wiki/Virtual_machine
+Operating system,https://en.wikipedia.org/wiki/Operating_system
+Software quality,https://en.wikipedia.org/wiki/Software_quality
+Softwarenotations,https://en.wikipedia.org/wiki/Programming_language_theory
+tools,https://en.wikipedia.org/wiki/Programming_tool
+Programming paradigm,https://en.wikipedia.org/wiki/Programming_paradigm
+Programming language,https://en.wikipedia.org/wiki/Programming_language
+Compiler,https://en.wikipedia.org/wiki/Compiler_construction
+Domain-specific language,https://en.wikipedia.org/wiki/Domain-specific_language
+Modeling language,https://en.wikipedia.org/wiki/Modeling_language
+Software framework,https://en.wikipedia.org/wiki/Software_framework
+Integrated development environment,https://en.wikipedia.org/wiki/Integrated_development_environment
+Software configuration management,https://en.wikipedia.org/wiki/Software_configuration_management
+Software library,https://en.wikipedia.org/wiki/Library_(computing)
+Software repository,https://en.wikipedia.org/wiki/Software_repository
+Softwaredevelopment,https://en.wikipedia.org/wiki/Software_development
+Control flow,https://en.wikipedia.org/wiki/Control_flow
+Software development process,https://en.wikipedia.org/wiki/Software_development_process
+Requirements analysis,https://en.wikipedia.org/wiki/Requirements_analysis
+Software design,https://en.wikipedia.org/wiki/Software_design
+Software construction,https://en.wikipedia.org/wiki/Software_construction
+Software deployment,https://en.wikipedia.org/wiki/Software_deployment
+Software engineering,https://en.wikipedia.org/wiki/Software_engineering
+Software maintenance,https://en.wikipedia.org/wiki/Software_maintenance
+Programming team,https://en.wikipedia.org/wiki/Programming_team
+Open source,https://en.wikipedia.org/wiki/Open_source
+Theory ofcomputing,https://en.wikipedia.org/wiki/Theory_of_computation
+Model of computation,https://en.wikipedia.org/wiki/Model_of_computation
+Stochastic,https://en.wikipedia.org/wiki/Stochastic_computing
+Formal language,https://en.wikipedia.org/wiki/Formal_language
+Automata theory,https://en.wikipedia.org/wiki/Automata_theory
+Computability theory,https://en.wikipedia.org/wiki/Computability_theory
+Computational complexity theory,https://en.wikipedia.org/wiki/Computational_complexity_theory
+Logic,https://en.wikipedia.org/wiki/Logic_in_computer_science
+Semantics,https://en.wikipedia.org/wiki/Semantics_(computer_science)
+Algorithms,https://en.wikipedia.org/wiki/Algorithm
+Algorithm design,https://en.wikipedia.org/wiki/Algorithm_design
+Analysis of algorithms,https://en.wikipedia.org/wiki/Analysis_of_algorithms
+Algorithmic efficiency,https://en.wikipedia.org/wiki/Algorithmic_efficiency
+Randomized algorithm,https://en.wikipedia.org/wiki/Randomized_algorithm
+Computational geometry,https://en.wikipedia.org/wiki/Computational_geometry
+computing,https://en.wikipedia.org/wiki/Computing
+Discrete mathematics,https://en.wikipedia.org/wiki/Discrete_mathematics
+Probability,https://en.wikipedia.org/wiki/Probability
+Statistics,https://en.wikipedia.org/wiki/Statistics
+Mathematical software,https://en.wikipedia.org/wiki/Mathematical_software
+Information theory,https://en.wikipedia.org/wiki/Information_theory
+Mathematical analysis,https://en.wikipedia.org/wiki/Mathematical_analysis
+Numerical analysis,https://en.wikipedia.org/wiki/Numerical_analysis
+Theoretical computer science,https://en.wikipedia.org/wiki/Theoretical_computer_science
+Computational problem,https://en.wikipedia.org/wiki/Computational_problem
+Informationsystems,https://en.wikipedia.org/wiki/Information_system
+Database,https://en.wikipedia.org/wiki/Database
+Information storage,https://en.wikipedia.org/wiki/Computer_data_storage
+Enterprise information,https://en.wikipedia.org/wiki/Enterprise_information_system
+Social information,https://en.wikipedia.org/wiki/Social_software
+Geographic information,https://en.wikipedia.org/wiki/Geographic_information_system
+Decision support,https://en.wikipedia.org/wiki/Decision_support_system
+Process control,https://en.wikipedia.org/wiki/Industrial_process_control
+Multimedia information,https://en.wikipedia.org/wiki/Multimedia_database
+Data mining,https://en.wikipedia.org/wiki/Data_mining
+Digital library,https://en.wikipedia.org/wiki/Digital_library
+Computing platform,https://en.wikipedia.org/wiki/Computing_platform
+Digital marketing,https://en.wikipedia.org/wiki/Digital_marketing
+World Wide Web,https://en.wikipedia.org/wiki/World_Wide_Web
+Information retrieval,https://en.wikipedia.org/wiki/Information_retrieval
+Security,https://en.wikipedia.org/wiki/Computer_security
+Cryptography,https://en.wikipedia.org/wiki/Cryptography
+Formal methods,https://en.wikipedia.org/wiki/Formal_methods
+Security hacker,https://en.wikipedia.org/wiki/Security_hacker
+Security services,https://en.wikipedia.org/wiki/Security_service_(telecommunication)
+Intrusion detection system,https://en.wikipedia.org/wiki/Intrusion_detection_system
+Hardware security,https://en.wikipedia.org/wiki/Hardware_security
+Network security,https://en.wikipedia.org/wiki/Network_security
+Information security,https://en.wikipedia.org/wiki/Information_security
+Application security,https://en.wikipedia.org/wiki/Application_security
+Human-centeredcomputing,https://en.wikipedia.org/wiki/Human-centered_computing
+Accessibility,https://en.wikipedia.org/wiki/Computer_accessibility
+Extended reality,https://en.wikipedia.org/wiki/Extended_reality
+augmented,https://en.wikipedia.org/wiki/Augmented_reality
+virtual,https://en.wikipedia.org/wiki/Virtual_reality
+Human–computer interaction,https://en.wikipedia.org/wiki/Human–computer_interaction
+Interaction design,https://en.wikipedia.org/wiki/Interaction_design
+Mobile computing,https://en.wikipedia.org/wiki/Mobile_computing
+Social computing,https://en.wikipedia.org/wiki/Social_computing
+Ubiquitous computing,https://en.wikipedia.org/wiki/Ubiquitous_computing
+Visualization,https://en.wikipedia.org/wiki/Visualization_(graphics)
+Concurrency,https://en.wikipedia.org/wiki/Concurrency_(computer_science)
+Concurrent computing,https://en.wikipedia.org/wiki/Concurrent_computing
+Parallel computing,https://en.wikipedia.org/wiki/Parallel_computing
+Distributed computing,https://en.wikipedia.org/wiki/Distributed_computing
+Multithreading,https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
+Multiprocessing,https://en.wikipedia.org/wiki/Multiprocessing
+Artificialintelligence,https://en.wikipedia.org/wiki/Artificial_intelligence
+Computational intelligence,https://en.wikipedia.org/wiki/Computational_intelligence
+Natural language processing,https://en.wikipedia.org/wiki/Natural_language_processing
+Knowledge representation and reasoning,https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+Computer vision,https://en.wikipedia.org/wiki/Computer_vision
+Automated planning and scheduling,https://en.wikipedia.org/wiki/Automated_planning_and_scheduling
+Search methodology,https://en.wikipedia.org/wiki/Mathematical_optimization
+Control method,https://en.wikipedia.org/wiki/Control_theory
+Philosophy of,https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence
+Distributed,https://en.wikipedia.org/wiki/Distributed_artificial_intelligence
+Machinelearning,https://en.wikipedia.org/wiki/Machine_learning
+Supervised,https://en.wikipedia.org/wiki/Supervised_learning
+Unsupervised,https://en.wikipedia.org/wiki/Unsupervised_learning
+Reinforcement,https://en.wikipedia.org/wiki/Reinforcement_learning
+Multi-task,https://en.wikipedia.org/wiki/Multi-task_learning
+Cross-validation,https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+Graphics,https://en.wikipedia.org/wiki/Computer_graphics
+Animation,https://en.wikipedia.org/wiki/Computer_animation
+Rendering,https://en.wikipedia.org/wiki/Rendering_(computer_graphics)
+Photograph manipulation,https://en.wikipedia.org/wiki/Photograph_manipulation
+Graphics processing unit,https://en.wikipedia.org/wiki/Graphics_processing_unit
+Image compression,https://en.wikipedia.org/wiki/Image_compression
+Solid modeling,https://en.wikipedia.org/wiki/Solid_modeling
+Quantum computing,https://en.wikipedia.org/wiki/Quantum_computing
+E-commerce,https://en.wikipedia.org/wiki/E-commerce
+Enterprise software,https://en.wikipedia.org/wiki/Enterprise_software
+Computational mathematics,https://en.wikipedia.org/wiki/Computational_mathematics
+Computational physics,https://en.wikipedia.org/wiki/Computational_physics
+Computational chemistry,https://en.wikipedia.org/wiki/Computational_chemistry
+Computational biology,https://en.wikipedia.org/wiki/Computational_biology
+Computational social science,https://en.wikipedia.org/wiki/Computational_social_science
+Computational engineering,https://en.wikipedia.org/wiki/Computational_engineering
+Differentiable computing,https://en.wikipedia.org/wiki/Template:Differentiable_computing
+Computational healthcare,https://en.wikipedia.org/wiki/Health_informatics
+Digital art,https://en.wikipedia.org/wiki/Digital_art
+Electronic publishing,https://en.wikipedia.org/wiki/Electronic_publishing
+Cyberwarfare,https://en.wikipedia.org/wiki/Cyberwarfare
+Electronic voting,https://en.wikipedia.org/wiki/Electronic_voting
+Video games,https://en.wikipedia.org/wiki/Video_game
+Word processing,https://en.wikipedia.org/wiki/Word_processor
+Operations research,https://en.wikipedia.org/wiki/Operations_research
+Educational technology,https://en.wikipedia.org/wiki/Educational_technology
+Document management,https://en.wikipedia.org/wiki/Document_management_system
+Outline,https://en.wikipedia.org/wiki/Outline_of_computer_science
+Glossaries,https://en.wikipedia.org/wiki/Template:Glossaries_of_computers
+Category,https://en.wikipedia.org/wiki/Category:Computer_science
+Authority control databases,https://en.wikipedia.org/wiki/Help:Authority_control
+GND,https://d-nb.info/gnd/4274324-2
+FAST,https://id.worldcat.org/fast/872484
+United States,https://id.loc.gov/authorities/sh90001862
+France,https://catalogue.bnf.fr/ark:/12148/cb13318381w
+BnF data,https://data.bnf.fr/ark:/12148/cb13318381w
+Japan,https://id.ndl.go.jp/auth/ndlna/01099801
+Czech Republic,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph165952&CON_LNG=ENG
+2,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph716242&CON_LNG=ENG
+Spain,https://datos.bne.es/resource/XX547879
+Poland,https://dbn.bn.org.pl/descriptor-details/9810597263005606
+Israel,https://www.nli.org.il/en/authorities/987007551323005171
+Yale LUX,https://lux.collections.yale.edu/view/concept/be230b24-cd2f-474d-b0fd-ca89f7df98a5
+https://en.wikipedia.org/w/index.php?title=Computer_security&oldid=1375882203,https://en.wikipedia.org/w/index.php?title=Computer_security&oldid=1375882203
+Categories,/wiki/Help:Category
+Computer security,/wiki/Category:Computer_security
+Computer security procedures,/wiki/Category:Computer_security_procedures
+Cryptography,/wiki/Category:Cryptography
+Cyberwarfare,/wiki/Category:Cyberwarfare
+Data protection,/wiki/Category:Data_protection
+Information governance,/wiki/Category:Information_governance
+Malware,/wiki/Category:Malware
+Articles with short description,/wiki/Category:Articles_with_short_description
+Short description is different from Wikidata,/wiki/Category:Short_description_is_different_from_Wikidata
+Use American English from August 2024,/wiki/Category:Use_American_English_from_August_2024
+All Wikipedia articles written in American English,/wiki/Category:All_Wikipedia_articles_written_in_American_English
+Use dmy dates from February 2021,/wiki/Category:Use_dmy_dates_from_February_2021
+Articles with Encyclopædia Britannica links,/wiki/Category:Articles_with_Encyclop%C3%A6dia_Britannica_links
+All articles with dead external links,/wiki/Category:All_articles_with_dead_external_links
+Articles with dead external links from November 2025,/wiki/Category:Articles_with_dead_external_links_from_November_2025
+Articles with dead external links from March 2026,/wiki/Category:Articles_with_dead_external_links_from_March_2026
+All articles with specifically marked weasel-worded phrases,/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases
+Articles with specifically marked weasel-worded phrases from December 2012,/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2012
+CS1 errors: deprecated parameters,/wiki/Category:CS1_errors:_deprecated_parameters
+Webarchive template wayback links,/wiki/Category:Webarchive_template_wayback_links
+All articles with vague or ambiguous time,/wiki/Category:All_articles_with_vague_or_ambiguous_time
+Vague or ambiguous time from September 2021,/wiki/Category:Vague_or_ambiguous_time_from_September_2021
+Articles with dead external links from May 2026,/wiki/Category:Articles_with_dead_external_links_from_May_2026
+Pages displaying short descriptions of redirect targets via Module:Annotated link,/wiki/Category:Pages_displaying_short_descriptions_of_redirect_targets_via_Module:Annotated_link
+Commons category link from Wikidata,/wiki/Category:Commons_category_link_from_Wikidata
+Articles prone to spam from November 2014,/wiki/Category:Articles_prone_to_spam_from_November_2014
+Parsoid,https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+Creative Commons Attribution-ShareAlike 4.0 License,/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+Terms of Use,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+Privacy Policy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+"Wikimedia Foundation, Inc.",https://wikimediafoundation.org/
+Privacy policy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+About Wikipedia,/wiki/Wikipedia:About
+Disclaimers,/wiki/Wikipedia:General_disclaimer
+Contact Wikipedia,//en.wikipedia.org/wiki/Wikipedia:Contact_us
+Legal & safety contacts,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+Code of Conduct,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+Developers,https://developer.wikimedia.org
+Statistics,https://stats.wikimedia.org/#/en.wikipedia.org
+Cookie statement,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+Mobile view,//en.wikipedia.org/w/index.php?title=Computer_security&mobileaction=toggle_view_mobile
+Add topic,#
