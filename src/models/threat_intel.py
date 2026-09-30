@@ -188,7 +188,7 @@ class ThreatAlert:
 # ---------------------------------------------------------------------------
 
 ATTACK_BASE_SEVERITY = {
-    "BENIGN":                       0.0,
+    "BENIGN":                       0.55,
     "FTP-Patator":                  0.55,
     "SSH-Patator":                  0.55,
     "DoS slowloris":                0.65,
